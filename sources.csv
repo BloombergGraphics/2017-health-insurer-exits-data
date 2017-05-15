@@ -1,0 +1,67 @@
+year,state,information,source_format,source,direct_email,notes,direct_url,url_landing_page
+2017,healthcare.gov,plans,socrata,healthcare.gov,,Retrieved April 2017,https://data.healthcare.gov/dataset/2017-QHP-Landscape-Individual-Market-Medical/enpz-m4q6,
+2017,healthcare.gov,county enrollment,.xlsx,CMS,,Excel file in zip,https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Marketplace-Products/Downloads/OE2017_COUNTY_PUF_FINAL.zip,https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Marketplace-Products/Plan_Selection_ZIP.html
+2016,healthcare.gov,county enrollment,socrata,CMS,,,https://data.cms.gov/Marketplace-Qualified-Health-Plan-QHP-/2016-Qualifying-Health-Plan-Selections-by-APTC-and/68bp-xniz,
+2015,healthcare.gov,county enrollment,socrata,CMS,,,https://data.cms.gov/Marketplace-Qualified-Health-Plan-QHP-/2015-Qualifying-Health-Plan-Selections-by-APTC-and/ir53-huib,
+2017,California,insurers,.xlsx,Covered California,,"Spreadsheet separates out by plan type (PPO, HMO, etc), I collapsed by insurer",http://hbex.coveredca.com/data-research/library/2017-Products-By-Zip-Code.xlsx,http://hbex.coveredca.com/data-research/
+2017,California,county enrollment,.xlsx,Covered California,,"In ""Statewide"" tab, ""County by subsidy"" table",http://hbex.coveredca.com/data-research/library/CC_Open_Enrollment_Profile_2017.xlsx,http://hbex.coveredca.com/data-research/
+2016,California,plans,PUF .xls,CMS,,2016 state-based marketplace PUFs,,https://www.cms.gov/CCIIO/Resources/Data-Resources/sbm-puf.html
+2014,California,insurers,.xlsx,Covered California,Combination of insurers by rating area and county enrollment by insurer,,,http://hbex.coveredca.com/data-research/
+2017,Colorado,insurers,.pdf,Colorado Department of Regulatory Agencies,,Parsed in Tabula,https://drive.google.com/file/d/0BwguXutc4vbpSzgwWjVjQXJFbGs/view,https://www.colorado.gov/dora/node/100241
+2017,Colorado,county enrollment,.xlsx,Connect for Health Colorado,,2016 and 2017 spreadsheet provided on 04/05/17 by email request,,
+2016,Colorado,plans,PUF .xls,CMS,,2016 state-based marketplace PUFs,,https://www.cms.gov/CCIIO/Resources/Data-Resources/sbm-puf.html
+2015,Colorado,plans,SERFF .xls,SERFF,,Downloaded & parsed all certified non-off-exchange-only SERFF filings,,https://filingaccess.serff.com/sfa/home/CO
+2014,Colorado,plans,SERFF .xls,SERFF,,Downloaded & parsed all certified non-off-exchange-only SERFF filings,,https://filingaccess.serff.com/sfa/home/CO
+2017,Connecticut,insurers,.pdf,Connecticut Insurance Department,,Also browsed as a 27 year old for each county to confirm that all insurers offered in all counties,http://www.ct.gov/cid/lib/cid/RateChart2017-Final.pdf,
+2017,Connecticut,county enrollment,.pdf,Access Health CT,,Slide 20; multiplied percentages by total CT open enrollment plan selections from CMS,http://agency.accesshealthct.com/wp-content/uploads//2017/02/AHCT-2017-Open-Enrollment-Summary-Report-1.pdf,
+2016,Connecticut,insurers,.pdf,Connecticut Insurance Department,,,http://www.ct.gov/cid/lib/cid/ratechart.pdf,
+2015,Connecticut,insurers,,,,,,
+2014,Connecticut,insurers,.pdf,Access Health CT,,,http://www.shadac.org/sites/default/files/Old_files/shadac/publications/CT_BoardofDirectorsSlides_5.22.14.pdf,
+2017,District of Columbia,insurers,.pdf,DC Health Link,,Got number of individual plans by insurer from pdf,https://disb.dc.gov/sites/default/files/dc/sites/disb/publication/attachments/2017%20QHP%20Rate%20Submission%20Data%20-%20Ind%20%28FINAL%29.pdf,
+2017,District of Columbia,county enrollment,.xlsx,CMS,,Used CMS state-level data for DC enrollment ,https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Marketplace-Products/Downloads/OE2017_STATE_PUF_FINAL.zip,https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Marketplace-Products/Plan_Selection_ZIP.html
+2016,District of Columbia,insurers,.pdf,DC Health Link,,,https://disb.dc.gov/sites/default/files/dc/sites/disb/publication/attachments/2016%20QHP%20Rate%20Submission%20Data%20-%20Ind%20as%20of%2010302015.pdf,https://disb.dc.gov/node/1064902
+2015,District of Columbia,insurers,.pdf,DC Health Link,,,https://disb.dc.gov/sites/default/files/dc/sites/disb/publication/attachments/9-15-14-Individual-Approved-Rates-for-Health-Insurance-Products-Sold-on-DC-Health-Link.pdf,
+2014,District of Columbia,insurers,.pdf,DC Health Link,,,https://disb.dc.gov/sites/default/files/dc/sites/disb/publication/attachments/FinalIndividualRates71913.pdf,
+2014,Hawaii,plans,.pdf,Hawaii Department of Commerce and Consumer Affairs,,,http://cca.hawaii.gov/ins/files/2013/12/Exchange-Premium-Comparisons-Ind-Rates-2014.pdf,
+2017,Idaho,plans,.xlsx,Idaho Department of Insurance,,Full QHP landscape file,http://www.doi.idaho.gov/Consumer/Docs/ID%202017%20QHP%20Landscape%20Data%20Tables%202016-10-20.zip,http://www.doi.idaho.gov/company/other/qhp.aspx
+2017,Idaho,county enrollment,.pdf,Your Health Idaho,1,"Data sent was point in time from December 2016, I multiplied county shares by total ID open enrollment plan selections from CMS to approximate full open enrollment numbers",,
+2016,Idaho,plans,.xlsx,Idaho Department of Insurance,,Full QHP landscape file,http://www.doi.idaho.gov/Consumer/Docs/ID%202016%20QHP%20Landscape%20Data%20Tables%202015-11-18.zip,http://www.doi.idaho.gov/company/other/qhp.aspx
+2015,Idaho,plans,.xlsx,Idaho Department of Insurance,,Full QHP landscape file,http://www.doi.idaho.gov/Consumer/Docs/ID%202015%20QHP%20Landscape%20Data%20Tables%202014-12-12.zip,http://www.doi.idaho.gov/company/other/qhp.aspx
+2016,Kentucky,insurers,.pdf,Kentucky Health Benefits Exchange,,Parsed in Tabula,http://healthbenefitexchange.ky.gov/Documents/Plans%20offered%20on%20kynect%20in%202016.pdf,
+2015,Kentucky,insurers,.pdf,Kentucky Health Benefits Exchange,,,http://healthbenefitexchange.ky.gov/Documents/Individual%20Medical%20Plans%20offered%20on%20kynect%20in%202015.pdf,
+2017,Maryland,insurers,plan browser,MD Health Connection,,Browsed as a 27 year old for each county; data also provided via email,https://secure.marylandhealthconnection.gov/AHCT/LandingPageCTHIX,
+2017,Maryland,county enrollment,.pdf,Maryland Health Benefits Exchange,,Parsed in Tabula,http://www.marylandhbe.com/wp-content/uploads/2017/01/020117_OE4Count.pdf,
+2016,Maryland,plans,PUF .xls,CMS,,2016 state-based marketplace PUFs,,https://www.cms.gov/CCIIO/Resources/Data-Resources/sbm-puf.html
+2015,Maryland,insurers,.xlsx,MD Health Connection,1,Insurers by county provided via email,,
+2017,Massachusetts,insurers,.xlsx,MA Health Connector,1,"Provided via email by rating area, I mapped to counties",,
+2017,Massachusetts,county enrollment,.xlsx,MA Health Connector,1,"Provided via email; effectuated enrollment as of Feb. 2, 2017",,
+2016,Massachusetts,insurers,.xlsx,MA Health Connector,1,"Provided via email by rating area, I mapped to counties",,
+2015,Massachusetts,insurers,.xlsx,MA Health Connector,1,"Provided via email by rating area, I mapped to counties",,
+2014,Massachusetts,insurers,.xlsx,MA Health Connector,1,"Provided via email by rating area, I mapped to counties",,
+2017,Minnesota,plans,.xlsx,MNSure,,,https://www.mnsure.org/assets/individual-service-areas-provider-lookup-2017-current-customers_tcm34-262838.xls,
+2017,Minnesota,county enrollment,.docx,MNSure,1,"Data provided via email as table in Word doc, I copied into Excel and saved as .csv for parsing",,
+2016,Minnesota,plans,.xlsx,MNSure,,,https://www.mnsure.org/assets/Individual-ServiceAreas-ProviderLook-up-2016_tcm34-182254.xls,
+2015,Minnesota,plans,.xlsx,MNSure,,,https://www.mnsure.org/assets/Individual-ServiceAreas-ProviderLook-up_tcm34-182255.xls,
+2014,Minnesota,plans,SERFF .xls,SERFF,,Downloaded & parsed all certified non-off-exchange-only SERFF filings,,https://filingaccess.serff.com/sfa/home/MN
+2017,New York,insurers,.pdf,NY State of Health,,Parsed in Tabula,https://info.nystateofhealth.ny.gov/sites/default/files/2017%20Individual%20Marketplace%20Plans%20by%20county.pdf,
+2017,New York,county enrollment,.pdf,NY State of Health,,Parsed in Tabula,https://info.nystateofhealth.ny.gov/sites/default/files/2017%20OEP%20Number%20of%20Enrollees%2C%20By%20Program%20and%20County_0.pdf,
+2016,New York,insurers,.pdf,NY State of Health,,Parsed in Tabula,https://info.nystateofhealth.ny.gov/sites/default/files/2016%20Individual%20Marketplace%20Plans%20by%20county_0.pdf,
+2015,New York,insurers,.pdf,NY State of Health,,Parsed in Tabula,https://info.nystateofhealth.ny.gov/sites/default/files/2015%20Medical%20Plans%20by%20County%20-%20Individual%2C%20Nov%202015_0.pdf,
+2014,New York,insurers,.pdf,NY State of Health,,Parsed in Tabula,https://info.nystateofhealth.ny.gov/sites/default/files/Certified%20Plans%20by%20Counties%20and%20Boroughs%2C%205-22-14.pdf,
+2014,Nevada,plans,.pdf,Nevada Division of Insurance,,"Used browsing tool to download PDF for all counties, 2014, on exchange, age 27, parsed in Tabula",http://healthrates.doi.nv.gov/Wizard.aspx?type=Individual,
+2014,Oregon,plans,SERFF .xls,SERFF,,Downloaded & parsed all certified non-off-exchange-only SERFF filings,https://filingaccess.serff.com/sfa/home/OR,
+2017,Rhode Island,plans,.pdf,HealthSource RI,,Single service area,http://healthsourceri.com/wp-content/uploads/2016/11/2017Individual-Plan-Rates-by-age_11102016-1.pdf,http://healthsourceri.com/individuals-and-families/2017-health-dental-plans/
+2017,Rhode Island,county enrollment,table in email body,HealthSource RI,1,Provided via email; effectuated enrollment as of 01/31/17,,
+2016,Rhode Island,plans,.pdf,HealthSource RI,,Single service area,http://healthsourceri.com/wp-content/uploads/2016/03/2016-Rates-by-age-Ind-Fam-032416.pdf,http://healthsourceri.com/individuals-and-families/2016-health-insurance-plans/
+2015,Rhode Island,insurers,.pdf,HealthSource RI,,2016 OEP report lists 2014-2016 insurers,http://healthsourceri.com/wp-content/uploads/2016/07/OE3Report_Final_07212016.pdf,
+2014,Rhode Island,insurers,.pdf,HealthSource RI,,2017 OEP report lists 2014-2016 insurers,http://healthsourceri.com/wp-content/uploads/2016/07/OE3Report_Final_07212016.pdf,
+2017,Vermont,plans,.pdf,Vermonth Health Connect,,Single service area,http://info.healthconnect.vermont.gov/sites/hcexchange/files/2017Plan%20Designs%20with%20Final%20Rates.pdf,http://info.healthconnect.vermont.gov/healthplans#PCB
+2017,Vermont,county enrollment,.pdf,Vermonth Health Connect,,Multiplied percentages by total VT open enrollment plan selections from CMS,http://info.healthconnect.vermont.gov/sites/hcexchange/files/Coverage%20Dashboard-February2017.pdf,
+2016,Vermont,plans,.pdf,Vermonth Health Connect,,Single service area,http://info.healthconnect.vermont.gov/sites/hcexchange/files/2016Plan%20Designs%20with%20Final%20Rates.pdf,http://info.healthconnect.vermont.gov/2016healthplans
+2015,Vermont,plans,.pdf,Vermonth Health Connect,,Single service area,http://info.healthconnect.vermont.gov/sites/hcexchange/files/2015Plan%20Designs%20with%20Final%20Rates.pdf,http://info.healthconnect.vermont.gov/2015healthplans
+2014,Vermont,plans,.pdf,Vermonth Health Connect,,Single service area,http://info.healthconnect.vermont.gov/sites/hcexchange/files/Plan%20Designs%20with%20Final%20Rates_updated_10%201%2013%20%282%29.pdf,http://info.healthconnect.vermont.gov/gmc
+2017,Washington,insurers,html list,Washington Health Benefits Exchange,,,https://www.wahbexchange.org/new-customers/coverage-basics/plans/#2017,
+2017,Washington,county enrollment,table in email body,Washington Health Benefits Exchange,1,,,
+2016,Washington,insurers,html list,Washington Health Benefits Exchange,,,https://www.wahbexchange.org/new-customers/coverage-basics/plans/#2016,
+2015,Washington,insurers,table in email body,Washington Health Benefits Exchange,1,,,
+2014,Washington,insurers,table in email body,Washington Health Benefits Exchange,1,,,

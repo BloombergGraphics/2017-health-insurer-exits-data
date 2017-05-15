@@ -1,0 +1,18 @@
+"year","fips_county","county_name","state_code","ConnectorCare","Subsidized","Total","Unsubsidized"
+2017,"25001","Barnstable County","MA",8758,800,12479,2921
+2017,"25003","Berkshire County","MA",4028,260,5281,993
+2017,"25005","Bristol County","MA",15196,766,19754,3792
+2017,"25007","Dukes County","MA",1280,196,1853,377
+2017,"25009","Essex County","MA",22454,1133,30309,6722
+2017,"25011","Franklin County","MA",2326,219,3000,455
+2017,"25013","Hampden County","MA",10603,487,13393,2303
+2017,"25015","Hampshire County","MA",3842,269,5600,1489
+2017,"25017","Middlesex County","MA",37978,2108,55658,15572
+2017,"25019","Nantucket County","MA",769,126,1267,372
+2017,"25021","Norfolk County","MA",16309,934,23389,6146
+2017,"25023","Plymouth County","MA",13430,898,18360,4032
+2017,"25025","Suffolk County","MA",21759,699,28324,5866
+2017,"25027","Worcester County","MA",21276,1216,27877,5385
+2017,,"Outside MA County","MA",41,4,99,54
+2017,,"Total County","MA",,,246815,
+2017,,"Unknown County","MA",129,6,172,37

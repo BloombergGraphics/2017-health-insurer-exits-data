@@ -1,0 +1,84 @@
+rating_area,county_name,issuer_name,plans
+1,Baltimore City,CareFirst BlueChoice,6
+1,Baltimore City,CareFirst BlueCross BlueShield,3
+1,Baltimore City,Cigna Healthcare,3
+1,Baltimore City,Kaiser Permanente,11
+1,Baltimore County,CareFirst BlueChoice,6
+1,Baltimore County,CareFirst BlueCross BlueShield,3
+1,Baltimore County,Cigna Healthcare,3
+1,Baltimore County,Kaiser Permanente,11
+1,Harford County,CareFirst BlueChoice,6
+1,Harford County,CareFirst BlueCross BlueShield,3
+1,Harford County,Cigna Healthcare,3
+1,Harford County,Kaiser Permanente,11
+1,Howard County,CareFirst BlueChoice,6
+1,Howard County,CareFirst BlueCross BlueShield,3
+1,Howard County,Cigna Healthcare,3
+1,Howard County,Kaiser Permanente,11
+1,Anne Arundel County,CareFirst BlueChoice,6
+1,Anne Arundel County,CareFirst BlueCross BlueShield,3
+1,Anne Arundel County,Cigna Healthcare,3
+1,Anne Arundel County,Kaiser Permanente,11
+2,St. Mary's County,CareFirst BlueChoice,6
+2,St. Mary's County,CareFirst BlueCross BlueShield,3
+2,St. Mary's County,Cigna Healthcare,3
+2,Charles County,CareFirst BlueChoice,6
+2,Charles County,CareFirst BlueCross BlueShield,3
+2,Charles County,Cigna Healthcare,3
+2,Charles County,Kaiser Permanente,11
+2,Calvert County,CareFirst BlueChoice,6
+2,Calvert County,CareFirst BlueCross BlueShield,3
+2,Calvert County,Cigna Healthcare,3
+2,Calvert County,Kaiser Permanente,11
+2,Cecil County,CareFirst BlueChoice,6
+2,Cecil County,CareFirst BlueCross BlueShield,3
+2,Cecil County,Cigna Healthcare,3
+2,Kent County,CareFirst BlueChoice,6
+2,Kent County,CareFirst BlueCross BlueShield,3
+2,Kent County,Cigna Healthcare,3
+2,Queen Anne's County,CareFirst BlueChoice,6
+2,Queen Anne's County,CareFirst BlueCross BlueShield,3
+2,Queen Anne's County,Cigna Healthcare,3
+2,Talbot County,CareFirst BlueChoice,6
+2,Talbot County,CareFirst BlueCross BlueShield,3
+2,Talbot County,Cigna Healthcare,3
+2,Caroline County,CareFirst BlueChoice,6
+2,Caroline County,CareFirst BlueCross BlueShield,3
+2,Caroline County,Cigna Healthcare,3
+2,Dorchester County,CareFirst BlueChoice,6
+2,Dorchester County,CareFirst BlueCross BlueShield,3
+2,Dorchester County,Cigna Healthcare,3
+2,Wicomico County,CareFirst BlueChoice,6
+2,Wicomico County,CareFirst BlueCross BlueShield,3
+2,Wicomico County,Cigna Healthcare,3
+2,Somerset County,CareFirst BlueChoice,6
+2,Somerset County,CareFirst BlueCross BlueShield,3
+2,Somerset County,Cigna Healthcare,3
+2,Worcester County,CareFirst BlueChoice,6
+2,Worcester County,CareFirst BlueCross BlueShield,3
+2,Worcester County,Cigna Healthcare,3
+3,Montgomery County,CareFirst BlueChoice,6
+3,Montgomery County,CareFirst BlueCross BlueShield,3
+3,Montgomery County,Cigna Healthcare,3
+3,Montgomery County,Kaiser Permanente,11
+3,Prince George's County,CareFirst BlueChoice,6
+3,Prince George's County,CareFirst BlueCross BlueShield,3
+3,Prince George's County,Cigna Healthcare,3
+3,Prince George's County,Kaiser Permanente,11
+4,Garrett County,CareFirst BlueChoice,6
+4,Garrett County,CareFirst BlueCross BlueShield,3
+4,Garrett County,Cigna Healthcare,3
+4,Allegany County,CareFirst BlueChoice,6
+4,Allegany County,CareFirst BlueCross BlueShield,3
+4,Allegany County,Cigna Healthcare,3
+4,Washington County,CareFirst BlueChoice,6
+4,Washington County,CareFirst BlueCross BlueShield,3
+4,Washington County,Cigna Healthcare,3
+4,Carroll County,CareFirst BlueChoice,6
+4,Carroll County,CareFirst BlueCross BlueShield,3
+4,Carroll County,Cigna Healthcare,3
+4,Carroll County,Kaiser Permanente,11
+4,Frederick County,CareFirst BlueChoice,6
+4,Frederick County,CareFirst BlueCross BlueShield,3
+4,Frederick County,Cigna Healthcare,3
+4,Frederick County,Kaiser Permanente,11

@@ -1,0 +1,88 @@
+rating_area,county_name,insurers,plans
+1,Dodge,"Blue Plus, Medica Health Plans of WI",20
+1,Fillmore,"Blue Plus, Medica Health Plans of WI",20
+1,Freeborn,"Blue Plus, Medica Health Plans of WI",20
+1,Goodhue,"Blue Plus, Medica Health Plans of WI",20
+1,Houston,"Blue Plus, Medica Health Plans of WI",20
+1,Mower,"Blue Plus, Medica Health Plans of WI",20
+1,Olmsted,"Blue Plus, Medica Health Plans of WI",20
+1,Steele,"Blue Plus, Medica Health Plans of WI",20
+1,Wabasha,"Blue Plus, Medica Health Plans of WI",20
+1,Winona,"Blue Plus, Medica Health Plans of WI",20
+2,Carlton,"Blue Plus, Medica Health Plans of WI, UCare",17
+2,Cook,"Blue Plus, UCare",10
+2,Itasca,"Blue Plus, Medica Health Plans of WI, UCare",17
+2,Koochiching,"Blue Plus, Medica Health Plans of WI, UCare",17
+2,Lake,"Blue Plus, UCare",10
+2,Lake of the Woods,"Blue Plus, Medica Health Plans of WI",13
+2,St. Louis,"Blue Plus, Medica Health Plans of WI, UCare",17
+3,Blue Earth,"Blue Plus, Medica Health Plans of WI",20
+3,Faribault,"Blue Plus, Medica Health Plans of WI",20
+3,Waseca,"Blue Plus, Medica Health Plans of WI",20
+3,Le Sueur,"Blue Plus, Medica Health Plans of WI",20
+3,Martin,"Blue Plus, Medica Health Plans of WI",20
+3,Nicollet,"Blue Plus, Medica Health Plans of WI",26
+3,Rice,"Blue Plus, Medica Health Plans of WI",20
+3,Watonwan,"Blue Plus, Medica Health Plans of WI",20
+4,Brown,"Blue Plus, Medica Health Plans of WI",13
+4,Cottonwood,"Blue Plus, Medica Health Plans of WI",13
+4,Jackson,"Blue Plus, Medica Health Plans of WI",13
+4,Lincoln,"Blue Plus, Medica Health Plans of WI",13
+4,Murray,"Blue Plus, Medica Health Plans of WI",13
+4,Nobles,"Blue Plus, Medica Health Plans of WI",13
+4,Pipestone,"Blue Plus, Medica Health Plans of WI",13
+4,Redwood,"Blue Plus, Medica Health Plans of WI",13
+4,Rock,"Blue Plus, Medica Health Plans of WI",13
+5,Chippewa,"Blue Plus, Medica Health Plans of WI",13
+5,Big Stone,"Blue Plus, Medica Health Plans of WI",13
+5,Kandiyohi,"Blue Plus, Medica Health Plans of WI",13
+5,Lac Qui Parle,"Blue Plus, Medica Health Plans of WI",13
+5,Lyon,"Blue Plus, Medica Health Plans of WI",13
+5,McLeod,"Blue Plus, Medica Health Plans of WI",13
+5,Meeker,"Blue Plus, Medica Health Plans of WI",13
+5,Renville,"Blue Plus, Medica Health Plans of WI",13
+5,Sibley,"Blue Plus, Medica Health Plans of WI",13
+5,Swift,"Blue Plus, Medica Health Plans of WI",13
+5,Yellow Medicine,"Blue Plus, Medica Health Plans of WI",13
+6,Becker,"Blue Plus, Medica Health Plans of WI",13
+6,Clay,"Blue Plus, Medica Health Plans of WI",13
+6,Douglas,"Blue Plus, Medica Health Plans of WI",13
+6,Grant,"Blue Plus, Medica Health Plans of WI",13
+6,Otter Tail,"Blue Plus, Medica Health Plans of WI",13
+6,Pope,"Blue Plus, Medica Health Plans of WI",13
+6,Stevens,"Blue Plus, Medica Health Plans of WI",13
+6,Traverse,"Blue Plus, Medica Health Plans of WI",13
+6,Wilkin,"Blue Plus, Medica Health Plans of WI",13
+7,Aitkin,"Blue Plus, Medica Health Plans of WI, UCare",17
+7,Beltrami,"Blue Plus, Medica Health Plans of WI",13
+7,Cass,"Blue Plus, Medica Health Plans of WI",13
+7,Chisago,"Blue Plus, Medica Health Plans of WI, UCare",19
+7,Crow Wing,"Medica Health Plans of WI, UCare",11
+7,Hubbard,"Blue Plus, Medica Health Plans of WI",13
+7,Isanti,"Blue Plus, Medica Health Plans of WI, UCare",19
+7,Kanabec,"Blue Plus, Medica Health Plans of WI, UCare",17
+7,Mille Lacs,"Medica Health Plans of WI, UCare",11
+7,Morrison,"Medica Health Plans of WI, UCare",11
+7,Pine,"Blue Plus, Medica Health Plans of WI, UCare",17
+7,Roseau,"Blue Plus, Medica Health Plans of WI",20
+7,Todd,"Blue Plus, Medica Health Plans of WI",13
+7,Wadena,"Blue Plus, Medica Health Plans of WI",13
+8,Anoka,"Blue Plus, Group Health, HealthPartners, Medica Health Plans of WI, UCare",33
+8,Benton,"Group Health, HealthPartners, Medica Health Plans of WI, UCare",26
+8,Carver,"Blue Plus, Group Health, HealthPartners, Medica Health Plans of WI, UCare",33
+8,Dakota,"Blue Plus, Group Health, HealthPartners, Medica Health Plans of WI, UCare",33
+8,Hennepin,"Blue Plus, Group Health, HealthPartners, Medica Health Plans of WI, UCare",40
+8,Ramsey,"Blue Plus, Group Health, HealthPartners, Medica Health Plans of WI, UCare",40
+8,Scott,"Blue Plus, Group Health, HealthPartners, Medica Health Plans of WI, UCare",33
+8,Sherburne,"Blue Plus, Group Health, HealthPartners, Medica Health Plans of WI, UCare",33
+8,Stearns,"Group Health, HealthPartners, Medica Health Plans of WI, UCare",26
+8,Washington,"Blue Plus, Group Health, HealthPartners, Medica Health Plans of WI, UCare",33
+8,Wright,"Blue Plus, Group Health, HealthPartners, Medica Health Plans of WI, UCare",31
+9,Clearwater,"Blue Plus, Medica Health Plans of WI",13
+9,Kittson,"Blue Plus, Medica Health Plans of WI",20
+9,Mahnomen,"Blue Plus, Medica Health Plans of WI",13
+9,Marshall,"Blue Plus, Medica Health Plans of WI",20
+9,Norman,"Blue Plus, Medica Health Plans of WI",13
+9,Pennington,"Blue Plus, Medica Health Plans of WI",20
+9,Polk,"Blue Plus, Medica Health Plans of WI",20
+9,Red Lake,"Blue Plus, Medica Health Plans of WI",20

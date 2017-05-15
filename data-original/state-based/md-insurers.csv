@@ -1,0 +1,191 @@
+"year","fips_county","county_name","issuer_name","state_code","rating_area","plans"
+2015,"24001","Allegany County","Carefirst","MD",,
+2015,"24001","Allegany County","UnitedHealthCare","MD",,
+2015,"24001","Allegany County","Cigna","MD",,
+2015,"24001","Allegany County","Evergreen","MD",,
+2015,"24003","Anne Arundel County","Carefirst","MD",,
+2015,"24003","Anne Arundel County","UnitedHealthCare","MD",,
+2015,"24003","Anne Arundel County","Cigna","MD",,
+2015,"24003","Anne Arundel County","Evergreen","MD",,
+2015,"24003","Anne Arundel County","Kaiser","MD",,
+2015,"24005","Baltimore County","Carefirst","MD",,
+2015,"24005","Baltimore County","UnitedHealthCare","MD",,
+2015,"24005","Baltimore County","Cigna","MD",,
+2015,"24005","Baltimore County","Evergreen","MD",,
+2015,"24005","Baltimore County","Kaiser","MD",,
+2015,"24009","Calvert County","Carefirst","MD",,
+2015,"24009","Calvert County","UnitedHealthCare","MD",,
+2015,"24009","Calvert County","Cigna","MD",,
+2015,"24009","Calvert County","Evergreen","MD",,
+2015,"24009","Calvert County","Kaiser","MD",,
+2015,"24011","Caroline County","Carefirst","MD",,
+2015,"24011","Caroline County","UnitedHealthCare","MD",,
+2015,"24011","Caroline County","Cigna","MD",,
+2015,"24011","Caroline County","Evergreen","MD",,
+2015,"24011","Caroline County","Kaiser","MD",,
+2015,"24013","Carroll County","Carefirst","MD",,
+2015,"24013","Carroll County","UnitedHealthCare","MD",,
+2015,"24013","Carroll County","Cigna","MD",,
+2015,"24013","Carroll County","Evergreen","MD",,
+2015,"24015","Cecil County","Carefirst","MD",,
+2015,"24015","Cecil County","UnitedHealthCare","MD",,
+2015,"24015","Cecil County","Cigna","MD",,
+2015,"24015","Cecil County","Evergreen","MD",,
+2015,"24017","Charles County","Carefirst","MD",,
+2015,"24017","Charles County","UnitedHealthCare","MD",,
+2015,"24017","Charles County","Cigna","MD",,
+2015,"24017","Charles County","Evergreen","MD",,
+2015,"24017","Charles County","Kaiser","MD",,
+2015,"24019","Dorchester County","Carefirst","MD",,
+2015,"24019","Dorchester County","UnitedHealthCare","MD",,
+2015,"24019","Dorchester County","Cigna","MD",,
+2015,"24019","Dorchester County","Evergreen","MD",,
+2015,"24021","Frederick County","Carefirst","MD",,
+2015,"24021","Frederick County","UnitedHealthCare","MD",,
+2015,"24021","Frederick County","Cigna","MD",,
+2015,"24021","Frederick County","Evergreen","MD",,
+2015,"24021","Frederick County","Kaiser","MD",,
+2015,"24023","Garrett County","Carefirst","MD",,
+2015,"24023","Garrett County","UnitedHealthCare","MD",,
+2015,"24023","Garrett County","Cigna","MD",,
+2015,"24023","Garrett County","Evergreen","MD",,
+2015,"24025","Harford County","Carefirst","MD",,
+2015,"24025","Harford County","UnitedHealthCare","MD",,
+2015,"24025","Harford County","Cigna","MD",,
+2015,"24025","Harford County","Evergreen","MD",,
+2015,"24025","Harford County","Kaiser","MD",,
+2015,"24027","Howard County","Carefirst","MD",,
+2015,"24027","Howard County","UnitedHealthCare","MD",,
+2015,"24027","Howard County","Cigna","MD",,
+2015,"24027","Howard County","Evergreen","MD",,
+2015,"24027","Howard County","Kaiser","MD",,
+2015,"24029","Kent County","Carefirst","MD",,
+2015,"24029","Kent County","UnitedHealthCare","MD",,
+2015,"24029","Kent County","Cigna","MD",,
+2015,"24029","Kent County","Evergreen","MD",,
+2015,"24031","Montgomery County","Carefirst","MD",,
+2015,"24031","Montgomery County","UnitedHealthCare","MD",,
+2015,"24031","Montgomery County","Cigna","MD",,
+2015,"24031","Montgomery County","Evergreen","MD",,
+2015,"24031","Montgomery County","Kaiser","MD",,
+2015,"24033","Prince George's County","Carefirst","MD",,
+2015,"24033","Prince George's County","UnitedHealthCare","MD",,
+2015,"24033","Prince George's County","Cigna","MD",,
+2015,"24033","Prince George's County","Evergreen","MD",,
+2015,"24033","Prince George's County","Kaiser","MD",,
+2015,"24035","Queen Anne's County","Carefirst","MD",,
+2015,"24035","Queen Anne's County","UnitedHealthCare","MD",,
+2015,"24035","Queen Anne's County","Cigna","MD",,
+2015,"24035","Queen Anne's County","Evergreen","MD",,
+2015,"24037","St. Mary's County","Carefirst","MD",,
+2015,"24037","St. Mary's County","UnitedHealthCare","MD",,
+2015,"24037","St. Mary's County","Cigna","MD",,
+2015,"24037","St. Mary's County","Evergreen","MD",,
+2015,"24039","Somerset County","Carefirst","MD",,
+2015,"24039","Somerset County","UnitedHealthCare","MD",,
+2015,"24039","Somerset County","Cigna","MD",,
+2015,"24039","Somerset County","Evergreen","MD",,
+2015,"24041","Talbot County","Carefirst","MD",,
+2015,"24041","Talbot County","UnitedHealthCare","MD",,
+2015,"24041","Talbot County","Cigna","MD",,
+2015,"24041","Talbot County","Evergreen","MD",,
+2015,"24043","Washington County","Carefirst","MD",,
+2015,"24043","Washington County","UnitedHealthCare","MD",,
+2015,"24043","Washington County","Cigna","MD",,
+2015,"24043","Washington County","Evergreen","MD",,
+2015,"24045","Wicomico County","Carefirst","MD",,
+2015,"24045","Wicomico County","UnitedHealthCare","MD",,
+2015,"24045","Wicomico County","Cigna","MD",,
+2015,"24045","Wicomico County","Evergreen","MD",,
+2015,"24047","Worcester County","Carefirst","MD",,
+2015,"24047","Worcester County","UnitedHealthCare","MD",,
+2015,"24047","Worcester County","Cigna","MD",,
+2015,"24047","Worcester County","Evergreen","MD",,
+2015,"24510","Baltimore City","Carefirst","MD",,
+2015,"24510","Baltimore City","UnitedHealthCare","MD",,
+2015,"24510","Baltimore City","Cigna","MD",,
+2015,"24510","Baltimore City","Evergreen","MD",,
+2015,"24510","Baltimore City","Kaiser","MD",,
+2017,"24001","Allegany County","CareFirst BlueChoice","MD",4,6
+2017,"24001","Allegany County","CareFirst BlueCross BlueShield","MD",4,3
+2017,"24001","Allegany County","Cigna Healthcare","MD",4,3
+2017,"24003","Anne Arundel County","CareFirst BlueChoice","MD",1,6
+2017,"24003","Anne Arundel County","CareFirst BlueCross BlueShield","MD",1,3
+2017,"24003","Anne Arundel County","Cigna Healthcare","MD",1,3
+2017,"24003","Anne Arundel County","Kaiser Permanente","MD",1,11
+2017,"24005","Baltimore County","CareFirst BlueChoice","MD",1,6
+2017,"24005","Baltimore County","CareFirst BlueCross BlueShield","MD",1,3
+2017,"24005","Baltimore County","Cigna Healthcare","MD",1,3
+2017,"24005","Baltimore County","Kaiser Permanente","MD",1,11
+2017,"24009","Calvert County","CareFirst BlueChoice","MD",2,6
+2017,"24009","Calvert County","CareFirst BlueCross BlueShield","MD",2,3
+2017,"24009","Calvert County","Cigna Healthcare","MD",2,3
+2017,"24009","Calvert County","Kaiser Permanente","MD",2,11
+2017,"24011","Caroline County","CareFirst BlueChoice","MD",2,6
+2017,"24011","Caroline County","CareFirst BlueCross BlueShield","MD",2,3
+2017,"24011","Caroline County","Cigna Healthcare","MD",2,3
+2017,"24013","Carroll County","CareFirst BlueChoice","MD",4,6
+2017,"24013","Carroll County","CareFirst BlueCross BlueShield","MD",4,3
+2017,"24013","Carroll County","Cigna Healthcare","MD",4,3
+2017,"24013","Carroll County","Kaiser Permanente","MD",4,11
+2017,"24015","Cecil County","CareFirst BlueChoice","MD",2,6
+2017,"24015","Cecil County","CareFirst BlueCross BlueShield","MD",2,3
+2017,"24015","Cecil County","Cigna Healthcare","MD",2,3
+2017,"24017","Charles County","CareFirst BlueChoice","MD",2,6
+2017,"24017","Charles County","CareFirst BlueCross BlueShield","MD",2,3
+2017,"24017","Charles County","Cigna Healthcare","MD",2,3
+2017,"24017","Charles County","Kaiser Permanente","MD",2,11
+2017,"24019","Dorchester County","CareFirst BlueChoice","MD",2,6
+2017,"24019","Dorchester County","CareFirst BlueCross BlueShield","MD",2,3
+2017,"24019","Dorchester County","Cigna Healthcare","MD",2,3
+2017,"24021","Frederick County","CareFirst BlueChoice","MD",4,6
+2017,"24021","Frederick County","CareFirst BlueCross BlueShield","MD",4,3
+2017,"24021","Frederick County","Cigna Healthcare","MD",4,3
+2017,"24021","Frederick County","Kaiser Permanente","MD",4,11
+2017,"24023","Garrett County","CareFirst BlueChoice","MD",4,6
+2017,"24023","Garrett County","CareFirst BlueCross BlueShield","MD",4,3
+2017,"24023","Garrett County","Cigna Healthcare","MD",4,3
+2017,"24025","Harford County","CareFirst BlueChoice","MD",1,6
+2017,"24025","Harford County","CareFirst BlueCross BlueShield","MD",1,3
+2017,"24025","Harford County","Cigna Healthcare","MD",1,3
+2017,"24025","Harford County","Kaiser Permanente","MD",1,11
+2017,"24027","Howard County","CareFirst BlueChoice","MD",1,6
+2017,"24027","Howard County","CareFirst BlueCross BlueShield","MD",1,3
+2017,"24027","Howard County","Cigna Healthcare","MD",1,3
+2017,"24027","Howard County","Kaiser Permanente","MD",1,11
+2017,"24029","Kent County","CareFirst BlueChoice","MD",2,6
+2017,"24029","Kent County","CareFirst BlueCross BlueShield","MD",2,3
+2017,"24029","Kent County","Cigna Healthcare","MD",2,3
+2017,"24031","Montgomery County","CareFirst BlueChoice","MD",3,6
+2017,"24031","Montgomery County","CareFirst BlueCross BlueShield","MD",3,3
+2017,"24031","Montgomery County","Cigna Healthcare","MD",3,3
+2017,"24031","Montgomery County","Kaiser Permanente","MD",3,11
+2017,"24033","Prince George's County","CareFirst BlueChoice","MD",3,6
+2017,"24033","Prince George's County","CareFirst BlueCross BlueShield","MD",3,3
+2017,"24033","Prince George's County","Cigna Healthcare","MD",3,3
+2017,"24033","Prince George's County","Kaiser Permanente","MD",3,11
+2017,"24035","Queen Anne's County","CareFirst BlueChoice","MD",2,6
+2017,"24035","Queen Anne's County","CareFirst BlueCross BlueShield","MD",2,3
+2017,"24035","Queen Anne's County","Cigna Healthcare","MD",2,3
+2017,"24037","St. Mary's County","CareFirst BlueChoice","MD",2,6
+2017,"24037","St. Mary's County","CareFirst BlueCross BlueShield","MD",2,3
+2017,"24037","St. Mary's County","Cigna Healthcare","MD",2,3
+2017,"24039","Somerset County","CareFirst BlueChoice","MD",2,6
+2017,"24039","Somerset County","CareFirst BlueCross BlueShield","MD",2,3
+2017,"24039","Somerset County","Cigna Healthcare","MD",2,3
+2017,"24041","Talbot County","CareFirst BlueChoice","MD",2,6
+2017,"24041","Talbot County","CareFirst BlueCross BlueShield","MD",2,3
+2017,"24041","Talbot County","Cigna Healthcare","MD",2,3
+2017,"24043","Washington County","CareFirst BlueChoice","MD",4,6
+2017,"24043","Washington County","CareFirst BlueCross BlueShield","MD",4,3
+2017,"24043","Washington County","Cigna Healthcare","MD",4,3
+2017,"24045","Wicomico County","CareFirst BlueChoice","MD",2,6
+2017,"24045","Wicomico County","CareFirst BlueCross BlueShield","MD",2,3
+2017,"24045","Wicomico County","Cigna Healthcare","MD",2,3
+2017,"24047","Worcester County","CareFirst BlueChoice","MD",2,6
+2017,"24047","Worcester County","CareFirst BlueCross BlueShield","MD",2,3
+2017,"24047","Worcester County","Cigna Healthcare","MD",2,3
+2017,"24510","Baltimore City","CareFirst BlueChoice","MD",1,6
+2017,"24510","Baltimore City","CareFirst BlueCross BlueShield","MD",1,3
+2017,"24510","Baltimore City","Cigna Healthcare","MD",1,3
+2017,"24510","Baltimore City","Kaiser Permanente","MD",1,11

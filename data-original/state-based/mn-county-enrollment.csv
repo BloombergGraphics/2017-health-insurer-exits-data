@@ -1,0 +1,88 @@
+"year","fips_county","county_name","state_code","plan_selections","plan_selections_aptc","plan_selections_noaptc"
+2017,"27001","Aitkin County","MN",467,361,106
+2017,"27003","Anoka County","MN",6586,4121,2465
+2017,"27005","Becker County","MN",837,610,227
+2017,"27007","Beltrami County","MN",622,490,132
+2017,"27009","Benton County","MN",819,524,295
+2017,"27011","Big Stone County","MN",211,146,65
+2017,"27013","Blue Earth County","MN",1470,1069,401
+2017,"27015","Brown County","MN",731,604,127
+2017,"27017","Carlton County","MN",720,470,250
+2017,"27019","Carver County","MN",2093,1257,836
+2017,"27021","Cass County","MN",940,736,204
+2017,"27023","Chippewa County","MN",249,162,87
+2017,"27025","Chisago County","MN",1383,786,597
+2017,"27027","Clay County","MN",936,633,303
+2017,"27029","Clearwater County","MN",188,159,29
+2017,"27031","Cook County","MN",365,244,121
+2017,"27033","Cottonwood County","MN",405,331,74
+2017,"27035","Crow Wing County","MN",1750,1124,626
+2017,"27037","Dakota County","MN",7893,4776,3117
+2017,"27039","Dodge County","MN",377,302,75
+2017,"27041","Douglas County","MN",1168,911,257
+2017,"27043","Faribault County","MN",532,420,112
+2017,"27045","Fillmore County","MN",594,481,113
+2017,"27047","Freeborn County","MN",821,698,123
+2017,"27049","Goodhue County","MN",1081,859,222
+2017,"27051","Grant County","MN",219,170,49
+2017,"27053","Hennepin County","MN",27424,15100,12324
+2017,"27055","Houston County","MN",495,393,102
+2017,"27057","Hubbard County","MN",505,397,108
+2017,"27059","Isanti County","MN",893,623,270
+2017,"27061","Itasca County","MN",994,774,220
+2017,"27063","Jackson County","MN",402,283,119
+2017,"27065","Kanabec County","MN",376,273,103
+2017,"27067","Kandiyohi County","MN",888,667,221
+2017,"27069","Kittson County","MN",133,102,31
+2017,"27071","Koochiching County","MN",360,264,96
+2017,"27073","Lac Qui Parle County","MN",310,136,174
+2017,"27075","Lake County","MN",313,237,76
+2017,"27077","Lake of the Woods County","MN",92,66,26
+2017,"27079","Le Sueur County","MN",718,564,154
+2017,"27081","Lincoln County","MN",174,147,27
+2017,"27083","Lyon County","MN",557,420,137
+2017,"27085","McLeod County","MN",758,643,115
+2017,"27087","Mahnomen County","MN",70,47,23
+2017,"27089","Marshall County","MN",260,174,86
+2017,"27091","Martin County","MN",575,466,109
+2017,"27093","Meeker County","MN",573,431,142
+2017,"27095","Mille Lacs County","MN",626,416,210
+2017,"27097","Morrison County","MN",1076,752,324
+2017,"27099","Mower County","MN",778,632,146
+2017,"27101","Murray County","MN",357,288,69
+2017,"27103","Nicollet County","MN",753,593,160
+2017,"27105","Nobles County","MN",518,412,106
+2017,"27107","Norman County","MN",247,160,87
+2017,"27109","Olmsted County","MN",2119,1633,486
+2017,"27111","Otter Tail County","MN",1556,1236,320
+2017,"27113","Pennington County","MN",179,139,40
+2017,"27115","Pine County","MN",728,502,226
+2017,"27117","Pipestone County","MN",255,217,38
+2017,"27119","Polk County","MN",557,422,135
+2017,"27121","Pope County","MN",319,245,74
+2017,"27123","Ramsey County","MN",9537,5737,3800
+2017,"27125","Red Lake County","MN",138,75,63
+2017,"27127","Redwood County","MN",462,380,82
+2017,"27129","Renville County","MN",506,381,125
+2017,"27131","Rice County","MN",1162,921,241
+2017,"27133","Rock County","MN",310,279,31
+2017,"27135","Roseau County","MN",262,155,107
+2017,"27137","St. Louis County","MN",4469,3007,1462
+2017,"27139","Scott County","MN",2826,1576,1250
+2017,"27141","Sherburne County","MN",2048,1300,748
+2017,"27143","Sibley County","MN",412,353,59
+2017,"27145","Stearns County","MN",2949,2034,915
+2017,"27147","Steele County","MN",737,558,179
+2017,"27149","Stevens County","MN",177,126,51
+2017,"27151","Swift County","MN",201,140,61
+2017,"27153","Todd County","MN",660,484,176
+2017,"27155","Traverse County","MN",89,59,30
+2017,"27157","Wabasha County","MN",608,476,132
+2017,"27159","Wadena County","MN",308,239,69
+2017,"27161","Waseca County","MN",519,415,104
+2017,"27163","Washington County","MN",5016,2892,2124
+2017,"27165","Watonwan County","MN",318,201,117
+2017,"27167","Wilkin County","MN",211,177,34
+2017,"27169","Winona County","MN",992,775,217
+2017,"27171","Wright County","MN",2767,1941,826
+2017,"27173","Yellow Medicine County","MN",331,244,87

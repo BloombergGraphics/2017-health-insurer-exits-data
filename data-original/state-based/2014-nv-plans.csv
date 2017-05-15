@@ -1,0 +1,159 @@
+"year","fips_county","county_name","state_code","plan_name","issuer_name","metal_level","cost_age27"
+2014,"32003","Clark County","NV","Anthem Bronze Direct Access","Anthem (HMO)","Bronze",185.45
+2014,"32023","Nye County","NV","Anthem Bronze Direct Access","Anthem (HMO)","Bronze",185.45
+2014,"32031","Washoe County","NV","Anthem Bronze Direct Access","Anthem (HMO)","Bronze",206.1
+2014,"32003","Clark County","NV","Anthem Bronze Direct Access - caaf","Anthem (HMO)","Bronze",213.04
+2014,"32031","Washoe County","NV","Anthem Bronze Direct Access - caaf","Anthem (HMO)","Bronze",236.75
+2014,"32023","Nye County","NV","Anthem Bronze Direct Access - caaf","Anthem (HMO)","Bronze",213.04
+2014,"32031","Washoe County","NV","Anthem Bronze Direct Access - cabz","Anthem (HMO)","Bronze",206.92
+2014,"32003","Clark County","NV","Anthem Bronze Direct Access - cabz","Anthem (HMO)","Bronze",186.2
+2014,"32023","Nye County","NV","Anthem Bronze Direct Access - cabz","Anthem (HMO)","Bronze",186.2
+2014,"32510","Carson City","NV","Anthem Bronze Direct Access - cxba On and Off Exchange","Anthem (HMO)","Bronze",264.02
+2014,"32033","White Pine County","NV","Anthem Bronze Direct Access - cxba On and Off Exchange","Anthem (HMO)","Bronze",321.87
+2014,"32027","Pershing County","NV","Anthem Bronze Direct Access - cxba On and Off Exchange","Anthem (HMO)","Bronze",321.87
+2014,"32021","Mineral County","NV","Anthem Bronze Direct Access - cxba On and Off Exchange","Anthem (HMO)","Bronze",321.87
+2014,"32005","Douglas County","NV","Anthem Bronze Direct Access - cxba On and Off Exchange","Anthem (HMO)","Bronze",264.02
+2014,"32019","Lyon County","NV","Anthem Bronze Direct Access - cxba On and Off Exchange","Anthem (HMO)","Bronze",264.02
+2014,"32029","Storey County","NV","Anthem Bronze Direct Access - cxba On and Off Exchange","Anthem (HMO)","Bronze",264.02
+2014,"32001","Churchill County","NV","Anthem Bronze Direct Access - cxba On and Off Exchange","Anthem (HMO)","Bronze",321.87
+2014,"32007","Elko County","NV","Anthem Bronze Direct Access - cxba On and Off Exchange","Anthem (HMO)","Bronze",321.87
+2014,"32009","Esmeralda County","NV","Anthem Bronze Direct Access - cxba On and Off Exchange","Anthem (HMO)","Bronze",321.87
+2014,"32011","Eureka County","NV","Anthem Bronze Direct Access - cxba On and Off Exchange","Anthem (HMO)","Bronze",321.87
+2014,"32013","Humboldt County","NV","Anthem Bronze Direct Access - cxba On and Off Exchange","Anthem (HMO)","Bronze",321.87
+2014,"32017","Lincoln County","NV","Anthem Bronze Direct Access - cxba On and Off Exchange","Anthem (HMO)","Bronze",321.87
+2014,"32003","Clark County","NV","Anthem Bronze Direct Access with HSA - caar","Anthem (HMO)","Bronze",186.02
+2014,"32023","Nye County","NV","Anthem Bronze Direct Access with HSA - caar","Anthem (HMO)","Bronze",186.02
+2014,"32031","Washoe County","NV","Anthem Bronze Direct Access with HSA - caar","Anthem (HMO)","Bronze",206.72
+2014,"32031","Washoe County","NV","Anthem Bronze Direct access with HSA - cacc","Anthem (HMO)","Bronze",221.09
+2014,"32023","Nye County","NV","Anthem Bronze Direct access with HSA - cacc","Anthem (HMO)","Bronze",198.94
+2014,"32003","Clark County","NV","Anthem Bronze Direct access with HSA - cacc","Anthem (HMO)","Bronze",198.94
+2014,"32003","Clark County","NV","Anthem Catastrophic Direct Access","Anthem (HMO)","Catastrophic",154.79
+2014,"32031","Washoe County","NV","Anthem Catastrophic Direct Access","Anthem (HMO)","Catastrophic",172.02
+2014,"32023","Nye County","NV","Anthem Catastrophic Direct Access","Anthem (HMO)","Catastrophic",154.79
+2014,"32023","Nye County","NV","Anthem Gold Direct Access - ccab","Anthem (HMO)","Gold",310.78
+2014,"32003","Clark County","NV","Anthem Gold Direct Access - ccab","Anthem (HMO)","Gold",310.78
+2014,"32031","Washoe County","NV","Anthem Gold Direct Access - ccab","Anthem (HMO)","Gold",345.37
+2014,"32005","Douglas County","NV","Anthem Gold Direct Access - cxga","Anthem (HMO)","Gold",442.46
+2014,"32019","Lyon County","NV","Anthem Gold Direct Access - cxga","Anthem (HMO)","Gold",442.46
+2014,"32510","Carson City","NV","Anthem Gold Direct Access - cxga","Anthem (HMO)","Gold",442.46
+2014,"32029","Storey County","NV","Anthem Gold Direct Access - cxga","Anthem (HMO)","Gold",442.46
+2014,"32001","Churchill County","NV","Anthem Gold Direct Access - cxga","Anthem (HMO)","Gold",539.38
+2014,"32007","Elko County","NV","Anthem Gold Direct Access - cxga","Anthem (HMO)","Gold",539.38
+2014,"32009","Esmeralda County","NV","Anthem Gold Direct Access - cxga","Anthem (HMO)","Gold",539.38
+2014,"32011","Eureka County","NV","Anthem Gold Direct Access - cxga","Anthem (HMO)","Gold",539.38
+2014,"32013","Humboldt County","NV","Anthem Gold Direct Access - cxga","Anthem (HMO)","Gold",539.38
+2014,"32015","Lander County","NV","Anthem Gold Direct Access - cxga","Anthem (HMO)","Gold",539.38
+2014,"32017","Lincoln County","NV","Anthem Gold Direct Access - cxga","Anthem (HMO)","Gold",539.38
+2014,"32021","Mineral County","NV","Anthem Gold Direct Access - cxga","Anthem (HMO)","Gold",539.38
+2014,"32027","Pershing County","NV","Anthem Gold Direct Access - cxga","Anthem (HMO)","Gold",539.38
+2014,"32033","White Pine County","NV","Anthem Gold Direct Access - cxga","Anthem (HMO)","Gold",539.38
+2014,"32031","Washoe County","NV","Anthem Silver Direct Access - cbgq","Anthem (HMO)","Silver",274.35
+2014,"32003","Clark County","NV","Anthem Silver Direct Access - cbgq","Anthem (HMO)","Silver",246.87
+2014,"32023","Nye County","NV","Anthem Silver Direct Access - cbgq","Anthem (HMO)","Silver",246.87
+2014,"32031","Washoe County","NV","Anthem Silver Direct Access - cbhw","Anthem (HMO)","Silver",276.21
+2014,"32023","Nye County","NV","Anthem Silver Direct Access - cbhw","Anthem (HMO)","Silver",248.55
+2014,"32003","Clark County","NV","Anthem Silver Direct Access - cbhw","Anthem (HMO)","Silver",248.55
+2014,"32023","Nye County","NV","Anthem Silver Direct Access - cbiy","Anthem (HMO)","Silver",241.36
+2014,"32031","Washoe County","NV","Anthem Silver Direct Access - cbiy","Anthem (HMO)","Silver",268.23
+2014,"32003","Clark County","NV","Anthem Silver Direct Access - cbiy","Anthem (HMO)","Silver",241.36
+2014,"32023","Nye County","NV","Anthem Silver Direct Access - cbku","Anthem (HMO)","Silver",252.04
+2014,"32003","Clark County","NV","Anthem Silver Direct Access - cbku","Anthem (HMO)","Silver",252.04
+2014,"32031","Washoe County","NV","Anthem Silver Direct Access - cbku","Anthem (HMO)","Silver",280.09
+2014,"32031","Washoe County","NV","Anthem Silver Direct Access - cblk","Anthem (HMO)","Silver",249.64
+2014,"32023","Nye County","NV","Anthem Silver Direct Access - cblk","Anthem (HMO)","Silver",224.64
+2014,"32003","Clark County","NV","Anthem Silver Direct Access - cblk","Anthem (HMO)","Silver",224.64
+2014,"32007","Elko County","NV","Anthem Silver Direct Access - cxsa","Anthem (HMO)","Silver",389.89
+2014,"32009","Esmeralda County","NV","Anthem Silver Direct Access - cxsa","Anthem (HMO)","Silver",389.89
+2014,"32011","Eureka County","NV","Anthem Silver Direct Access - cxsa","Anthem (HMO)","Silver",389.89
+2014,"32013","Humboldt County","NV","Anthem Silver Direct Access - cxsa","Anthem (HMO)","Silver",389.89
+2014,"32015","Lander County","NV","Anthem Silver Direct Access - cxsa","Anthem (HMO)","Silver",389.89
+2014,"32017","Lincoln County","NV","Anthem Silver Direct Access - cxsa","Anthem (HMO)","Silver",389.89
+2014,"32021","Mineral County","NV","Anthem Silver Direct Access - cxsa","Anthem (HMO)","Silver",389.89
+2014,"32027","Pershing County","NV","Anthem Silver Direct Access - cxsa","Anthem (HMO)","Silver",389.89
+2014,"32033","White Pine County","NV","Anthem Silver Direct Access - cxsa","Anthem (HMO)","Silver",389.89
+2014,"32019","Lyon County","NV","Anthem Silver Direct Access - cxsa","Anthem (HMO)","Silver",319.83
+2014,"32001","Churchill County","NV","Anthem Silver Direct Access - cxsa","Anthem (HMO)","Silver",389.89
+2014,"32510","Carson City","NV","Anthem Silver Direct Access - cxsa","Anthem (HMO)","Silver",319.83
+2014,"32005","Douglas County","NV","Anthem Silver Direct Access - cxsa","Anthem (HMO)","Silver",319.83
+2014,"32029","Storey County","NV","Anthem Silver Direct Access - cxsa","Anthem (HMO)","Silver",319.83
+2014,"32023","Nye County","NV","HPN MiPlan Bien Bronce","Health Plan of Nevada (HMO)","Bronze",187.38
+2014,"32031","Washoe County","NV","HPN MiPlan Bien Bronce","Health Plan of Nevada (HMO)","Bronze",243.6
+2014,"32023","Nye County","NV","HPN MiPlan Bien Plata","Health Plan of Nevada (HMO)","Silver",202
+2014,"32003","Clark County","NV","HPN MiPlan Bien Plata","Health Plan of Nevada (HMO)","Silver",202
+2014,"32031","Washoe County","NV","HPN MiPlan Bien Plata","Health Plan of Nevada (HMO)","Silver",262.61
+2014,"32031","Washoe County","NV","MyHPN Bronze 1","Health Plan of Nevada (HMO)","Bronze",249.46
+2014,"32023","Nye County","NV","MyHPN Bronze 1","Health Plan of Nevada (HMO)","Bronze",191.89
+2014,"32003","Clark County","NV","MyHPN Bronze 1","Health Plan of Nevada (HMO)","Bronze",191.89
+2014,"32031","Washoe County","NV","MyHPN Bronze 2","Health Plan of Nevada (HMO)","Bronze",243.31
+2014,"32003","Clark County","NV","MyHPN Bronze 2","Health Plan of Nevada (HMO)","Bronze",187.16
+2014,"32023","Nye County","NV","MyHPN Bronze 2","Health Plan of Nevada (HMO)","Bronze",187.16
+2014,"32003","Clark County","NV","MyHPN Bronze 3","Health Plan of Nevada (HMO)","Bronze",187.38
+2014,"32023","Nye County","NV","MyHPN Bronze 3","Health Plan of Nevada (HMO)","Bronze",187.38
+2014,"32031","Washoe County","NV","MyHPN Bronze 3","Health Plan of Nevada (HMO)","Bronze",243.6
+2014,"32031","Washoe County","NV","MyHPN Bronze 4","Health Plan of Nevada (HMO)","Bronze",242.15
+2014,"32003","Clark County","NV","MyHPN Bronze 4","Health Plan of Nevada (HMO)","Bronze",186.27
+2014,"32023","Nye County","NV","MyHPN Bronze 4","Health Plan of Nevada (HMO)","Bronze",186.27
+2014,"32031","Washoe County","NV","MyHPN Catastrophic","Health Plan of Nevada (HMO)","Catastrophic",225.9
+2014,"32003","Clark County","NV","MyHPN Catastrophic","Health Plan of Nevada (HMO)","Catastrophic",173.77
+2014,"32023","Nye County","NV","MyHPN Catastrophic","Health Plan of Nevada (HMO)","Catastrophic",173.77
+2014,"32003","Clark County","NV","MyHPN Gold 1","Health Plan of Nevada (HMO)","Gold",214.55
+2014,"32031","Washoe County","NV","MyHPN Gold 1","Health Plan of Nevada (HMO)","Gold",278.91
+2014,"32023","Nye County","NV","MyHPN Gold 1","Health Plan of Nevada (HMO)","Gold",214.55
+2014,"32031","Washoe County","NV","MyHPN Medicaid Transition Silver","Health Plan of Nevada (HMO)","Silver",259.76
+2014,"32003","Clark County","NV","MyHPN Medicaid Transition Silver","Health Plan of Nevada (HMO)","Silver",199.81
+2014,"32023","Nye County","NV","MyHPN Medicaid Transition Silver","Health Plan of Nevada (HMO)","Silver",199.81
+2014,"32031","Washoe County","NV","MyHPN Silver 1.1","Health Plan of Nevada (HMO)","Silver",262.13
+2014,"32023","Nye County","NV","MyHPN Silver 1.1","Health Plan of Nevada (HMO)","Silver",201.64
+2014,"32003","Clark County","NV","MyHPN Silver 1.1","Health Plan of Nevada (HMO)","Silver",201.64
+2014,"32023","Nye County","NV","MyHPN Silver 2","Health Plan of Nevada (HMO)","Silver",202
+2014,"32031","Washoe County","NV","MyHPN Silver 2","Health Plan of Nevada (HMO)","Silver",262.61
+2014,"32003","Clark County","NV","MyHPN Silver 2","Health Plan of Nevada (HMO)","Silver",202
+2014,"32031","Washoe County","NV","MyHPN Silver 3.1","Health Plan of Nevada (HMO)","Silver",254.04
+2014,"32003","Clark County","NV","MyHPN Silver 3.1","Health Plan of Nevada (HMO)","Silver",195.41
+2014,"32023","Nye County","NV","MyHPN Silver 3.1","Health Plan of Nevada (HMO)","Silver",195.41
+2014,"32031","Washoe County","NV","MyHPN Silver 4.1","Health Plan of Nevada (HMO)","Silver",252.8
+2014,"32023","Nye County","NV","MyHPN Silver 4.1","Health Plan of Nevada (HMO)","Silver",194.46
+2014,"32031","Washoe County","NV","Multi-State Gold Plan with Anthem HMO","Anthem Multi-State Plan via the OPM (HMO)","Gold",345.37
+2014,"32023","Nye County","NV","Multi-State Gold Plan with Anthem HMO","Anthem Multi-State Plan via the OPM (HMO)","Gold",310.78
+2014,"32003","Clark County","NV","Multi-State Gold Plan with Anthem HMO","Anthem Multi-State Plan via the OPM (HMO)","Gold",310.78
+2014,"32023","Nye County","NV","Multi-State Silver Plan with Anthem HMO","Anthem Multi-State Plan via the OPM (HMO)","Silver",252.04
+2014,"32003","Clark County","NV","Multi-State Silver Plan with Anthem HMO","Anthem Multi-State Plan via the OPM (HMO)","Silver",252.04
+2014,"32031","Washoe County","NV","Multi-State Silver Plan with Anthem HMO","Anthem Multi-State Plan via the OPM (HMO)","Silver",280.09
+2014,"32031","Washoe County","NV","Bronze 1 Premier","Prominence (HMO)","Bronze",243.72
+2014,"32005","Douglas County","NV","Bronze 1 Premier","Prominence (HMO)","Bronze",268.64
+2014,"32019","Lyon County","NV","Bronze 1 Premier","Prominence (HMO)","Bronze",268.64
+2014,"32510","Carson City","NV","Bronze 1 Premier","Prominence (HMO)","Bronze",268.64
+2014,"32029","Storey County","NV","Bronze 1 Premier","Prominence (HMO)","Bronze",268.64
+2014,"32005","Douglas County","NV","Bronze 2 Premier","Prominence (HMO)","Bronze",266.9
+2014,"32031","Washoe County","NV","Bronze 2 Premier","Prominence (HMO)","Bronze",242.15
+2014,"32510","Carson City","NV","Bronze 2 Premier","Prominence (HMO)","Bronze",266.9
+2014,"32019","Lyon County","NV","Bronze 2 Premier","Prominence (HMO)","Bronze",266.9
+2014,"32029","Storey County","NV","Bronze 2 Premier","Prominence (HMO)","Bronze",266.9
+2014,"32031","Washoe County","NV","Bronze 3 Premier","Prominence (HMO)","Bronze",244.11
+2014,"32510","Carson City","NV","Bronze 3 Premier","Prominence (HMO)","Bronze",269.06
+2014,"32029","Storey County","NV","Bronze 3 Premier","Prominence (HMO)","Bronze",269.06
+2014,"32019","Lyon County","NV","Bronze 3 Premier","Prominence (HMO)","Bronze",269.06
+2014,"32005","Douglas County","NV","Bronze 3 Premier","Prominence (HMO)","Bronze",269.06
+2014,"32005","Douglas County","NV","Gold 1 Premier","Prominence (HMO)","Gold",354.81
+2014,"32031","Washoe County","NV","Gold 1 Premier","Prominence (HMO)","Gold",321.9
+2014,"32029","Storey County","NV","Gold 1 Premier","Prominence (HMO)","Gold",354.81
+2014,"32510","Carson City","NV","Gold 1 Premier","Prominence (HMO)","Gold",354.81
+2014,"32019","Lyon County","NV","Gold 1 Premier","Prominence (HMO)","Gold",354.81
+2014,"32019","Lyon County","NV","HSA 1 Premier","Prominence (HMO)","Bronze",264.05
+2014,"32005","Douglas County","NV","HSA 1 Premier","Prominence (HMO)","Bronze",264.05
+2014,"32029","Storey County","NV","HSA 1 Premier","Prominence (HMO)","Bronze",264.05
+2014,"32031","Washoe County","NV","HSA 1 Premier","Prominence (HMO)","Bronze",239.56
+2014,"32510","Carson City","NV","HSA 1 Premier","Prominence (HMO)","Bronze",264.05
+2014,"32510","Carson City","NV","Silver 10 Premier","Prominence (HMO)","Silver",286.87
+2014,"32005","Douglas County","NV","Silver 10 Premier","Prominence (HMO)","Silver",286.87
+2014,"32031","Washoe County","NV","Silver 10 Premier","Prominence (HMO)","Silver",260.26
+2014,"32029","Storey County","NV","Silver 10 Premier","Prominence (HMO)","Silver",286.87
+2014,"32031","Washoe County","NV","Silver 20 Premier","Prominence (HMO)","Silver",266.02
+2014,"32029","Storey County","NV","Silver 20 Premier","Prominence (HMO)","Silver",293.22
+2014,"32510","Carson City","NV","Silver 20 Premier","Prominence (HMO)","Silver",293.22
+2014,"32019","Lyon County","NV","Silver 20 Premier","Prominence (HMO)","Silver",293.22
+2014,"32005","Douglas County","NV","Silver 20 Premier","Prominence (HMO)","Silver",293.22
+2014,"32029","Storey County","NV","Silver 30 Premier","Prominence (HMO)","Silver",297.95
+2014,"32510","Carson City","NV","Silver 30 Premier","Prominence (HMO)","Silver",297.95
+2014,"32019","Lyon County","NV","Silver 30 Premier","Prominence (HMO)","Silver",297.95
+2014,"32005","Douglas County","NV","Silver 30 Premier","Prominence (HMO)","Silver",297.95

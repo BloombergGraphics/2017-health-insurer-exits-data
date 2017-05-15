@@ -1,0 +1,9 @@
+BridgeSpan – Benton, Clark, Franklin, King, Kitsap, Pierce, Skagit, Snohomish, Spokane, Thurston, Walla Walla, Yakima
+Community Health Plan of Washington – Adams, Douglas, Ferry, Franklin, Grant, Lewis, Pacific, Pend Oreille, Spokane, Stevens, Thurston, Wahkiakum, Walla Walla, Yakima
+Coordinated Care – Adams, Benton, Chelan, Douglas, Franklin, Grant, Jefferson, King, Lewis, Lincoln, Pierce, Snohomish, Spokane, Stevens, Thurston, Walla Walla, Yakima
+Kaiser Foundation Health Plan of the Northwest – Clark, Cowlitz
+Kaiser Foundation Health Plan of Washington (formerly Group Health) – Benton, Columbia, Franklin, Island, King, Kitsap, Kittitas, Lewis, Mason, Pierce, San Juan, Skagit, Snohomish, Spokane, Thurston, Walla Walla, Whatcom, Whitman, Yakima
+LifeWise Health Plan of Washington – Adams, Asotin, Benton, Clallam, Clark, Columbia, Cowlitz, Franklin, Garfield, Grant, Grays Harbor, Island, Jefferson, King, Kitsap, Klickitat, Okanogan, Pacific, Pierce, Skamania, Snohomish, Spokane, Thurston, Wahkiakum, Walla Walla, Whatcom, Whitman
+Molina Health Care of Washington – Adams, Chelan, Clark, Douglas, Ferry, Grant, King, Kittitas, Lincoln, Mason, Okanogan, Pend Oreille, Pierce, Skamania, Spokane, Stevens, Thurston
+Premera Blue Cross – Adams, Asotin, Benton, Clallam, Columbia, Cowlitz, Franklin, Garfield, Grant, Grays Harbor, Island, Jefferson, King, Kitsap, Okanogan, Pacific, Pierce, Snohomish, Spokane, Thurston, Wahkiakum, Walla Walla, Whatcom, Whitman
+Regence BlueShield – King, Snohomish, Pierce

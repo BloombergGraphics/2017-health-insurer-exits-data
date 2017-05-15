@@ -1,0 +1,15 @@
+"year","fips_county","county_name","state_code","plan_selections","plan_selections_noaptc","plan_selections_aptc"
+2017,"25001","Barnstable County","MA",12479,2921,9558
+2017,"25003","Berkshire County","MA",5281,993,4288
+2017,"25005","Bristol County","MA",19754,3792,15962
+2017,"25007","Dukes County","MA",1853,377,1476
+2017,"25009","Essex County","MA",30309,6722,23587
+2017,"25011","Franklin County","MA",3000,455,2545
+2017,"25013","Hampden County","MA",13393,2303,11090
+2017,"25015","Hampshire County","MA",5600,1489,4111
+2017,"25017","Middlesex County","MA",55658,15572,40086
+2017,"25019","Nantucket County","MA",1267,372,895
+2017,"25021","Norfolk County","MA",23389,6146,17243
+2017,"25023","Plymouth County","MA",18360,4032,14328
+2017,"25025","Suffolk County","MA",28324,5866,22458
+2017,"25027","Worcester County","MA",27877,5385,22492

@@ -1,0 +1,608 @@
+"plan_id","applicant","hois_id","metal_level","network","product","index_name","full_plan_name","rating_area"
+"27603CA1500001","Anthem","27603","Catastrophic","EPO","Coinsurance","Anthem - Coin EPO","Anthem Minimum Coverage EPO",1
+"27603CA1500003","Anthem","27603","Bronze","EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 EPO",1
+"27603CA1520001","Anthem","27603","Silver","EPO","Coinsurance","Anthem - Coin EPO","Anthem Silver 70 EPO, a Multi State Plan",1
+"27603CA1520002","Anthem","27603","Gold","EPO","Coinsurance","Anthem - Coin EPO","Anthem Gold 80 EPO, a Multi State Plan",1
+"27603CA1500002","Anthem","27603","Platinum","EPO","Coinsurance","Anthem - Coin EPO","Anthem Platinum 90 EPO",1
+"27603CA1500004","Anthem","27603","HDHP Bronze","HDHP EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 HDHP EPO",1
+"27603CA1500001","Anthem","27603","Catastrophic","EPO","Coinsurance","Anthem - Coin EPO","Anthem Minimum Coverage EPO",2
+"27603CA1500003","Anthem","27603","Bronze","EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 EPO",2
+"27603CA1520001","Anthem","27603","Silver","EPO","Coinsurance","Anthem - Coin EPO","Anthem Silver 70 EPO, a Multi State Plan",2
+"27603CA1520002","Anthem","27603","Gold","EPO","Coinsurance","Anthem - Coin EPO","Anthem Gold 80 EPO, a Multi State Plan",2
+"27603CA1500002","Anthem","27603","Platinum","EPO","Coinsurance","Anthem - Coin EPO","Anthem Platinum 90 EPO",2
+"27603CA1500004","Anthem","27603","HDHP Bronze","HDHP EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 HDHP EPO",2
+"27603CA1500001","Anthem","27603","Catastrophic","EPO","Coinsurance","Anthem - Coin EPO","Anthem Minimum Coverage EPO",3
+"27603CA1500003","Anthem","27603","Bronze","EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 EPO",3
+"27603CA1520001","Anthem","27603","Silver","EPO","Coinsurance","Anthem - Coin EPO","Anthem Silver 70 EPO, a Multi State Plan",3
+"27603CA1150004","Anthem","27603","Silver","HMO","Copay","Anthem - Copay HMO","Anthem Silver 70 HMO",3
+"27603CA1520002","Anthem","27603","Gold","EPO","Coinsurance","Anthem - Coin EPO","Anthem Gold 80 EPO, a Multi State Plan",3
+"27603CA1150012","Anthem","27603","Gold","HMO","Copay","Anthem - Copay HMO","Anthem Gold 80 HMO",3
+"27603CA1150020","Anthem","27603","Platinum","HMO","Copay","Anthem - Copay HMO","Anthem Platinum 90 HMO",3
+"27603CA1500002","Anthem","27603","Platinum","EPO","Coinsurance","Anthem - Coin EPO","Anthem Platinum 90 EPO",3
+"27603CA1500004","Anthem","27603","HDHP Bronze","HDHP EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 HDHP EPO",3
+"27603CA1500001","Anthem","27603","Catastrophic","EPO","Coinsurance","Anthem - Coin EPO","Anthem Minimum Coverage EPO",4
+"27603CA1500003","Anthem","27603","Bronze","EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 EPO",4
+"27603CA1520001","Anthem","27603","Silver","EPO","Coinsurance","Anthem - Coin EPO","Anthem Silver 70 EPO, a Multi State Plan",4
+"27603CA1520002","Anthem","27603","Gold","EPO","Coinsurance","Anthem - Coin EPO","Anthem Gold 80 EPO, a Multi State Plan",4
+"27603CA1500002","Anthem","27603","Platinum","EPO","Coinsurance","Anthem - Coin EPO","Anthem Platinum 90 EPO",4
+"27603CA1500004","Anthem","27603","HDHP Bronze","HDHP EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 HDHP EPO",4
+"27603CA1500001","Anthem","27603","Catastrophic","EPO","Coinsurance","Anthem - Coin EPO","Anthem Minimum Coverage EPO",5
+"27603CA1500003","Anthem","27603","Bronze","EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 EPO",5
+"27603CA1520001","Anthem","27603","Silver","EPO","Coinsurance","Anthem - Coin EPO","Anthem Silver 70 EPO, a Multi State Plan",5
+"27603CA1520002","Anthem","27603","Gold","EPO","Coinsurance","Anthem - Coin EPO","Anthem Gold 80 EPO, a Multi State Plan",5
+"27603CA1500002","Anthem","27603","Platinum","EPO","Coinsurance","Anthem - Coin EPO","Anthem Platinum 90 EPO",5
+"27603CA1500004","Anthem","27603","HDHP Bronze","HDHP EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 HDHP EPO",5
+"27603CA1500001","Anthem","27603","Catastrophic","EPO","Coinsurance","Anthem - Coin EPO","Anthem Minimum Coverage EPO",6
+"27603CA1500003","Anthem","27603","Bronze","EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 EPO",6
+"27603CA1520001","Anthem","27603","Silver","EPO","Coinsurance","Anthem - Coin EPO","Anthem Silver 70 EPO, a Multi State Plan",6
+"27603CA1520002","Anthem","27603","Gold","EPO","Coinsurance","Anthem - Coin EPO","Anthem Gold 80 EPO, a Multi State Plan",6
+"27603CA1500002","Anthem","27603","Platinum","EPO","Coinsurance","Anthem - Coin EPO","Anthem Platinum 90 EPO",6
+"27603CA1500004","Anthem","27603","HDHP Bronze","HDHP EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 HDHP EPO",6
+"27603CA1500001","Anthem","27603","Catastrophic","EPO","Coinsurance","Anthem - Coin EPO","Anthem Minimum Coverage EPO",7
+"27603CA1500003","Anthem","27603","Bronze","EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 EPO",7
+"27603CA1520001","Anthem","27603","Silver","EPO","Coinsurance","Anthem - Coin EPO","Anthem Silver 70 EPO, a Multi State Plan",7
+"27603CA1150005","Anthem","27603","Silver","HMO","Copay","Anthem - Copay HMO","Anthem Silver 70 HMO",7
+"27603CA1520002","Anthem","27603","Gold","EPO","Coinsurance","Anthem - Coin EPO","Anthem Gold 80 EPO, a Multi State Plan",7
+"27603CA1150013","Anthem","27603","Gold","HMO","Copay","Anthem - Copay HMO","Anthem Gold 80 HMO",7
+"27603CA1150021","Anthem","27603","Platinum","HMO","Copay","Anthem - Copay HMO","Anthem Platinum 90 HMO",7
+"27603CA1500002","Anthem","27603","Platinum","EPO","Coinsurance","Anthem - Coin EPO","Anthem Platinum 90 EPO",7
+"27603CA1500004","Anthem","27603","HDHP Bronze","HDHP EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 HDHP EPO",7
+"27603CA1500001","Anthem","27603","Catastrophic","EPO","Coinsurance","Anthem - Coin EPO","Anthem Minimum Coverage EPO",8
+"27603CA1500003","Anthem","27603","Bronze","EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 EPO",8
+"27603CA1520001","Anthem","27603","Silver","EPO","Coinsurance","Anthem - Coin EPO","Anthem Silver 70 EPO, a Multi State Plan",8
+"27603CA1520002","Anthem","27603","Gold","EPO","Coinsurance","Anthem - Coin EPO","Anthem Gold 80 EPO, a Multi State Plan",8
+"27603CA1500002","Anthem","27603","Platinum","EPO","Coinsurance","Anthem - Coin EPO","Anthem Platinum 90 EPO",8
+"27603CA1500004","Anthem","27603","HDHP Bronze","HDHP EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 HDHP EPO",8
+"27603CA1500001","Anthem","27603","Catastrophic","EPO","Coinsurance","Anthem - Coin EPO","Anthem Minimum Coverage EPO",9
+"27603CA1500003","Anthem","27603","Bronze","EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 EPO",9
+"27603CA1520001","Anthem","27603","Silver","EPO","Coinsurance","Anthem - Coin EPO","Anthem Silver 70 EPO, a Multi State Plan",9
+"27603CA1520002","Anthem","27603","Gold","EPO","Coinsurance","Anthem - Coin EPO","Anthem Gold 80 EPO, a Multi State Plan",9
+"27603CA1500002","Anthem","27603","Platinum","EPO","Coinsurance","Anthem - Coin EPO","Anthem Platinum 90 EPO",9
+"27603CA1500004","Anthem","27603","HDHP Bronze","HDHP EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 HDHP EPO",9
+"27603CA1140003","Anthem","27603","Catastrophic","PPO","Coinsurance","Anthem - Coin PPO","Anthem Minimum Coverage PPO",10
+"27603CA1140004","Anthem","27603","Bronze","PPO","Coinsurance","Anthem - Coin PPO","Anthem Bronze 60 PPO",10
+"27603CA1400005","Anthem","27603","Silver","PPO","Coinsurance","Anthem - Coin PPO","Anthem Silver 70 PPO, a Multi State Plan",10
+"27603CA1400006","Anthem","27603","Gold","PPO","Coinsurance","Anthem - Coin PPO","Anthem Gold 80 PPO, a Multi State Plan",10
+"27603CA1140007","Anthem","27603","Platinum","PPO","Coinsurance","Anthem - Coin PPO","Anthem Platinum 90 PPO",10
+"27603CA1190002","Anthem","27603","HDHP Bronze","HDHP PPO","Coinsurance","Anthem - Coin PPO","Anthem Bronze 60 HDHP PPO",10
+"27603CA1140003","Anthem","27603","Catastrophic","PPO","Coinsurance","Anthem - Coin PPO","Anthem Minimum Coverage PPO",11
+"27603CA1140004","Anthem","27603","Bronze","PPO","Coinsurance","Anthem - Coin PPO","Anthem Bronze 60 PPO",11
+"27603CA1400005","Anthem","27603","Silver","PPO","Coinsurance","Anthem - Coin PPO","Anthem Silver 70 PPO, a Multi State Plan",11
+"27603CA1150006","Anthem","27603","Silver","HMO","Copay","Anthem - Copay HMO","Anthem Silver 70 HMO",11
+"27603CA1400006","Anthem","27603","Gold","PPO","Coinsurance","Anthem - Coin PPO","Anthem Gold 80 PPO, a Multi State Plan",11
+"27603CA1150014","Anthem","27603","Gold","HMO","Copay","Anthem - Copay HMO","Anthem Gold 80 HMO",11
+"27603CA1140007","Anthem","27603","Platinum","PPO","Coinsurance","Anthem - Coin PPO","Anthem Platinum 90 PPO",11
+"27603CA1150022","Anthem","27603","Platinum","HMO","Copay","Anthem - Copay HMO","Anthem Platinum 90 HMO",11
+"27603CA1190002","Anthem","27603","HDHP Bronze","HDHP PPO","Coinsurance","Anthem - Coin PPO","Anthem Bronze 60 HDHP PPO",11
+"27603CA1140003","Anthem","27603","Catastrophic","PPO","Coinsurance","Anthem - Coin PPO","Anthem Minimum Coverage PPO",12
+"27603CA1140004","Anthem","27603","Bronze","PPO","Coinsurance","Anthem - Coin PPO","Anthem Bronze 60 PPO",12
+"27603CA1400005","Anthem","27603","Silver","PPO","Coinsurance","Anthem - Coin PPO","Anthem Silver 70 PPO, a Multi State Plan",12
+"27603CA1400006","Anthem","27603","Gold","PPO","Coinsurance","Anthem - Coin PPO","Anthem Gold 80 PPO, a Multi State Plan",12
+"27603CA1140007","Anthem","27603","Platinum","PPO","Coinsurance","Anthem - Coin PPO","Anthem Platinum 90 PPO",12
+"27603CA1190002","Anthem","27603","HDHP Bronze","HDHP PPO","Coinsurance","Anthem - Coin PPO","Anthem Bronze 60 HDHP PPO",12
+"27603CA1140003","Anthem","27603","Catastrophic","PPO","Coinsurance","Anthem - Coin PPO","Anthem Minimum Coverage PPO",13
+"27603CA1140004","Anthem","27603","Bronze","PPO","Coinsurance","Anthem - Coin PPO","Anthem Bronze 60 PPO",13
+"27603CA1400005","Anthem","27603","Silver","PPO","Coinsurance","Anthem - Coin PPO","Anthem Silver 70 PPO, a Multi State Plan",13
+"27603CA1400006","Anthem","27603","Gold","PPO","Coinsurance","Anthem - Coin PPO","Anthem Gold 80 PPO, a Multi State Plan",13
+"27603CA1140007","Anthem","27603","Platinum","PPO","Coinsurance","Anthem - Coin PPO","Anthem Platinum 90 PPO",13
+"27603CA1190002","Anthem","27603","HDHP Bronze","HDHP PPO","Coinsurance","Anthem - Coin PPO","Anthem Bronze 60 HDHP PPO",13
+"27603CA1140003","Anthem","27603","Catastrophic","PPO","Coinsurance","Anthem - Coin PPO","Anthem Minimum Coverage PPO",14
+"27603CA1140004","Anthem","27603","Bronze","PPO","Coinsurance","Anthem - Coin PPO","Anthem Bronze 60 PPO",14
+"27603CA1400005","Anthem","27603","Silver","PPO","Coinsurance","Anthem - Coin PPO","Anthem Silver 70 PPO, a Multi State Plan",14
+"27603CA1400006","Anthem","27603","Gold","PPO","Coinsurance","Anthem - Coin PPO","Anthem Gold 80 PPO, a Multi State Plan",14
+"27603CA1140007","Anthem","27603","Platinum","PPO","Coinsurance","Anthem - Coin PPO","Anthem Platinum 90 PPO",14
+"27603CA1190002","Anthem","27603","HDHP Bronze","HDHP PPO","Coinsurance","Anthem - Coin PPO","Anthem Bronze 60 HDHP PPO",14
+"27603CA1500001","Anthem","27603","Catastrophic","EPO","Coinsurance","Anthem - Coin EPO","Anthem Minimum Coverage EPO",15
+"27603CA1500003","Anthem","27603","Bronze","EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 EPO",15
+"27603CA1520001","Anthem","27603","Silver","EPO","Coinsurance","Anthem - Coin EPO","Anthem Silver 70 EPO, a Multi State Plan",15
+"27603CA1150007","Anthem","27603","Silver","HMO","Copay","Anthem - Copay HMO","Anthem Silver 70 HMO",15
+"27603CA1520002","Anthem","27603","Gold","EPO","Coinsurance","Anthem - Coin EPO","Anthem Gold 80 EPO, a Multi State Plan",15
+"27603CA1150015","Anthem","27603","Gold","HMO","Copay","Anthem - Copay HMO","Anthem Gold 80 HMO",15
+"27603CA1150023","Anthem","27603","Platinum","HMO","Copay","Anthem - Copay HMO","Anthem Platinum 90 HMO",15
+"27603CA1500002","Anthem","27603","Platinum","EPO","Coinsurance","Anthem - Coin EPO","Anthem Platinum 90 EPO",15
+"27603CA1500004","Anthem","27603","HDHP Bronze","HDHP EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 HDHP EPO",15
+"27603CA1500001","Anthem","27603","Catastrophic","EPO","Coinsurance","Anthem - Coin EPO","Anthem Minimum Coverage EPO",16
+"27603CA1500003","Anthem","27603","Bronze","EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 EPO",16
+"27603CA1520001","Anthem","27603","Silver","EPO","Coinsurance","Anthem - Coin EPO","Anthem Silver 70 EPO, a Multi State Plan",16
+"27603CA1150008","Anthem","27603","Silver","HMO","Copay","Anthem - Copay HMO","Anthem Silver 70 HMO",16
+"27603CA1520002","Anthem","27603","Gold","EPO","Coinsurance","Anthem - Coin EPO","Anthem Gold 80 EPO, a Multi State Plan",16
+"27603CA1150016","Anthem","27603","Gold","HMO","Copay","Anthem - Copay HMO","Anthem Gold 80 HMO",16
+"27603CA1150024","Anthem","27603","Platinum","HMO","Copay","Anthem - Copay HMO","Anthem Platinum 90 HMO",16
+"27603CA1500002","Anthem","27603","Platinum","EPO","Coinsurance","Anthem - Coin EPO","Anthem Platinum 90 EPO",16
+"27603CA1500004","Anthem","27603","HDHP Bronze","HDHP EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 HDHP EPO",16
+"27603CA1500001","Anthem","27603","Catastrophic","EPO","Coinsurance","Anthem - Coin EPO","Anthem Minimum Coverage EPO",17
+"27603CA1500003","Anthem","27603","Bronze","EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 EPO",17
+"27603CA1520001","Anthem","27603","Silver","EPO","Coinsurance","Anthem - Coin EPO","Anthem Silver 70 EPO, a Multi State Plan",17
+"27603CA1150009","Anthem","27603","Silver","HMO","Copay","Anthem - Copay HMO","Anthem Silver 70 HMO",17
+"27603CA1520002","Anthem","27603","Gold","EPO","Coinsurance","Anthem - Coin EPO","Anthem Gold 80 EPO, a Multi State Plan",17
+"27603CA1150017","Anthem","27603","Gold","HMO","Copay","Anthem - Copay HMO","Anthem Gold 80 HMO",17
+"27603CA1150025","Anthem","27603","Platinum","HMO","Copay","Anthem - Copay HMO","Anthem Platinum 90 HMO",17
+"27603CA1500002","Anthem","27603","Platinum","EPO","Coinsurance","Anthem - Coin EPO","Anthem Platinum 90 EPO",17
+"27603CA1500004","Anthem","27603","HDHP Bronze","HDHP EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 HDHP EPO",17
+"27603CA1500001","Anthem","27603","Catastrophic","EPO","Coinsurance","Anthem - Coin EPO","Anthem Minimum Coverage EPO",18
+"27603CA1500003","Anthem","27603","Bronze","EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 EPO",18
+"27603CA1520001","Anthem","27603","Silver","EPO","Coinsurance","Anthem - Coin EPO","Anthem Silver 70 EPO, a Multi State Plan",18
+"27603CA1150010","Anthem","27603","Silver","HMO","Copay","Anthem - Copay HMO","Anthem Silver 70 HMO",18
+"27603CA1520002","Anthem","27603","Gold","EPO","Coinsurance","Anthem - Coin EPO","Anthem Gold 80 EPO, a Multi State Plan",18
+"27603CA1150018","Anthem","27603","Gold","HMO","Copay","Anthem - Copay HMO","Anthem Gold 80 HMO",18
+"27603CA1150026","Anthem","27603","Platinum","HMO","Copay","Anthem - Copay HMO","Anthem Platinum 90 HMO",18
+"27603CA1500002","Anthem","27603","Platinum","EPO","Coinsurance","Anthem - Coin EPO","Anthem Platinum 90 EPO",18
+"27603CA1500004","Anthem","27603","HDHP Bronze","HDHP EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 HDHP EPO",18
+"27603CA1500001","Anthem","27603","Catastrophic","EPO","Coinsurance","Anthem - Coin EPO","Anthem Minimum Coverage EPO",19
+"27603CA1500003","Anthem","27603","Bronze","EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 EPO",19
+"27603CA1520001","Anthem","27603","Silver","EPO","Coinsurance","Anthem - Coin EPO","Anthem Silver 70 EPO, a Multi State Plan",19
+"27603CA1150011","Anthem","27603","Silver","HMO","Copay","Anthem - Copay HMO","Anthem Silver 70 HMO",19
+"27603CA1520002","Anthem","27603","Gold","EPO","Coinsurance","Anthem - Coin EPO","Anthem Gold 80 EPO, a Multi State Plan",19
+"27603CA1150019","Anthem","27603","Gold","HMO","Copay","Anthem - Copay HMO","Anthem Gold 80 HMO",19
+"27603CA1150027","Anthem","27603","Platinum","HMO","Copay","Anthem - Copay HMO","Anthem Platinum 90 HMO",19
+"27603CA1500002","Anthem","27603","Platinum","EPO","Coinsurance","Anthem - Coin EPO","Anthem Platinum 90 EPO",19
+"27603CA1500004","Anthem","27603","HDHP Bronze","HDHP EPO","Coinsurance","Anthem - Coin EPO","Anthem Bronze 60 HDHP EPO",19
+"70285CA1350001","Blue Shield","70285","Catastrophic","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Minimum Coverage PPO",1
+"70285CA1310001","Blue Shield","70285","Bronze","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 PPO",1
+"70285CA1290001","Blue Shield","70285","Silver","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Silver 70 PPO",1
+"70285CA8060001","Blue Shield","70285","Silver","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Silver HMO",1
+"70285CA1270001","Blue Shield","70285","Gold","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Gold 80 PPO",1
+"70285CA8040001","Blue Shield","70285","Gold","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Gold HMO",1
+"70285CA1250001","Blue Shield","70285","Platinum","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Platinum 90 PPO",1
+"70285CA8050001","Blue Shield","70285","Platinum","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Platinum HMO",1
+"70285CA1320001","Blue Shield","70285","HDHP Bronze","HDHP PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 HSA",1
+"70285CA1350001","Blue Shield","70285","Catastrophic","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Minimum Coverage PPO",2
+"70285CA1310001","Blue Shield","70285","Bronze","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 PPO",2
+"70285CA1290001","Blue Shield","70285","Silver","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Silver 70 PPO",2
+"70285CA8060002","Blue Shield","70285","Silver","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Silver HMO",2
+"70285CA1270001","Blue Shield","70285","Gold","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Gold 80 PPO",2
+"70285CA8040002","Blue Shield","70285","Gold","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Gold HMO",2
+"70285CA1250001","Blue Shield","70285","Platinum","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Platinum 90 PPO",2
+"70285CA8050002","Blue Shield","70285","Platinum","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Platinum HMO",2
+"70285CA1320001","Blue Shield","70285","HDHP Bronze","HDHP PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 HSA",2
+"70285CA1350001","Blue Shield","70285","Catastrophic","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Minimum Coverage PPO",3
+"70285CA1310001","Blue Shield","70285","Bronze","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 PPO",3
+"70285CA1290001","Blue Shield","70285","Silver","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Silver 70 PPO",3
+"70285CA8060003","Blue Shield","70285","Silver","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Silver HMO",3
+"70285CA1270001","Blue Shield","70285","Gold","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Gold 80 PPO",3
+"70285CA8040003","Blue Shield","70285","Gold","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Gold HMO",3
+"70285CA1250001","Blue Shield","70285","Platinum","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Platinum 90 PPO",3
+"70285CA8050003","Blue Shield","70285","Platinum","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Platinum HMO",3
+"70285CA1320001","Blue Shield","70285","HDHP Bronze","HDHP PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 HSA",3
+"70285CA1350001","Blue Shield","70285","Catastrophic","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Minimum Coverage PPO",4
+"70285CA1310001","Blue Shield","70285","Bronze","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 PPO",4
+"70285CA1290001","Blue Shield","70285","Silver","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Silver 70 PPO",4
+"70285CA8060004","Blue Shield","70285","Silver","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Silver HMO",4
+"70285CA1270001","Blue Shield","70285","Gold","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Gold 80 PPO",4
+"70285CA8040004","Blue Shield","70285","Gold","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Gold HMO",4
+"70285CA1250001","Blue Shield","70285","Platinum","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Platinum 90 PPO",4
+"70285CA8050004","Blue Shield","70285","Platinum","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Platinum HMO",4
+"70285CA1320001","Blue Shield","70285","HDHP Bronze","HDHP PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 HSA",4
+"70285CA1350001","Blue Shield","70285","Catastrophic","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Minimum Coverage PPO",5
+"70285CA1310001","Blue Shield","70285","Bronze","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 PPO",5
+"70285CA1290001","Blue Shield","70285","Silver","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Silver 70 PPO",5
+"70285CA8060005","Blue Shield","70285","Silver","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Silver HMO",5
+"70285CA1270001","Blue Shield","70285","Gold","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Gold 80 PPO",5
+"70285CA8040005","Blue Shield","70285","Gold","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Gold HMO",5
+"70285CA1250001","Blue Shield","70285","Platinum","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Platinum 90 PPO",5
+"70285CA8050005","Blue Shield","70285","Platinum","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Platinum HMO",5
+"70285CA1320001","Blue Shield","70285","HDHP Bronze","HDHP PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 HSA",5
+"70285CA1350001","Blue Shield","70285","Catastrophic","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Minimum Coverage PPO",6
+"70285CA1310001","Blue Shield","70285","Bronze","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 PPO",6
+"70285CA1290001","Blue Shield","70285","Silver","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Silver 70 PPO",6
+"70285CA8060006","Blue Shield","70285","Silver","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Silver HMO",6
+"70285CA1270001","Blue Shield","70285","Gold","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Gold 80 PPO",6
+"70285CA8040006","Blue Shield","70285","Gold","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Gold HMO",6
+"70285CA1250001","Blue Shield","70285","Platinum","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Platinum 90 PPO",6
+"70285CA8050006","Blue Shield","70285","Platinum","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Platinum HMO",6
+"70285CA1320001","Blue Shield","70285","HDHP Bronze","HDHP PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 HSA",6
+"70285CA1350001","Blue Shield","70285","Catastrophic","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Minimum Coverage PPO",7
+"70285CA1310001","Blue Shield","70285","Bronze","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 PPO",7
+"70285CA1290001","Blue Shield","70285","Silver","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Silver 70 PPO",7
+"70285CA8060007","Blue Shield","70285","Silver","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Silver HMO",7
+"70285CA1270001","Blue Shield","70285","Gold","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Gold 80 PPO",7
+"70285CA8040007","Blue Shield","70285","Gold","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Gold HMO",7
+"70285CA1250001","Blue Shield","70285","Platinum","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Platinum 90 PPO",7
+"70285CA8050007","Blue Shield","70285","Platinum","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Platinum HMO",7
+"70285CA1320001","Blue Shield","70285","HDHP Bronze","HDHP PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 HSA",7
+"70285CA1350001","Blue Shield","70285","Catastrophic","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Minimum Coverage PPO",8
+"70285CA1310001","Blue Shield","70285","Bronze","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 PPO",8
+"70285CA1290001","Blue Shield","70285","Silver","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Silver 70 PPO",8
+"70285CA8060008","Blue Shield","70285","Silver","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Silver HMO",8
+"70285CA1270001","Blue Shield","70285","Gold","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Gold 80 PPO",8
+"70285CA8040008","Blue Shield","70285","Gold","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Gold HMO",8
+"70285CA1250001","Blue Shield","70285","Platinum","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Platinum 90 PPO",8
+"70285CA8050008","Blue Shield","70285","Platinum","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Platinum HMO",8
+"70285CA1320001","Blue Shield","70285","HDHP Bronze","HDHP PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 HSA",8
+"70285CA1350001","Blue Shield","70285","Catastrophic","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Minimum Coverage PPO",9
+"70285CA1310001","Blue Shield","70285","Bronze","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 PPO",9
+"70285CA1290001","Blue Shield","70285","Silver","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Silver 70 PPO",9
+"70285CA8060009","Blue Shield","70285","Silver","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Silver HMO",9
+"70285CA1270001","Blue Shield","70285","Gold","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Gold 80 PPO",9
+"70285CA8040009","Blue Shield","70285","Gold","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Gold HMO",9
+"70285CA1250001","Blue Shield","70285","Platinum","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Platinum 90 PPO",9
+"70285CA8050009","Blue Shield","70285","Platinum","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Platinum HMO",9
+"70285CA1320001","Blue Shield","70285","HDHP Bronze","HDHP PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 HSA",9
+"70285CA1350001","Blue Shield","70285","Catastrophic","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Minimum Coverage PPO",10
+"70285CA1310001","Blue Shield","70285","Bronze","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 PPO",10
+"70285CA1290001","Blue Shield","70285","Silver","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Silver 70 PPO",10
+"70285CA8060010","Blue Shield","70285","Silver","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Silver HMO",10
+"70285CA1270001","Blue Shield","70285","Gold","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Gold 80 PPO",10
+"70285CA8040010","Blue Shield","70285","Gold","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Gold HMO",10
+"70285CA1250001","Blue Shield","70285","Platinum","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Platinum 90 PPO",10
+"70285CA8050010","Blue Shield","70285","Platinum","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Platinum HMO",10
+"70285CA1320001","Blue Shield","70285","HDHP Bronze","HDHP PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 HSA",10
+"70285CA1350001","Blue Shield","70285","Catastrophic","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Minimum Coverage PPO",11
+"70285CA1310001","Blue Shield","70285","Bronze","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 PPO",11
+"70285CA1290001","Blue Shield","70285","Silver","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Silver 70 PPO",11
+"70285CA1270001","Blue Shield","70285","Gold","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Gold 80 PPO",11
+"70285CA1250001","Blue Shield","70285","Platinum","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Platinum 90 PPO",11
+"70285CA1320001","Blue Shield","70285","HDHP Bronze","HDHP PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 HSA",11
+"70285CA1350001","Blue Shield","70285","Catastrophic","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Minimum Coverage PPO",12
+"70285CA1310001","Blue Shield","70285","Bronze","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 PPO",12
+"70285CA1290001","Blue Shield","70285","Silver","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Silver 70 PPO",12
+"70285CA8060012","Blue Shield","70285","Silver","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Silver HMO",12
+"70285CA1270001","Blue Shield","70285","Gold","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Gold 80 PPO",12
+"70285CA8040012","Blue Shield","70285","Gold","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Gold HMO",12
+"70285CA1250001","Blue Shield","70285","Platinum","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Platinum 90 PPO",12
+"70285CA8050012","Blue Shield","70285","Platinum","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Platinum HMO",12
+"70285CA1320001","Blue Shield","70285","HDHP Bronze","HDHP PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 HSA",12
+"70285CA1350001","Blue Shield","70285","Catastrophic","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Minimum Coverage PPO",13
+"70285CA1310001","Blue Shield","70285","Bronze","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 PPO",13
+"70285CA1290001","Blue Shield","70285","Silver","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Silver 70 PPO",13
+"70285CA1270001","Blue Shield","70285","Gold","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Gold 80 PPO",13
+"70285CA1250001","Blue Shield","70285","Platinum","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Platinum 90 PPO",13
+"70285CA1320001","Blue Shield","70285","HDHP Bronze","HDHP PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 HSA",13
+"70285CA1350001","Blue Shield","70285","Catastrophic","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Minimum Coverage PPO",14
+"70285CA1310001","Blue Shield","70285","Bronze","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 PPO",14
+"70285CA1290001","Blue Shield","70285","Silver","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Silver 70 PPO",14
+"70285CA8060014","Blue Shield","70285","Silver","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Silver HMO",14
+"70285CA1270001","Blue Shield","70285","Gold","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Gold 80 PPO",14
+"70285CA8040014","Blue Shield","70285","Gold","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Gold HMO",14
+"70285CA1250001","Blue Shield","70285","Platinum","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Platinum 90 PPO",14
+"70285CA8050014","Blue Shield","70285","Platinum","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Platinum HMO",14
+"70285CA1320001","Blue Shield","70285","HDHP Bronze","HDHP PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 HSA",14
+"70285CA1350001","Blue Shield","70285","Catastrophic","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Minimum Coverage PPO",15
+"70285CA1310001","Blue Shield","70285","Bronze","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 PPO",15
+"70285CA1290001","Blue Shield","70285","Silver","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Silver 70 PPO",15
+"70285CA8060015","Blue Shield","70285","Silver","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Silver HMO",15
+"70285CA1270001","Blue Shield","70285","Gold","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Gold 80 PPO",15
+"70285CA8040015","Blue Shield","70285","Gold","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Gold HMO",15
+"70285CA1250001","Blue Shield","70285","Platinum","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Platinum 90 PPO",15
+"70285CA8050015","Blue Shield","70285","Platinum","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Platinum HMO",15
+"70285CA1320001","Blue Shield","70285","HDHP Bronze","HDHP PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 HSA",15
+"70285CA1350001","Blue Shield","70285","Catastrophic","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Minimum Coverage PPO",16
+"70285CA1310001","Blue Shield","70285","Bronze","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 PPO",16
+"70285CA1290001","Blue Shield","70285","Silver","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Silver 70 PPO",16
+"70285CA8060016","Blue Shield","70285","Silver","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Silver HMO",16
+"70285CA1270001","Blue Shield","70285","Gold","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Gold 80 PPO",16
+"70285CA8040016","Blue Shield","70285","Gold","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Gold HMO",16
+"70285CA1250001","Blue Shield","70285","Platinum","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Platinum 90 PPO",16
+"70285CA8050016","Blue Shield","70285","Platinum","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Platinum HMO",16
+"70285CA1320001","Blue Shield","70285","HDHP Bronze","HDHP PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 HSA",16
+"70285CA1350001","Blue Shield","70285","Catastrophic","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Minimum Coverage PPO",17
+"70285CA1310001","Blue Shield","70285","Bronze","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 PPO",17
+"70285CA1290001","Blue Shield","70285","Silver","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Silver 70 PPO",17
+"70285CA8060017","Blue Shield","70285","Silver","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Silver HMO",17
+"70285CA1270001","Blue Shield","70285","Gold","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Gold 80 PPO",17
+"70285CA8040017","Blue Shield","70285","Gold","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Gold HMO",17
+"70285CA1250001","Blue Shield","70285","Platinum","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Platinum 90 PPO",17
+"70285CA8050017","Blue Shield","70285","Platinum","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Platinum HMO",17
+"70285CA1320001","Blue Shield","70285","HDHP Bronze","HDHP PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 HSA",17
+"70285CA1350001","Blue Shield","70285","Catastrophic","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Minimum Coverage PPO",18
+"70285CA1310001","Blue Shield","70285","Bronze","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 PPO",18
+"70285CA1290001","Blue Shield","70285","Silver","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Silver 70 PPO",18
+"70285CA8060018","Blue Shield","70285","Silver","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Silver HMO",18
+"70285CA1270001","Blue Shield","70285","Gold","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Gold 80 PPO",18
+"70285CA8040018","Blue Shield","70285","Gold","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Gold HMO",18
+"70285CA1250001","Blue Shield","70285","Platinum","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Platinum 90 PPO",18
+"70285CA8050018","Blue Shield","70285","Platinum","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Platinum HMO",18
+"70285CA1320001","Blue Shield","70285","HDHP Bronze","HDHP PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 HSA",18
+"70285CA1350001","Blue Shield","70285","Catastrophic","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Minimum Coverage PPO",19
+"70285CA1310001","Blue Shield","70285","Bronze","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 PPO",19
+"70285CA1290001","Blue Shield","70285","Silver","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Silver 70 PPO",19
+"70285CA8060019","Blue Shield","70285","Silver","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Silver HMO",19
+"70285CA1270001","Blue Shield","70285","Gold","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Gold 80 PPO",19
+"70285CA8040019","Blue Shield","70285","Gold","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Gold HMO",19
+"70285CA1250001","Blue Shield","70285","Platinum","PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Platinum 90 PPO",19
+"70285CA8050019","Blue Shield","70285","Platinum","HMO","Copay","Blue Shield - Copay HMO","Blue Shield Platinum HMO",19
+"70285CA1320001","Blue Shield","70285","HDHP Bronze","HDHP PPO","Coinsurance","Blue Shield - Coin PPO","Blue Shield Bronze 60 HSA",19
+"47579CA0260001","Chinese Community","47579","Catastrophic","HMO","Copay","Chinese C. - Copay HMO","CCHP Minimum Coverage",4
+"47579CA0240001","Chinese Community","47579","Bronze","HMO","Copay","Chinese C. - Copay HMO","CCHP Bronze 60 HMO",4
+"47579CA0220001","Chinese Community","47579","Silver","HMO","Copay","Chinese C. - Copay HMO","CCHP Silver 70 HMO",4
+"47579CA0200001","Chinese Community","47579","Gold","HMO","Copay","Chinese C. - Copay HMO","CCHP Gold 80 HMO",4
+"47579CA0180001","Chinese Community","47579","Platinum","HMO","Copay","Chinese C. - Copay HMO","CCHP Platinum 90 HMO",4
+"47579CA0350001","Chinese Community","47579","Catastrophic","HMO","Copay","Chinese C. - Copay HMO","CCHP Minimum Coverage",8
+"47579CA0330001","Chinese Community","47579","Bronze","HMO","Copay","Chinese C. - Copay HMO","CCHP Bronze 60 HMO",8
+"47579CA0310001","Chinese Community","47579","Silver","HMO","Copay","Chinese C. - Copay HMO","CCHP Silver 70 HMO",8
+"47579CA0290001","Chinese Community","47579","Gold","HMO","Copay","Chinese C. - Copay HMO","CCHP Gold 80 HMO",8
+"47579CA0270001","Chinese Community","47579","Platinum","HMO","Copay","Chinese C. - Copay HMO","CCHP Platinum 90 HMO",8
+"67138CA0630002","HealthNet","67138","Catastrophic","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Minimum Coverage HSP",1
+"67138CA0630001","HealthNet","67138","Bronze","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Bronze 60 HSP",1
+"67138CA0630005","HealthNet","67138","Silver","HSP","Copay","HealthNet - Copay HSP","Health Net Silver 70 HSP",1
+"67138CA0630004","HealthNet","67138","Gold","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Gold 80 HSP",1
+"67138CA0630003","HealthNet","67138","Platinum","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Platinum 90 HSP",1
+"99110CA0340030","HealthNet","99110","Catastrophic","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Minimum Coverage EPO",2
+"99110CA0340024","HealthNet","99110","Bronze","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Bronze 60 EPO",2
+"99110CA0340018","HealthNet","99110","Silver","EPO","Copay","HealthNet - Copay EPO","Health Net Silver 70 EPO",2
+"99110CA0340012","HealthNet","99110","Gold","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Gold 80 EPO",2
+"99110CA0340006","HealthNet","99110","Platinum","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Platinum 90 EPO",2
+"67138CA0630002","HealthNet","67138","Catastrophic","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Minimum Coverage HSP",3
+"67138CA0630001","HealthNet","67138","Bronze","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Bronze 60 HSP",3
+"67138CA0630005","HealthNet","67138","Silver","HSP","Copay","HealthNet - Copay HSP","Health Net Silver 70 HSP",3
+"67138CA0630004","HealthNet","67138","Gold","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Gold 80 HSP",3
+"67138CA0630003","HealthNet","67138","Platinum","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Platinum 90 HSP",3
+"99110CA0340031","HealthNet","99110","Catastrophic","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Minimum Coverage EPO",4
+"99110CA0340025","HealthNet","99110","Bronze","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Bronze 60 EPO",4
+"99110CA0340019","HealthNet","99110","Silver","EPO","Copay","HealthNet - Copay EPO","Health Net Silver 70 EPO",4
+"99110CA0340013","HealthNet","99110","Gold","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Gold 80 EPO",4
+"99110CA0340007","HealthNet","99110","Platinum","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Platinum 90 EPO",4
+"99110CA0340032","HealthNet","99110","Catastrophic","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Minimum Coverage EPO",5
+"99110CA0340026","HealthNet","99110","Bronze","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Bronze 60 EPO",5
+"99110CA0340020","HealthNet","99110","Silver","EPO","Copay","HealthNet - Copay EPO","Health Net Silver 70 EPO",5
+"99110CA0340014","HealthNet","99110","Gold","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Gold 80 EPO",5
+"99110CA0340008","HealthNet","99110","Platinum","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Platinum 90 EPO",5
+"67138CA0630002","HealthNet","67138","Catastrophic","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Minimum Coverage HSP",7
+"67138CA0630001","HealthNet","67138","Bronze","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Bronze 60 HSP",7
+"67138CA0630005","HealthNet","67138","Silver","HSP","Copay","HealthNet - Copay HSP","Health Net Silver 70 HSP",7
+"67138CA0630004","HealthNet","67138","Gold","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Gold 80 HSP",7
+"67138CA0630003","HealthNet","67138","Platinum","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Platinum 90 HSP",7
+"99110CA0340033","HealthNet","99110","Catastrophic","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Minimum Coverage EPO",8
+"99110CA0340027","HealthNet","99110","Bronze","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Bronze 60 EPO",8
+"99110CA0340021","HealthNet","99110","Silver","EPO","Copay","HealthNet - Copay EPO","Health Net Silver 70 EPO",8
+"99110CA0340015","HealthNet","99110","Gold","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Gold 80 EPO",8
+"99110CA0340009","HealthNet","99110","Platinum","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Platinum 90 EPO",8
+"99110CA0340034","HealthNet","99110","Catastrophic","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Minimum Coverage EPO",9
+"99110CA0340028","HealthNet","99110","Bronze","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Bronze 60 EPO",9
+"99110CA0340022","HealthNet","99110","Silver","EPO","Copay","HealthNet - Copay EPO","Health Net Silver 70 EPO",9
+"99110CA0340016","HealthNet","99110","Gold","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Gold 80 EPO",9
+"99110CA0340010","HealthNet","99110","Platinum","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Platinum 90 EPO",9
+"99110CA0340035","HealthNet","99110","Catastrophic","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Minimum Coverage EPO",10
+"99110CA0340029","HealthNet","99110","Bronze","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Bronze 60 EPO",10
+"99110CA0340023","HealthNet","99110","Silver","EPO","Copay","HealthNet - Copay EPO","Health Net Silver 70 EPO",10
+"99110CA0340017","HealthNet","99110","Gold","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Gold 80 EPO",10
+"99110CA0340011","HealthNet","99110","Platinum","EPO","Coinsurance","HealthNet - Coin EPO","Health Net Platinum 90 EPO",10
+"67138CA0630002","HealthNet","67138","Catastrophic","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Minimum Coverage HSP",11
+"67138CA0630001","HealthNet","67138","Bronze","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Bronze 60 HSP",11
+"67138CA0630005","HealthNet","67138","Silver","HSP","Copay","HealthNet - Copay HSP","Health Net Silver 70 HSP",11
+"67138CA0630004","HealthNet","67138","Gold","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Gold 80 HSP",11
+"67138CA0630003","HealthNet","67138","Platinum","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Platinum 90 HSP",11
+"67138CA0630002","HealthNet","67138","Catastrophic","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Minimum Coverage HSP",14
+"67138CA0630001","HealthNet","67138","Bronze","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Bronze 60 HSP",14
+"67138CA0520021","HealthNet","67138","Silver","HMO","Copay","HealthNet - Copay HMO","Health Net Silver 70 HMO",14
+"67138CA0520020","HealthNet","67138","Gold","HMO","Copay","HealthNet - Copay HMO","Health Net Gold 80 HMO",14
+"67138CA0520019","HealthNet","67138","Platinum","HMO","Copay","HealthNet - Copay HMO","Health Net Platinum 90 HMO",14
+"67138CA0630002","HealthNet","67138","Catastrophic","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Minimum Coverage HSP",15
+"67138CA0630001","HealthNet","67138","Bronze","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Bronze 60 HSP",15
+"67138CA0520014","HealthNet","67138","Silver","HMO","Copay","HealthNet - Copay HMO","Health Net Silver 70 HMO",15
+"67138CA0520009","HealthNet","67138","Gold","HMO","Copay","HealthNet - Copay HMO","Health Net Gold 80 HMO",15
+"67138CA0520004","HealthNet","67138","Platinum","HMO","Copay","HealthNet - Copay HMO","Health Net Platinum 90 HMO",15
+"67138CA0630002","HealthNet","67138","Catastrophic","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Minimum Coverage HSP",16
+"67138CA0630001","HealthNet","67138","Bronze","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Bronze 60 HSP",16
+"67138CA0520015","HealthNet","67138","Silver","HMO","Copay","HealthNet - Copay HMO","Health Net Silver 70 HMO",16
+"67138CA0520010","HealthNet","67138","Gold","HMO","Copay","HealthNet - Copay HMO","Health Net Gold 80 HMO",16
+"67138CA0520005","HealthNet","67138","Platinum","HMO","Copay","HealthNet - Copay HMO","Health Net Platinum 90 HMO",16
+"67138CA0630002","HealthNet","67138","Catastrophic","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Minimum Coverage HSP",17
+"67138CA0630001","HealthNet","67138","Bronze","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Bronze 60 HSP",17
+"67138CA0520016","HealthNet","67138","Silver","HMO","Copay","HealthNet - Copay HMO","Health Net Silver 70 HMO",17
+"67138CA0520011","HealthNet","67138","Gold","HMO","Copay","HealthNet - Copay HMO","Health Net Gold 80 HMO",17
+"67138CA0520006","HealthNet","67138","Platinum","HMO","Copay","HealthNet - Copay HMO","Health Net Platinum 90 HMO",17
+"67138CA0630002","HealthNet","67138","Catastrophic","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Minimum Coverage HSP",18
+"67138CA0630001","HealthNet","67138","Bronze","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Bronze 60 HSP",18
+"67138CA0520017","HealthNet","67138","Silver","HMO","Copay","HealthNet - Copay HMO","Health Net Silver 70 HMO",18
+"67138CA0520012","HealthNet","67138","Gold","HMO","Copay","HealthNet - Copay HMO","Health Net Gold 80 HMO",18
+"67138CA0520007","HealthNet","67138","Platinum","HMO","Copay","HealthNet - Copay HMO","Health Net Platinum 90 HMO",18
+"67138CA0630002","HealthNet","67138","Catastrophic","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Minimum Coverage HSP",19
+"67138CA0630001","HealthNet","67138","Bronze","HSP","Coinsurance","HealthNet - Coin HSP","Health Net Bronze 60 HSP",19
+"67138CA0520018","HealthNet","67138","Silver","HMO","Copay","HealthNet - Copay HMO","Health Net Silver 70 HMO",19
+"67138CA0520013","HealthNet","67138","Gold","HMO","Copay","HealthNet - Copay HMO","Health Net Gold 80 HMO",19
+"67138CA0520008","HealthNet","67138","Platinum","HMO","Copay","HealthNet - Copay HMO","Health Net Platinum 90 HMO",19
+"40513CA0380006","Kaiser","40513","Catastrophic","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Minimum Coverage",1
+"40513CA0380004","Kaiser","40513","Bronze","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Bronze 60 HMO",1
+"40513CA0380003","Kaiser","40513","Silver","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Silver 70 HMO",1
+"40513CA0380002","Kaiser","40513","Gold","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Gold 80 HMO Copay",1
+"40513CA0380013","Kaiser","40513","Gold","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Gold 80 HMO Coinsurance",1
+"40513CA0380001","Kaiser","40513","Platinum","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Platinum 90 HMO",1
+"40513CA0380005","Kaiser","40513","HDHP Bronze","HDHP HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Bronze 60 HDHP HMO",1
+"40513CA0380006","Kaiser","40513","Catastrophic","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Minimum Coverage",2
+"40513CA0380004","Kaiser","40513","Bronze","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Bronze 60 HMO",2
+"40513CA0380003","Kaiser","40513","Silver","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Silver 70 HMO",2
+"40513CA0380002","Kaiser","40513","Gold","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Gold 80 HMO Copay",2
+"40513CA0380013","Kaiser","40513","Gold","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Gold 80 HMO Coinsurance",2
+"40513CA0380001","Kaiser","40513","Platinum","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Platinum 90 HMO",2
+"40513CA0380005","Kaiser","40513","HDHP Bronze","HDHP HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Bronze 60 HDHP HMO",2
+"40513CA0380006","Kaiser","40513","Catastrophic","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Minimum Coverage",3
+"40513CA0380004","Kaiser","40513","Bronze","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Bronze 60 HMO",3
+"40513CA0380003","Kaiser","40513","Silver","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Silver 70 HMO",3
+"40513CA0380002","Kaiser","40513","Gold","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Gold 80 HMO Copay",3
+"40513CA0380013","Kaiser","40513","Gold","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Gold 80 HMO Coinsurance",3
+"40513CA0380001","Kaiser","40513","Platinum","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Platinum 90 HMO",3
+"40513CA0380005","Kaiser","40513","HDHP Bronze","HDHP HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Bronze 60 HDHP HMO",3
+"40513CA0380006","Kaiser","40513","Catastrophic","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Minimum Coverage",4
+"40513CA0380004","Kaiser","40513","Bronze","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Bronze 60 HMO",4
+"40513CA0380003","Kaiser","40513","Silver","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Silver 70 HMO",4
+"40513CA0380002","Kaiser","40513","Gold","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Gold 80 HMO Copay",4
+"40513CA0380013","Kaiser","40513","Gold","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Gold 80 HMO Coinsurance",4
+"40513CA0380001","Kaiser","40513","Platinum","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Platinum 90 HMO",4
+"40513CA0380005","Kaiser","40513","HDHP Bronze","HDHP HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Bronze 60 HDHP HMO",4
+"40513CA0380006","Kaiser","40513","Catastrophic","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Minimum Coverage",5
+"40513CA0380004","Kaiser","40513","Bronze","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Bronze 60 HMO",5
+"40513CA0380003","Kaiser","40513","Silver","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Silver 70 HMO",5
+"40513CA0380002","Kaiser","40513","Gold","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Gold 80 HMO Copay",5
+"40513CA0380013","Kaiser","40513","Gold","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Gold 80 HMO Coinsurance",5
+"40513CA0380001","Kaiser","40513","Platinum","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Platinum 90 HMO",5
+"40513CA0380005","Kaiser","40513","HDHP Bronze","HDHP HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Bronze 60 HDHP HMO",5
+"40513CA0380006","Kaiser","40513","Catastrophic","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Minimum Coverage",6
+"40513CA0380004","Kaiser","40513","Bronze","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Bronze 60 HMO",6
+"40513CA0380003","Kaiser","40513","Silver","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Silver 70 HMO",6
+"40513CA0380002","Kaiser","40513","Gold","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Gold 80 HMO Copay",6
+"40513CA0380013","Kaiser","40513","Gold","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Gold 80 HMO Coinsurance",6
+"40513CA0380001","Kaiser","40513","Platinum","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Platinum 90 HMO",6
+"40513CA0380005","Kaiser","40513","HDHP Bronze","HDHP HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Bronze 60 HDHP HMO",6
+"40513CA0380006","Kaiser","40513","Catastrophic","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Minimum Coverage",7
+"40513CA0380004","Kaiser","40513","Bronze","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Bronze 60 HMO",7
+"40513CA0380003","Kaiser","40513","Silver","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Silver 70 HMO",7
+"40513CA0380002","Kaiser","40513","Gold","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Gold 80 HMO Copay",7
+"40513CA0380013","Kaiser","40513","Gold","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Gold 80 HMO Coinsurance",7
+"40513CA0380001","Kaiser","40513","Platinum","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Platinum 90 HMO",7
+"40513CA0380005","Kaiser","40513","HDHP Bronze","HDHP HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Bronze 60 HDHP HMO",7
+"40513CA0380006","Kaiser","40513","Catastrophic","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Minimum Coverage",8
+"40513CA0380004","Kaiser","40513","Bronze","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Bronze 60 HMO",8
+"40513CA0380003","Kaiser","40513","Silver","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Silver 70 HMO",8
+"40513CA0380002","Kaiser","40513","Gold","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Gold 80 HMO Copay",8
+"40513CA0380013","Kaiser","40513","Gold","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Gold 80 HMO Coinsurance",8
+"40513CA0380001","Kaiser","40513","Platinum","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Platinum 90 HMO",8
+"40513CA0380005","Kaiser","40513","HDHP Bronze","HDHP HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Bronze 60 HDHP HMO",8
+"40513CA0380006","Kaiser","40513","Catastrophic","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Minimum Coverage",9
+"40513CA0380004","Kaiser","40513","Bronze","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Bronze 60 HMO",9
+"40513CA0380003","Kaiser","40513","Silver","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Silver 70 HMO",9
+"40513CA0380002","Kaiser","40513","Gold","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Gold 80 HMO Copay",9
+"40513CA0380013","Kaiser","40513","Gold","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Gold 80 HMO Coinsurance",9
+"40513CA0380001","Kaiser","40513","Platinum","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Platinum 90 HMO",9
+"40513CA0380005","Kaiser","40513","HDHP Bronze","HDHP HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Bronze 60 HDHP HMO",9
+"40513CA0380006","Kaiser","40513","Catastrophic","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Minimum Coverage",10
+"40513CA0380004","Kaiser","40513","Bronze","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Bronze 60 HMO",10
+"40513CA0380003","Kaiser","40513","Silver","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Silver 70 HMO",10
+"40513CA0380002","Kaiser","40513","Gold","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Gold 80 HMO Copay",10
+"40513CA0380013","Kaiser","40513","Gold","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Gold 80 HMO Coinsurance",10
+"40513CA0380001","Kaiser","40513","Platinum","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Platinum 90 HMO",10
+"40513CA0380005","Kaiser","40513","HDHP Bronze","HDHP HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Bronze 60 HDHP HMO",10
+"40513CA0380006","Kaiser","40513","Catastrophic","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Minimum Coverage",11
+"40513CA0380004","Kaiser","40513","Bronze","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Bronze 60 HMO",11
+"40513CA0380003","Kaiser","40513","Silver","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Silver 70 HMO",11
+"40513CA0380002","Kaiser","40513","Gold","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Gold 80 HMO Copay",11
+"40513CA0380013","Kaiser","40513","Gold","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Gold 80 HMO Coinsurance",11
+"40513CA0380001","Kaiser","40513","Platinum","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Platinum 90 HMO",11
+"40513CA0380005","Kaiser","40513","HDHP Bronze","HDHP HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Bronze 60 HDHP HMO",11
+"40513CA0380006","Kaiser","40513","Catastrophic","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Minimum Coverage",12
+"40513CA0380004","Kaiser","40513","Bronze","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Bronze 60 HMO",12
+"40513CA0380003","Kaiser","40513","Silver","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Silver 70 HMO",12
+"40513CA0380002","Kaiser","40513","Gold","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Gold 80 HMO Copay",12
+"40513CA0380013","Kaiser","40513","Gold","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Gold 80 HMO Coinsurance",12
+"40513CA0380001","Kaiser","40513","Platinum","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Platinum 90 HMO",12
+"40513CA0380005","Kaiser","40513","HDHP Bronze","HDHP HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Bronze 60 HDHP HMO",12
+"40513CA0380006","Kaiser","40513","Catastrophic","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Minimum Coverage",13
+"40513CA0380004","Kaiser","40513","Bronze","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Bronze 60 HMO",13
+"40513CA0380003","Kaiser","40513","Silver","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Silver 70 HMO",13
+"40513CA0380002","Kaiser","40513","Gold","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Gold 80 HMO Copay",13
+"40513CA0380013","Kaiser","40513","Gold","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Gold 80 HMO Coinsurance",13
+"40513CA0380001","Kaiser","40513","Platinum","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Platinum 90 HMO",13
+"40513CA0380005","Kaiser","40513","HDHP Bronze","HDHP HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Bronze 60 HDHP HMO",13
+"40513CA0380006","Kaiser","40513","Catastrophic","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Minimum Coverage",14
+"40513CA0380004","Kaiser","40513","Bronze","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Bronze 60 HMO",14
+"40513CA0380003","Kaiser","40513","Silver","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Silver 70 HMO",14
+"40513CA0380002","Kaiser","40513","Gold","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Gold 80 HMO Copay",14
+"40513CA0380013","Kaiser","40513","Gold","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Gold 80 HMO Coinsurance",14
+"40513CA0380001","Kaiser","40513","Platinum","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Platinum 90 HMO",14
+"40513CA0380005","Kaiser","40513","HDHP Bronze","HDHP HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Bronze 60 HDHP HMO",14
+"40513CA0380006","Kaiser","40513","Catastrophic","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Minimum Coverage",15
+"40513CA0380004","Kaiser","40513","Bronze","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Bronze 60 HMO",15
+"40513CA0380003","Kaiser","40513","Silver","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Silver 70 HMO",15
+"40513CA0380002","Kaiser","40513","Gold","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Gold 80 HMO Copay",15
+"40513CA0380013","Kaiser","40513","Gold","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Gold 80 HMO Coinsurance",15
+"40513CA0380001","Kaiser","40513","Platinum","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Platinum 90 HMO",15
+"40513CA0380005","Kaiser","40513","HDHP Bronze","HDHP HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Bronze 60 HDHP HMO",15
+"40513CA0380006","Kaiser","40513","Catastrophic","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Minimum Coverage",16
+"40513CA0380004","Kaiser","40513","Bronze","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Bronze 60 HMO",16
+"40513CA0380003","Kaiser","40513","Silver","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Silver 70 HMO",16
+"40513CA0380002","Kaiser","40513","Gold","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Gold 80 HMO Copay",16
+"40513CA0380013","Kaiser","40513","Gold","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Gold 80 HMO Coinsurance",16
+"40513CA0380001","Kaiser","40513","Platinum","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Platinum 90 HMO",16
+"40513CA0380005","Kaiser","40513","HDHP Bronze","HDHP HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Bronze 60 HDHP HMO",16
+"40513CA0380006","Kaiser","40513","Catastrophic","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Minimum Coverage",17
+"40513CA0380004","Kaiser","40513","Bronze","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Bronze 60 HMO",17
+"40513CA0380003","Kaiser","40513","Silver","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Silver 70 HMO",17
+"40513CA0380002","Kaiser","40513","Gold","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Gold 80 HMO Copay",17
+"40513CA0380013","Kaiser","40513","Gold","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Gold 80 HMO Coinsurance",17
+"40513CA0380001","Kaiser","40513","Platinum","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Platinum 90 HMO",17
+"40513CA0380005","Kaiser","40513","HDHP Bronze","HDHP HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Bronze 60 HDHP HMO",17
+"40513CA0380006","Kaiser","40513","Catastrophic","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Minimum Coverage",18
+"40513CA0380004","Kaiser","40513","Bronze","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Bronze 60 HMO",18
+"40513CA0380003","Kaiser","40513","Silver","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Silver 70 HMO",18
+"40513CA0380002","Kaiser","40513","Gold","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Gold 80 HMO Copay",18
+"40513CA0380013","Kaiser","40513","Gold","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Gold 80 HMO Coinsurance",18
+"40513CA0380001","Kaiser","40513","Platinum","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Platinum 90 HMO",18
+"40513CA0380005","Kaiser","40513","HDHP Bronze","HDHP HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Bronze 60 HDHP HMO",18
+"40513CA0380006","Kaiser","40513","Catastrophic","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Minimum Coverage",19
+"40513CA0380004","Kaiser","40513","Bronze","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Bronze 60 HMO",19
+"40513CA0380003","Kaiser","40513","Silver","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Silver 70 HMO",19
+"40513CA0380002","Kaiser","40513","Gold","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Gold 80 HMO Copay",19
+"40513CA0380013","Kaiser","40513","Gold","HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Gold 80 HMO Coinsurance",19
+"40513CA0380001","Kaiser","40513","Platinum","HMO","Copay","Kaiser - Copay HMO","Kaiser Permanente - Platinum 90 HMO",19
+"40513CA0380005","Kaiser","40513","HDHP Bronze","HDHP HMO","Coinsurance","Kaiser - Coin HMO","Kaiser Permanente - Bronze 60 HDHP HMO",19
+"92815CA0010005","L.A. Care","92815","Catastrophic","HMO","Coinsurance","L.A. Care - Coin HMO","LA Care Minimum Coverage HMO",15
+"92815CA0010004","L.A. Care","92815","Bronze","HMO","Coinsurance","L.A. Care - Coin HMO","LA Care Bronze 60 HMO",15
+"92815CA0010008","L.A. Care","92815","Silver","HMO","Copay","L.A. Care - Copay HMO","LA Care Silver 70 HMO",15
+"92815CA0010007","L.A. Care","92815","Gold","HMO","Copay","L.A. Care - Copay HMO","LA Care Gold 80 HMO",15
+"92815CA0010006","L.A. Care","92815","Platinum","HMO","Copay","L.A. Care - Copay HMO","LA Care Platinum 90 HMO",15
+"92815CA0010005","L.A. Care","92815","Catastrophic","HMO","Coinsurance","L.A. Care - Coin HMO","LA Care Minimum Coverage HMO",16
+"92815CA0010004","L.A. Care","92815","Bronze","HMO","Coinsurance","L.A. Care - Coin HMO","LA Care Bronze 60 HMO",16
+"92815CA0010008","L.A. Care","92815","Silver","HMO","Copay","L.A. Care - Copay HMO","LA Care Silver 70 HMO",16
+"92815CA0010007","L.A. Care","92815","Gold","HMO","Copay","L.A. Care - Copay HMO","LA Care Gold 80 HMO",16
+"92815CA0010006","L.A. Care","92815","Platinum","HMO","Copay","L.A. Care - Copay HMO","LA Care Platinum 90 HMO",16
+"18126CA0010005","Molina","18126","Catastrophic","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Catastrophic ",13
+"18126CA0010004","Molina","18126","Bronze","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Bronze",13
+"18126CA0010003","Molina","18126","Silver","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Silver",13
+"18126CA0010002","Molina","18126","Gold","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Gold",13
+"18126CA0010001","Molina","18126","Platinum","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Platinum",13
+"18126CA0010005","Molina","18126","Catastrophic","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Catastrophic ",15
+"18126CA0010004","Molina","18126","Bronze","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Bronze",15
+"18126CA0010003","Molina","18126","Silver","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Silver",15
+"18126CA0010002","Molina","18126","Gold","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Gold",15
+"18126CA0010001","Molina","18126","Platinum","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Platinum",15
+"18126CA0010005","Molina","18126","Catastrophic","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Catastrophic ",16
+"18126CA0010004","Molina","18126","Bronze","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Bronze",16
+"18126CA0010003","Molina","18126","Silver","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Silver",16
+"18126CA0010002","Molina","18126","Gold","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Gold",16
+"18126CA0010001","Molina","18126","Platinum","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Platinum",16
+"18126CA0010005","Molina","18126","Catastrophic","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Catastrophic ",17
+"18126CA0010004","Molina","18126","Bronze","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Bronze",17
+"18126CA0010003","Molina","18126","Silver","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Silver",17
+"18126CA0010002","Molina","18126","Gold","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Gold",17
+"18126CA0010001","Molina","18126","Platinum","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Platinum",17
+"18126CA0010005","Molina","18126","Catastrophic","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Catastrophic ",18
+"18126CA0010004","Molina","18126","Bronze","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Bronze",18
+"18126CA0010003","Molina","18126","Silver","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Silver",18
+"18126CA0010002","Molina","18126","Gold","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Gold",18
+"18126CA0010001","Molina","18126","Platinum","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Platinum",18
+"18126CA0010005","Molina","18126","Catastrophic","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Catastrophic ",19
+"18126CA0010004","Molina","18126","Bronze","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Bronze",19
+"18126CA0010003","Molina","18126","Silver","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Silver",19
+"18126CA0010002","Molina","18126","Gold","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Gold",19
+"18126CA0010001","Molina","18126","Platinum","HMO","Coinsurance","Molina - Coin HMO","Molina Marketplace Platinum",19
+"10544CA0080001","Oscar","10544","Catastrophic","EPO","Copay","Oscar - Copay EPO","Oscar Minimum Coverage EPO",4
+"10544CA0110001","Oscar","10544","Bronze","EPO","Copay","Oscar - Copay EPO","Oscar Bronze 60 EPO",4
+"10544CA0120001","Oscar","10544","Silver","EPO","Copay","Oscar - Copay EPO","Oscar Silver 70 EPO",4
+"10544CA0100001","Oscar","10544","Gold","EPO","Copay","Oscar - Copay EPO","Oscar Gold 80 EPO",4
+"10544CA0090001","Oscar","10544","Platinum","EPO","Copay","Oscar - Copay EPO","Oscar Platinum 90 EPO",4
+"10544CA0080001","Oscar","10544","Catastrophic","EPO","Copay","Oscar - Copay EPO","Oscar Minimum Coverage EPO",16
+"10544CA0110001","Oscar","10544","Bronze","EPO","Copay","Oscar - Copay EPO","Oscar Bronze 60 EPO",16
+"10544CA0120001","Oscar","10544","Silver","EPO","Copay","Oscar - Copay EPO","Oscar Silver 70 EPO",16
+"10544CA0100001","Oscar","10544","Gold","EPO","Copay","Oscar - Copay EPO","Oscar Gold 80 EPO",16
+"10544CA0090001","Oscar","10544","Platinum","EPO","Copay","Oscar - Copay EPO","Oscar Platinum 90 EPO",16
+"10544CA0080001","Oscar","10544","Catastrophic","EPO","Copay","Oscar - Copay EPO","Oscar Minimum Coverage EPO",18
+"10544CA0110001","Oscar","10544","Bronze","EPO","Copay","Oscar - Copay EPO","Oscar Bronze 60 EPO",18
+"10544CA0120001","Oscar","10544","Silver","EPO","Copay","Oscar - Copay EPO","Oscar Silver 70 EPO",18
+"10544CA0100001","Oscar","10544","Gold","EPO","Copay","Oscar - Copay EPO","Oscar Gold 80 EPO",18
+"10544CA0090001","Oscar","10544","Platinum","EPO","Copay","Oscar - Copay EPO","Oscar Platinum 90 EPO",18
+"92499CA0020010","Sharp","92499","Catastrophic","HMO","Coinsurance","Sharp - Coin HMO","SHARP Minimum Coverage HMO Network 2",19
+"92499CA0020008","Sharp","92499","Bronze","HMO","Coinsurance","Sharp - Coin HMO","SHARP Bronze 60 HMO Network 2",19
+"92499CA0020005","Sharp","92499","Silver","HMO","Coinsurance","Sharp - Coin HMO","SHARP Silver 70 HMO Network 2",19
+"92499CA0020006","Sharp","92499","Silver","HMO","Copay","Sharp - Copay HMO","SHARP Silver 70 HMO Network 1",19
+"92499CA0020003","Sharp","92499","Gold","HMO","Coinsurance","Sharp - Coin HMO","SHARP Gold 80 HMO Network 2",19
+"92499CA0020004","Sharp","92499","Gold","HMO","Copay","Sharp - Copay HMO","SHARP Gold 80 HMO Network 1",19
+"92499CA0020001","Sharp","92499","Platinum","HMO","Coinsurance","Sharp - Coin HMO","SHARP Platinum 90 HMO Network 2",19
+"92499CA0020002","Sharp","92499","Platinum","HMO","Copay","Sharp - Copay HMO","SHARP Platinum 90 HMO Network 1",19
+"92499CA0020009","Sharp","92499","HDHP Bronze","HDHP HMO","Copay","Sharp - Copay HMO","SHARP Bronze 60 HDHP HMO Network 1",19
+"84014CA0010005","Valley","84014","Catastrophic","HMO","Coinsurance","Valley - Coin HMO","VHP Minimum Coverage HMO",7
+"84014CA0010004","Valley","84014","Bronze","HMO","Copay","Valley - Copay HMO","VHP Bronze 60 HMO",7
+"84014CA0010003","Valley","84014","Silver","HMO","Copay","Valley - Copay HMO","VHP Silver 70 HMO",7
+"84014CA0010002","Valley","84014","Gold","HMO","Copay","Valley - Copay HMO","VHP Gold 80 HMO",7
+"84014CA0010001","Valley","84014","Platinum","HMO","Copay","Valley - Copay HMO","VHP Platinum 90 HMO",7
+"93689CA0120005","Western","93689","Catastrophic","HMO","Copay","Western - Copay HMO","Western Health Advantage Minimum Coverage HMO ",2
+"93689CA0120004","Western","93689","Bronze","HMO","Copay","Western - Copay HMO","Western Health Advantage Bronze 60 HMO ",2
+"93689CA0120001","Western","93689","Silver","HMO","Copay","Western - Copay HMO","Western Health Advantage Silver 70 HMO ",2
+"93689CA0110002","Western","93689","Gold","HMO","Copay","Western - Copay HMO","Western Health Advantage Gold 80 HMO",2
+"93689CA0110001","Western","93689","Platinum","HMO","Copay","Western - Copay HMO","Western Health Advantage Platinum 90 HMO",2
+"93689CA0130002","Western","93689","HDHP Bronze","HDHP HMO","Copay","Western - Copay HMO","Western Health Advantage Bronze 60 HDHP HMO ",2
+"93689CA0160003","Western","93689","Catastrophic","HMO","Copay","Western - Copay HMO","Western Health Advantage Minimum Coverage HMO ",3
+"93689CA0160002","Western","93689","Bronze","HMO","Copay","Western - Copay HMO","Western Health Advantage Bronze 60 HMO ",3
+"93689CA0160001","Western","93689","Silver","HMO","Copay","Western - Copay HMO","Western Health Advantage Silver 70 HMO ",3
+"93689CA0150002","Western","93689","Gold","HMO","Copay","Western - Copay HMO","Western Health Advantage Gold 80 HMO ",3
+"93689CA0150001","Western","93689","Platinum","HMO","Copay","Western - Copay HMO","Western Health Advantage Platinum 90 HMO ",3
+"93689CA0170001","Western","93689","HDHP Bronze","HDHP HMO","Copay","Western - Copay HMO","Western Health Advantage Bronze 60 HDHP HMO ",3

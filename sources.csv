@@ -6,7 +6,7 @@ year,state,information,source_format,source,direct_email,notes,direct_url,url_la
 2017,California,insurers,.xlsx,Covered California,,"Spreadsheet separates out by plan type (PPO, HMO, etc), I collapsed by insurer",http://hbex.coveredca.com/data-research/library/2017-Products-By-Zip-Code.xlsx,http://hbex.coveredca.com/data-research/
 2017,California,county enrollment,.xlsx,Covered California,,"In ""Statewide"" tab, ""County by subsidy"" table",http://hbex.coveredca.com/data-research/library/CC_Open_Enrollment_Profile_2017.xlsx,http://hbex.coveredca.com/data-research/
 2016,California,plans,PUF .xls,CMS,,2016 state-based marketplace PUFs,,https://www.cms.gov/CCIIO/Resources/Data-Resources/sbm-puf.html
-2014,California,insurers,.xlsx,Covered California,Combination of insurers by rating area and county enrollment by insurer,,,http://hbex.coveredca.com/data-research/
+2014,California,insurers,.xlsx,Covered California,,Combination of insurers by rating area and county enrollment by insurer,,http://hbex.coveredca.com/data-research/
 2017,Colorado,insurers,.pdf,Colorado Department of Regulatory Agencies,,Parsed in Tabula,https://drive.google.com/file/d/0BwguXutc4vbpSzgwWjVjQXJFbGs/view,https://www.colorado.gov/dora/node/100241
 2017,Colorado,county enrollment,.xlsx,Connect for Health Colorado,,2016 and 2017 spreadsheet provided on 04/05/17 by email request,,
 2016,Colorado,plans,PUF .xls,CMS,,2016 state-based marketplace PUFs,,https://www.cms.gov/CCIIO/Resources/Data-Resources/sbm-puf.html

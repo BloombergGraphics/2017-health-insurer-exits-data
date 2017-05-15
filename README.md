@@ -2,7 +2,7 @@
 
 This repo contains data and code used in an April 27, 2017 story, [Thousands of Obamacare Customers Left Without Options as Insurers Bolt](https://www.bloomberg.com/graphics/2017-health-insurer-exits/).
 
-The data comes from many sources including [data.healthcare.gov](https://data.healthcare.gov/), state based marketplaces, Centers for Medicare and Medicaid Services, and SERFF filings. For a full list, see [sources.csv](sources.csv).
+The data comes from many sources including [data.healthcare.gov](https://data.healthcare.gov/), state based marketplaces, Centers for Medicare and Medicaid Services and System for Electronic Rates & Forms Filing documents. For a full list, see [sources.csv](sources.csv).
 
 ## Files
 The [data](data/) folder includes 4 national files:

@@ -5,7 +5,7 @@ This repo contains data and code used in an April 27, 2017 story, [Thousands of 
 The data comes from many sources including [data.healthcare.gov](https://data.healthcare.gov/), state based marketplaces, Centers for Medicare and Medicaid Services, and SERFF filings. For a full list, see [sources.csv](sources.csv).
 
 ## Files
-The [data](data/) folder includes cleaned national files that list insurers by county and enrollment by county. This folder also includes a [fips.csv](data/fips.csv), a CSV of county fips codes and county names and [hios-ids.csv](data/hios-ids.csv), an incomplete list of HIOS issuer IDs, used for reference in a few states.
+The [data](data/) folder includes cleaned national files that list on-exchange individual medical insurers by county and enrollment by county. This folder also includes a [fips.csv](data/fips.csv), a CSV of county fips codes and county names and [hios-ids.csv](data/hios-ids.csv), an incomplete list of HIOS issuer IDs, used for reference in a few states.
 
 The R scripts used to collect and clean source data and generate these files can be found in [scripts](scripts/). The compilation scripts used to create the national datasets in [data](data/), after running initial data downloading and processing scripts, are [processEnrollment.R](scripts/processEnrollment.R) and [marketplacePlans.R](scripts/marketplacePlans.R).
 

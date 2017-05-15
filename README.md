@@ -2,7 +2,7 @@
 
 This repo contains data and code used in an April 27, 2017 story, [Thousands of Obamacare Customers Left Without Options as Insurers Bolt](https://www.bloomberg.com/graphics/2017-health-insurer-exits/).
 
-The data comes from many sources including [data.healthcare.gov](https://data.healthcare.gov/), state based marketplaces, CMS, and SERFF filings. For a full list, see [sources.csv](sources.csv).
+The data comes from many sources including [data.healthcare.gov](https://data.healthcare.gov/), state based marketplaces, Centers for Medicare and Medicaid Services, and SERFF filings. For a full list, see [sources.csv](sources.csv).
 
 ## Files
 The [data](data/) folder includes cleaned national files that list insurers by county and enrollment by county. This folder also includes a [fips.csv](data/fips.csv), a CSV of county fips codes and county names and [hios-ids.csv](data/hios-ids.csv), an incomplete list of HIOS issuer IDs, used for reference in a few states.
@@ -16,7 +16,7 @@ The [data-original](data-original/) folder includes many datasets used in interi
 The 2016 state-based marketplace public use files are downloaded via python using (downloadSbmPuf.py)(scripts/downloadSbmPuf.py), or can be downloaded directly from [CMS](https://www.cms.gov/CCIIO/Resources/Data-Resources/sbm-puf.html). Note: these files contain known errors. For example, at publication time, the DC files omit one of their two insurers. The SBM PUFs are *only* used for a few states with heavy data checking when other data sources are unavailable.
 
 ## Missing data
-At publication time, reliable insurer participation by county was not available for the following states: Maryland in 2014, Kentucky in 2014, California in 2015. We have ongoing public records requests in these states and will update this dataset if the data becomes available.
+At publication time, reliable insurer participation by county was not available for the following states: Maryland in 2014, Kentucky in 2014, California in 2015. We have ongoing public records requests in these states and will update this dataset if the data become available.
 
 ## Methods
 ### Sources

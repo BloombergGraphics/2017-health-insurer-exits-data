@@ -1,191 +1,191 @@
-"year","fips_county","county_name","issuer_name","state_code","rating_area","plans"
-2015,"24001","Allegany County","Carefirst","MD",,
-2015,"24001","Allegany County","UnitedHealthCare","MD",,
-2015,"24001","Allegany County","Cigna","MD",,
-2015,"24001","Allegany County","Evergreen","MD",,
-2015,"24003","Anne Arundel County","Carefirst","MD",,
-2015,"24003","Anne Arundel County","UnitedHealthCare","MD",,
-2015,"24003","Anne Arundel County","Cigna","MD",,
-2015,"24003","Anne Arundel County","Evergreen","MD",,
-2015,"24003","Anne Arundel County","Kaiser","MD",,
-2015,"24005","Baltimore County","Carefirst","MD",,
-2015,"24005","Baltimore County","UnitedHealthCare","MD",,
-2015,"24005","Baltimore County","Cigna","MD",,
-2015,"24005","Baltimore County","Evergreen","MD",,
-2015,"24005","Baltimore County","Kaiser","MD",,
-2015,"24009","Calvert County","Carefirst","MD",,
-2015,"24009","Calvert County","UnitedHealthCare","MD",,
-2015,"24009","Calvert County","Cigna","MD",,
-2015,"24009","Calvert County","Evergreen","MD",,
-2015,"24009","Calvert County","Kaiser","MD",,
-2015,"24011","Caroline County","Carefirst","MD",,
-2015,"24011","Caroline County","UnitedHealthCare","MD",,
-2015,"24011","Caroline County","Cigna","MD",,
-2015,"24011","Caroline County","Evergreen","MD",,
-2015,"24011","Caroline County","Kaiser","MD",,
-2015,"24013","Carroll County","Carefirst","MD",,
-2015,"24013","Carroll County","UnitedHealthCare","MD",,
-2015,"24013","Carroll County","Cigna","MD",,
-2015,"24013","Carroll County","Evergreen","MD",,
-2015,"24015","Cecil County","Carefirst","MD",,
-2015,"24015","Cecil County","UnitedHealthCare","MD",,
-2015,"24015","Cecil County","Cigna","MD",,
-2015,"24015","Cecil County","Evergreen","MD",,
-2015,"24017","Charles County","Carefirst","MD",,
-2015,"24017","Charles County","UnitedHealthCare","MD",,
-2015,"24017","Charles County","Cigna","MD",,
-2015,"24017","Charles County","Evergreen","MD",,
-2015,"24017","Charles County","Kaiser","MD",,
-2015,"24019","Dorchester County","Carefirst","MD",,
-2015,"24019","Dorchester County","UnitedHealthCare","MD",,
-2015,"24019","Dorchester County","Cigna","MD",,
-2015,"24019","Dorchester County","Evergreen","MD",,
-2015,"24021","Frederick County","Carefirst","MD",,
-2015,"24021","Frederick County","UnitedHealthCare","MD",,
-2015,"24021","Frederick County","Cigna","MD",,
-2015,"24021","Frederick County","Evergreen","MD",,
-2015,"24021","Frederick County","Kaiser","MD",,
-2015,"24023","Garrett County","Carefirst","MD",,
-2015,"24023","Garrett County","UnitedHealthCare","MD",,
-2015,"24023","Garrett County","Cigna","MD",,
-2015,"24023","Garrett County","Evergreen","MD",,
-2015,"24025","Harford County","Carefirst","MD",,
-2015,"24025","Harford County","UnitedHealthCare","MD",,
-2015,"24025","Harford County","Cigna","MD",,
-2015,"24025","Harford County","Evergreen","MD",,
-2015,"24025","Harford County","Kaiser","MD",,
-2015,"24027","Howard County","Carefirst","MD",,
-2015,"24027","Howard County","UnitedHealthCare","MD",,
-2015,"24027","Howard County","Cigna","MD",,
-2015,"24027","Howard County","Evergreen","MD",,
-2015,"24027","Howard County","Kaiser","MD",,
-2015,"24029","Kent County","Carefirst","MD",,
-2015,"24029","Kent County","UnitedHealthCare","MD",,
-2015,"24029","Kent County","Cigna","MD",,
-2015,"24029","Kent County","Evergreen","MD",,
-2015,"24031","Montgomery County","Carefirst","MD",,
-2015,"24031","Montgomery County","UnitedHealthCare","MD",,
-2015,"24031","Montgomery County","Cigna","MD",,
-2015,"24031","Montgomery County","Evergreen","MD",,
-2015,"24031","Montgomery County","Kaiser","MD",,
-2015,"24033","Prince George's County","Carefirst","MD",,
-2015,"24033","Prince George's County","UnitedHealthCare","MD",,
-2015,"24033","Prince George's County","Cigna","MD",,
-2015,"24033","Prince George's County","Evergreen","MD",,
-2015,"24033","Prince George's County","Kaiser","MD",,
-2015,"24035","Queen Anne's County","Carefirst","MD",,
-2015,"24035","Queen Anne's County","UnitedHealthCare","MD",,
-2015,"24035","Queen Anne's County","Cigna","MD",,
-2015,"24035","Queen Anne's County","Evergreen","MD",,
-2015,"24037","St. Mary's County","Carefirst","MD",,
-2015,"24037","St. Mary's County","UnitedHealthCare","MD",,
-2015,"24037","St. Mary's County","Cigna","MD",,
-2015,"24037","St. Mary's County","Evergreen","MD",,
-2015,"24039","Somerset County","Carefirst","MD",,
-2015,"24039","Somerset County","UnitedHealthCare","MD",,
-2015,"24039","Somerset County","Cigna","MD",,
-2015,"24039","Somerset County","Evergreen","MD",,
-2015,"24041","Talbot County","Carefirst","MD",,
-2015,"24041","Talbot County","UnitedHealthCare","MD",,
-2015,"24041","Talbot County","Cigna","MD",,
-2015,"24041","Talbot County","Evergreen","MD",,
-2015,"24043","Washington County","Carefirst","MD",,
-2015,"24043","Washington County","UnitedHealthCare","MD",,
-2015,"24043","Washington County","Cigna","MD",,
-2015,"24043","Washington County","Evergreen","MD",,
-2015,"24045","Wicomico County","Carefirst","MD",,
-2015,"24045","Wicomico County","UnitedHealthCare","MD",,
-2015,"24045","Wicomico County","Cigna","MD",,
-2015,"24045","Wicomico County","Evergreen","MD",,
-2015,"24047","Worcester County","Carefirst","MD",,
-2015,"24047","Worcester County","UnitedHealthCare","MD",,
-2015,"24047","Worcester County","Cigna","MD",,
-2015,"24047","Worcester County","Evergreen","MD",,
-2015,"24510","Baltimore City","Carefirst","MD",,
-2015,"24510","Baltimore City","UnitedHealthCare","MD",,
-2015,"24510","Baltimore City","Cigna","MD",,
-2015,"24510","Baltimore City","Evergreen","MD",,
-2015,"24510","Baltimore City","Kaiser","MD",,
-2017,"24001","Allegany County","CareFirst BlueChoice","MD",4,6
-2017,"24001","Allegany County","CareFirst BlueCross BlueShield","MD",4,3
-2017,"24001","Allegany County","Cigna Healthcare","MD",4,3
-2017,"24003","Anne Arundel County","CareFirst BlueChoice","MD",1,6
-2017,"24003","Anne Arundel County","CareFirst BlueCross BlueShield","MD",1,3
-2017,"24003","Anne Arundel County","Cigna Healthcare","MD",1,3
-2017,"24003","Anne Arundel County","Kaiser Permanente","MD",1,11
-2017,"24005","Baltimore County","CareFirst BlueChoice","MD",1,6
-2017,"24005","Baltimore County","CareFirst BlueCross BlueShield","MD",1,3
-2017,"24005","Baltimore County","Cigna Healthcare","MD",1,3
-2017,"24005","Baltimore County","Kaiser Permanente","MD",1,11
-2017,"24009","Calvert County","CareFirst BlueChoice","MD",2,6
-2017,"24009","Calvert County","CareFirst BlueCross BlueShield","MD",2,3
-2017,"24009","Calvert County","Cigna Healthcare","MD",2,3
-2017,"24009","Calvert County","Kaiser Permanente","MD",2,11
-2017,"24011","Caroline County","CareFirst BlueChoice","MD",2,6
-2017,"24011","Caroline County","CareFirst BlueCross BlueShield","MD",2,3
-2017,"24011","Caroline County","Cigna Healthcare","MD",2,3
-2017,"24013","Carroll County","CareFirst BlueChoice","MD",4,6
-2017,"24013","Carroll County","CareFirst BlueCross BlueShield","MD",4,3
-2017,"24013","Carroll County","Cigna Healthcare","MD",4,3
-2017,"24013","Carroll County","Kaiser Permanente","MD",4,11
-2017,"24015","Cecil County","CareFirst BlueChoice","MD",2,6
-2017,"24015","Cecil County","CareFirst BlueCross BlueShield","MD",2,3
-2017,"24015","Cecil County","Cigna Healthcare","MD",2,3
-2017,"24017","Charles County","CareFirst BlueChoice","MD",2,6
-2017,"24017","Charles County","CareFirst BlueCross BlueShield","MD",2,3
-2017,"24017","Charles County","Cigna Healthcare","MD",2,3
-2017,"24017","Charles County","Kaiser Permanente","MD",2,11
-2017,"24019","Dorchester County","CareFirst BlueChoice","MD",2,6
-2017,"24019","Dorchester County","CareFirst BlueCross BlueShield","MD",2,3
-2017,"24019","Dorchester County","Cigna Healthcare","MD",2,3
-2017,"24021","Frederick County","CareFirst BlueChoice","MD",4,6
-2017,"24021","Frederick County","CareFirst BlueCross BlueShield","MD",4,3
-2017,"24021","Frederick County","Cigna Healthcare","MD",4,3
-2017,"24021","Frederick County","Kaiser Permanente","MD",4,11
-2017,"24023","Garrett County","CareFirst BlueChoice","MD",4,6
-2017,"24023","Garrett County","CareFirst BlueCross BlueShield","MD",4,3
-2017,"24023","Garrett County","Cigna Healthcare","MD",4,3
-2017,"24025","Harford County","CareFirst BlueChoice","MD",1,6
-2017,"24025","Harford County","CareFirst BlueCross BlueShield","MD",1,3
-2017,"24025","Harford County","Cigna Healthcare","MD",1,3
-2017,"24025","Harford County","Kaiser Permanente","MD",1,11
-2017,"24027","Howard County","CareFirst BlueChoice","MD",1,6
-2017,"24027","Howard County","CareFirst BlueCross BlueShield","MD",1,3
-2017,"24027","Howard County","Cigna Healthcare","MD",1,3
-2017,"24027","Howard County","Kaiser Permanente","MD",1,11
-2017,"24029","Kent County","CareFirst BlueChoice","MD",2,6
-2017,"24029","Kent County","CareFirst BlueCross BlueShield","MD",2,3
-2017,"24029","Kent County","Cigna Healthcare","MD",2,3
-2017,"24031","Montgomery County","CareFirst BlueChoice","MD",3,6
-2017,"24031","Montgomery County","CareFirst BlueCross BlueShield","MD",3,3
-2017,"24031","Montgomery County","Cigna Healthcare","MD",3,3
-2017,"24031","Montgomery County","Kaiser Permanente","MD",3,11
-2017,"24033","Prince George's County","CareFirst BlueChoice","MD",3,6
-2017,"24033","Prince George's County","CareFirst BlueCross BlueShield","MD",3,3
-2017,"24033","Prince George's County","Cigna Healthcare","MD",3,3
-2017,"24033","Prince George's County","Kaiser Permanente","MD",3,11
-2017,"24035","Queen Anne's County","CareFirst BlueChoice","MD",2,6
-2017,"24035","Queen Anne's County","CareFirst BlueCross BlueShield","MD",2,3
-2017,"24035","Queen Anne's County","Cigna Healthcare","MD",2,3
-2017,"24037","St. Mary's County","CareFirst BlueChoice","MD",2,6
-2017,"24037","St. Mary's County","CareFirst BlueCross BlueShield","MD",2,3
-2017,"24037","St. Mary's County","Cigna Healthcare","MD",2,3
-2017,"24039","Somerset County","CareFirst BlueChoice","MD",2,6
-2017,"24039","Somerset County","CareFirst BlueCross BlueShield","MD",2,3
-2017,"24039","Somerset County","Cigna Healthcare","MD",2,3
-2017,"24041","Talbot County","CareFirst BlueChoice","MD",2,6
-2017,"24041","Talbot County","CareFirst BlueCross BlueShield","MD",2,3
-2017,"24041","Talbot County","Cigna Healthcare","MD",2,3
-2017,"24043","Washington County","CareFirst BlueChoice","MD",4,6
-2017,"24043","Washington County","CareFirst BlueCross BlueShield","MD",4,3
-2017,"24043","Washington County","Cigna Healthcare","MD",4,3
-2017,"24045","Wicomico County","CareFirst BlueChoice","MD",2,6
-2017,"24045","Wicomico County","CareFirst BlueCross BlueShield","MD",2,3
-2017,"24045","Wicomico County","Cigna Healthcare","MD",2,3
-2017,"24047","Worcester County","CareFirst BlueChoice","MD",2,6
-2017,"24047","Worcester County","CareFirst BlueCross BlueShield","MD",2,3
-2017,"24047","Worcester County","Cigna Healthcare","MD",2,3
-2017,"24510","Baltimore City","CareFirst BlueChoice","MD",1,6
-2017,"24510","Baltimore City","CareFirst BlueCross BlueShield","MD",1,3
-2017,"24510","Baltimore City","Cigna Healthcare","MD",1,3
-2017,"24510","Baltimore City","Kaiser Permanente","MD",1,11
+"year","state_code","rating_area","fips_county","county_name","issuer_name","issuer_id","plans"
+2015,"MD",,"24001","Allegany County","Carefirst",,
+2015,"MD",,"24001","Allegany County","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24001","Allegany County","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24001","Allegany County","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24003","Anne Arundel County","Carefirst",,
+2015,"MD",,"24003","Anne Arundel County","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24003","Anne Arundel County","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24003","Anne Arundel County","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24003","Anne Arundel County","Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",90296,
+2015,"MD",,"24005","Baltimore County","Carefirst",,
+2015,"MD",,"24005","Baltimore County","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24005","Baltimore County","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24005","Baltimore County","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24005","Baltimore County","Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",90296,
+2015,"MD",,"24009","Calvert County","Carefirst",,
+2015,"MD",,"24009","Calvert County","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24009","Calvert County","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24009","Calvert County","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24009","Calvert County","Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",90296,
+2015,"MD",,"24011","Caroline County","Carefirst",,
+2015,"MD",,"24011","Caroline County","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24011","Caroline County","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24011","Caroline County","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24011","Caroline County","Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",90296,
+2015,"MD",,"24013","Carroll County","Carefirst",,
+2015,"MD",,"24013","Carroll County","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24013","Carroll County","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24013","Carroll County","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24015","Cecil County","Carefirst",,
+2015,"MD",,"24015","Cecil County","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24015","Cecil County","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24015","Cecil County","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24017","Charles County","Carefirst",,
+2015,"MD",,"24017","Charles County","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24017","Charles County","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24017","Charles County","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24017","Charles County","Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",90296,
+2015,"MD",,"24019","Dorchester County","Carefirst",,
+2015,"MD",,"24019","Dorchester County","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24019","Dorchester County","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24019","Dorchester County","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24021","Frederick County","Carefirst",,
+2015,"MD",,"24021","Frederick County","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24021","Frederick County","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24021","Frederick County","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24021","Frederick County","Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",90296,
+2015,"MD",,"24023","Garrett County","Carefirst",,
+2015,"MD",,"24023","Garrett County","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24023","Garrett County","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24023","Garrett County","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24025","Harford County","Carefirst",,
+2015,"MD",,"24025","Harford County","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24025","Harford County","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24025","Harford County","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24025","Harford County","Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",90296,
+2015,"MD",,"24027","Howard County","Carefirst",,
+2015,"MD",,"24027","Howard County","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24027","Howard County","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24027","Howard County","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24027","Howard County","Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",90296,
+2015,"MD",,"24029","Kent County","Carefirst",,
+2015,"MD",,"24029","Kent County","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24029","Kent County","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24029","Kent County","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24031","Montgomery County","Carefirst",,
+2015,"MD",,"24031","Montgomery County","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24031","Montgomery County","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24031","Montgomery County","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24031","Montgomery County","Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",90296,
+2015,"MD",,"24033","Prince George's County","Carefirst",,
+2015,"MD",,"24033","Prince George's County","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24033","Prince George's County","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24033","Prince George's County","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24033","Prince George's County","Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",90296,
+2015,"MD",,"24035","Queen Anne's County","Carefirst",,
+2015,"MD",,"24035","Queen Anne's County","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24035","Queen Anne's County","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24035","Queen Anne's County","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24037","St. Mary's County","Carefirst",,
+2015,"MD",,"24037","St. Mary's County","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24037","St. Mary's County","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24037","St. Mary's County","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24039","Somerset County","Carefirst",,
+2015,"MD",,"24039","Somerset County","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24039","Somerset County","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24039","Somerset County","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24041","Talbot County","Carefirst",,
+2015,"MD",,"24041","Talbot County","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24041","Talbot County","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24041","Talbot County","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24043","Washington County","Carefirst",,
+2015,"MD",,"24043","Washington County","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24043","Washington County","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24043","Washington County","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24045","Wicomico County","Carefirst",,
+2015,"MD",,"24045","Wicomico County","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24045","Wicomico County","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24045","Wicomico County","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24047","Worcester County","Carefirst",,
+2015,"MD",,"24047","Worcester County","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24047","Worcester County","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24047","Worcester County","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24510","Baltimore City","Carefirst",,
+2015,"MD",,"24510","Baltimore City","UnitedHealthcare of the Mid-Atlantic, Inc.",31112,
+2015,"MD",,"24510","Baltimore City","Cigna Health and Life Insurance Company",32812,
+2015,"MD",,"24510","Baltimore City","Evergreen Health Cooperative Inc.",72564,
+2015,"MD",,"24510","Baltimore City","Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",90296,
+2017,"MD",4,"24001","Allegany County","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",4,"24001","Allegany County","CareFirst of Maryland, Inc.",45532,3
+2017,"MD",4,"24001","Allegany County","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",1,"24003","Anne Arundel County","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",1,"24003","Anne Arundel County","CareFirst of Maryland, Inc.",45532,3
+2017,"MD",1,"24003","Anne Arundel County","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",1,"24003","Anne Arundel County","Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",90296,11
+2017,"MD",1,"24005","Baltimore County","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",1,"24005","Baltimore County","CareFirst of Maryland, Inc.",45532,3
+2017,"MD",1,"24005","Baltimore County","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",1,"24005","Baltimore County","Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",90296,11
+2017,"MD",2,"24009","Calvert County","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",2,"24009","Calvert County","CareFirst of Maryland, Inc.",45532,3
+2017,"MD",2,"24009","Calvert County","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",2,"24009","Calvert County","Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",90296,11
+2017,"MD",2,"24011","Caroline County","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",2,"24011","Caroline County","CareFirst of Maryland, Inc.",45532,3
+2017,"MD",2,"24011","Caroline County","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",4,"24013","Carroll County","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",4,"24013","Carroll County","CareFirst of Maryland, Inc.",45532,3
+2017,"MD",4,"24013","Carroll County","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",4,"24013","Carroll County","Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",90296,11
+2017,"MD",2,"24015","Cecil County","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",2,"24015","Cecil County","CareFirst of Maryland, Inc.",45532,3
+2017,"MD",2,"24015","Cecil County","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",2,"24017","Charles County","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",2,"24017","Charles County","CareFirst of Maryland, Inc.",45532,3
+2017,"MD",2,"24017","Charles County","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",2,"24017","Charles County","Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",90296,11
+2017,"MD",2,"24019","Dorchester County","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",2,"24019","Dorchester County","CareFirst of Maryland, Inc.",45532,3
+2017,"MD",2,"24019","Dorchester County","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",4,"24021","Frederick County","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",4,"24021","Frederick County","CareFirst of Maryland, Inc.",45532,3
+2017,"MD",4,"24021","Frederick County","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",4,"24021","Frederick County","Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",90296,11
+2017,"MD",4,"24023","Garrett County","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",4,"24023","Garrett County","CareFirst of Maryland, Inc.",45532,3
+2017,"MD",4,"24023","Garrett County","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",1,"24025","Harford County","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",1,"24025","Harford County","CareFirst of Maryland, Inc.",45532,3
+2017,"MD",1,"24025","Harford County","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",1,"24025","Harford County","Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",90296,11
+2017,"MD",1,"24027","Howard County","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",1,"24027","Howard County","CareFirst of Maryland, Inc.",45532,3
+2017,"MD",1,"24027","Howard County","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",1,"24027","Howard County","Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",90296,11
+2017,"MD",2,"24029","Kent County","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",2,"24029","Kent County","CareFirst of Maryland, Inc.",45532,3
+2017,"MD",2,"24029","Kent County","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",3,"24031","Montgomery County","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",3,"24031","Montgomery County","Group Hospitalization and Medical Services, Inc.",94084,3
+2017,"MD",3,"24031","Montgomery County","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",3,"24031","Montgomery County","Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",90296,11
+2017,"MD",3,"24033","Prince George's County","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",3,"24033","Prince George's County","Group Hospitalization and Medical Services, Inc.",94084,3
+2017,"MD",3,"24033","Prince George's County","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",3,"24033","Prince George's County","Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",90296,11
+2017,"MD",2,"24035","Queen Anne's County","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",2,"24035","Queen Anne's County","CareFirst of Maryland, Inc.",45532,3
+2017,"MD",2,"24035","Queen Anne's County","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",2,"24037","St. Mary's County","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",2,"24037","St. Mary's County","CareFirst of Maryland, Inc.",45532,3
+2017,"MD",2,"24037","St. Mary's County","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",2,"24039","Somerset County","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",2,"24039","Somerset County","CareFirst of Maryland, Inc.",45532,3
+2017,"MD",2,"24039","Somerset County","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",2,"24041","Talbot County","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",2,"24041","Talbot County","CareFirst of Maryland, Inc.",45532,3
+2017,"MD",2,"24041","Talbot County","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",4,"24043","Washington County","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",4,"24043","Washington County","CareFirst of Maryland, Inc.",45532,3
+2017,"MD",4,"24043","Washington County","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",2,"24045","Wicomico County","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",2,"24045","Wicomico County","CareFirst of Maryland, Inc.",45532,3
+2017,"MD",2,"24045","Wicomico County","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",2,"24047","Worcester County","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",2,"24047","Worcester County","CareFirst of Maryland, Inc.",45532,3
+2017,"MD",2,"24047","Worcester County","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",1,"24510","Baltimore City","CareFirst BlueChoice, Inc.",28137,6
+2017,"MD",1,"24510","Baltimore City","CareFirst of Maryland, Inc.",45532,3
+2017,"MD",1,"24510","Baltimore City","Cigna Health and Life Insurance Company",32812,3
+2017,"MD",1,"24510","Baltimore City","Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",90296,11

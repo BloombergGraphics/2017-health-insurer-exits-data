@@ -1,625 +1,625 @@
-"year","fips_county","county_name","rating_area","issuer_name","state_code"
-2015,"21001","Adair County",4,"Anthem Health Plans","KY"
-2015,"21001","Adair County",4,"Kentucky Health Cooperative","KY"
-2015,"21003","Allen County",4,"Anthem Health Plans","KY"
-2015,"21003","Allen County",4,"Kentucky Health Cooperative","KY"
-2015,"21005","Anderson County",5,"Anthem Health Plans","KY"
-2015,"21005","Anderson County",5,"Kentucky Health Cooperative","KY"
-2015,"21007","Ballard County",1,"Anthem Health Plans","KY"
-2015,"21007","Ballard County",1,"Kentucky Health Cooperative","KY"
-2015,"21009","Barren County",4,"Anthem Health Plans","KY"
-2015,"21009","Barren County",4,"Kentucky Health Cooperative","KY"
-2015,"21011","Bath County",7,"Anthem Health Plans","KY"
-2015,"21011","Bath County",7,"Kentucky Health Cooperative","KY"
-2015,"21013","Bell County",8,"Anthem Health Plans","KY"
-2015,"21013","Bell County",8,"Kentucky Health Cooperative","KY"
-2015,"21015","Boone County",6,"Anthem Health Plans","KY"
-2015,"21015","Boone County",6,"Care Source","KY"
-2015,"21015","Boone County",6,"Humana","KY"
-2015,"21015","Boone County",6,"Kentucky Health Cooperative","KY"
-2015,"21015","Boone County",6,"WellCare","KY"
-2015,"21017","Bourbon County",5,"Anthem Health Plans","KY"
-2015,"21017","Bourbon County",5,"Care Source","KY"
-2015,"21017","Bourbon County",5,"Humana","KY"
-2015,"21017","Bourbon County",5,"Kentucky Health Cooperative","KY"
-2015,"21019","Boyd County",7,"Anthem Health Plans","KY"
-2015,"21019","Boyd County",7,"Kentucky Health Cooperative","KY"
-2015,"21021","Boyle County",5,"Anthem Health Plans","KY"
-2015,"21021","Boyle County",5,"Kentucky Health Cooperative","KY"
-2015,"21023","Bracken County",7,"Anthem Health Plans","KY"
-2015,"21023","Bracken County",7,"Kentucky Health Cooperative","KY"
-2015,"21025","Breathitt County",8,"Anthem Health Plans","KY"
-2015,"21025","Breathitt County",8,"Kentucky Health Cooperative","KY"
-2015,"21027","Breckinridge County",3,"Anthem Health Plans","KY"
-2015,"21027","Breckinridge County",3,"Kentucky Health Cooperative","KY"
-2015,"21029","Bullitt County",3,"Anthem Health Plans","KY"
-2015,"21029","Bullitt County",3,"Care Source","KY"
-2015,"21029","Bullitt County",3,"Humana","KY"
-2015,"21029","Bullitt County",3,"Kentucky Health Cooperative","KY"
-2015,"21029","Bullitt County",3,"WellCare","KY"
-2015,"21031","Butler County",4,"Anthem Health Plans","KY"
-2015,"21031","Butler County",4,"Kentucky Health Cooperative","KY"
-2015,"21033","Caldwell County",1,"Anthem Health Plans","KY"
-2015,"21033","Caldwell County",1,"Kentucky Health Cooperative","KY"
-2015,"21035","Calloway County",1,"Anthem Health Plans","KY"
-2015,"21035","Calloway County",1,"Kentucky Health Cooperative","KY"
-2015,"21037","Campbell County",6,"Anthem Health Plans","KY"
-2015,"21037","Campbell County",6,"Care Source","KY"
-2015,"21037","Campbell County",6,"Humana","KY"
-2015,"21037","Campbell County",6,"Kentucky Health Cooperative","KY"
-2015,"21037","Campbell County",6,"WellCare","KY"
-2015,"21039","Carlisle County",1,"Anthem Health Plans","KY"
-2015,"21039","Carlisle County",1,"Kentucky Health Cooperative","KY"
-2015,"21041","Carroll County",3,"Anthem Health Plans","KY"
-2015,"21041","Carroll County",3,"Kentucky Health Cooperative","KY"
-2015,"21043","Carter County",7,"Anthem Health Plans","KY"
-2015,"21043","Carter County",7,"Kentucky Health Cooperative","KY"
-2015,"21045","Casey County",4,"Anthem Health Plans","KY"
-2015,"21045","Casey County",4,"Kentucky Health Cooperative","KY"
-2015,"21047","Christian County",2,"Anthem Health Plans","KY"
-2015,"21047","Christian County",2,"Kentucky Health Cooperative","KY"
-2015,"21049","Clark County",5,"Anthem Health Plans","KY"
-2015,"21049","Clark County",5,"Care Source","KY"
-2015,"21049","Clark County",5,"Humana","KY"
-2015,"21049","Clark County",5,"Kentucky Health Cooperative","KY"
-2015,"21051","Clay County",8,"Anthem Health Plans","KY"
-2015,"21051","Clay County",8,"Kentucky Health Cooperative","KY"
-2015,"21051","Clay County",8,"WellCare","KY"
-2015,"21053","Clinton County",4,"Anthem Health Plans","KY"
-2015,"21053","Clinton County",4,"Kentucky Health Cooperative","KY"
-2015,"21055","Crittenden County",1,"Anthem Health Plans","KY"
-2015,"21055","Crittenden County",1,"Kentucky Health Cooperative","KY"
-2015,"21057","Cumberland County",4,"Anthem Health Plans","KY"
-2015,"21057","Cumberland County",4,"Kentucky Health Cooperative","KY"
-2015,"21059","Daviess County",2,"Anthem Health Plans","KY"
-2015,"21059","Daviess County",2,"Kentucky Health Cooperative","KY"
-2015,"21061","Edmonson County",4,"Anthem Health Plans","KY"
-2015,"21061","Edmonson County",4,"Kentucky Health Cooperative","KY"
-2015,"21063","Elliott County",7,"Anthem Health Plans","KY"
-2015,"21063","Elliott County",7,"Kentucky Health Cooperative","KY"
-2015,"21065","Estill County",5,"Anthem Health Plans","KY"
-2015,"21065","Estill County",5,"Kentucky Health Cooperative","KY"
-2015,"21067","Fayette County",5,"Anthem Health Plans","KY"
-2015,"21067","Fayette County",5,"Care Source","KY"
-2015,"21067","Fayette County",5,"Humana","KY"
-2015,"21067","Fayette County",5,"Kentucky Health Cooperative","KY"
-2015,"21067","Fayette County",5,"WellCare","KY"
-2015,"21069","Fleming County",7,"Anthem Health Plans","KY"
-2015,"21069","Fleming County",7,"Kentucky Health Cooperative","KY"
-2015,"21071","Floyd County",8,"Anthem Health Plans","KY"
-2015,"21071","Floyd County",8,"Kentucky Health Cooperative","KY"
-2015,"21073","Franklin County",5,"Anthem Health Plans","KY"
-2015,"21073","Franklin County",5,"Kentucky Health Cooperative","KY"
-2015,"21075","Fulton County",1,"Anthem Health Plans","KY"
-2015,"21075","Fulton County",1,"Kentucky Health Cooperative","KY"
-2015,"21077","Gallatin County",6,"Anthem Health Plans","KY"
-2015,"21077","Gallatin County",6,"Humana","KY"
-2015,"21077","Gallatin County",6,"Kentucky Health Cooperative","KY"
-2015,"21079","Garrard County",5,"Anthem Health Plans","KY"
-2015,"21079","Garrard County",5,"Kentucky Health Cooperative","KY"
-2015,"21081","Grant County",6,"Anthem Health Plans","KY"
-2015,"21081","Grant County",6,"Care Source","KY"
-2015,"21081","Grant County",6,"Humana","KY"
-2015,"21081","Grant County",6,"Kentucky Health Cooperative","KY"
-2015,"21083","Graves County",1,"Anthem Health Plans","KY"
-2015,"21083","Graves County",1,"Kentucky Health Cooperative","KY"
-2015,"21085","Grayson County",3,"Anthem Health Plans","KY"
-2015,"21085","Grayson County",3,"Kentucky Health Cooperative","KY"
-2015,"21087","Green County",4,"Anthem Health Plans","KY"
-2015,"21087","Green County",4,"Kentucky Health Cooperative","KY"
-2015,"21089","Greenup County",7,"Anthem Health Plans","KY"
-2015,"21089","Greenup County",7,"Kentucky Health Cooperative","KY"
-2015,"21091","Hancock County",2,"Anthem Health Plans","KY"
-2015,"21091","Hancock County",2,"Kentucky Health Cooperative","KY"
-2015,"21093","Hardin County",3,"Anthem Health Plans","KY"
-2015,"21093","Hardin County",3,"Kentucky Health Cooperative","KY"
-2015,"21095","Harlan County",8,"Anthem Health Plans","KY"
-2015,"21095","Harlan County",8,"Kentucky Health Cooperative","KY"
-2015,"21095","Harlan County",8,"WellCare","KY"
-2015,"21097","Harrison County",5,"Anthem Health Plans","KY"
-2015,"21097","Harrison County",5,"Kentucky Health Cooperative","KY"
-2015,"21099","Hart County",4,"Anthem Health Plans","KY"
-2015,"21099","Hart County",4,"Kentucky Health Cooperative","KY"
-2015,"21101","Henderson County",2,"Anthem Health Plans","KY"
-2015,"21101","Henderson County",2,"Kentucky Health Cooperative","KY"
-2015,"21103","Henry County",3,"Anthem Health Plans","KY"
-2015,"21103","Henry County",3,"Kentucky Health Cooperative","KY"
-2015,"21105","Hickman County",1,"Anthem Health Plans","KY"
-2015,"21105","Hickman County",1,"Kentucky Health Cooperative","KY"
-2015,"21107","Hopkins County",2,"Anthem Health Plans","KY"
-2015,"21107","Hopkins County",2,"Kentucky Health Cooperative","KY"
-2015,"21109","Jackson County",5,"Anthem Health Plans","KY"
-2015,"21109","Jackson County",5,"Kentucky Health Cooperative","KY"
-2015,"21111","Jefferson County",3,"Anthem Health Plans","KY"
-2015,"21111","Jefferson County",3,"Care Source","KY"
-2015,"21111","Jefferson County",3,"Humana","KY"
-2015,"21111","Jefferson County",3,"Kentucky Health Cooperative","KY"
-2015,"21111","Jefferson County",3,"WellCare","KY"
-2015,"21113","Jessamine County",5,"Anthem Health Plans","KY"
-2015,"21113","Jessamine County",5,"Care Source","KY"
-2015,"21113","Jessamine County",5,"Humana","KY"
-2015,"21113","Jessamine County",5,"Kentucky Health Cooperative","KY"
-2015,"21113","Jessamine County",5,"WellCare","KY"
-2015,"21115","Johnson County",8,"Anthem Health Plans","KY"
-2015,"21115","Johnson County",8,"Kentucky Health Cooperative","KY"
-2015,"21117","Kenton County",6,"Anthem Health Plans","KY"
-2015,"21117","Kenton County",6,"Care Source","KY"
-2015,"21117","Kenton County",6,"Humana","KY"
-2015,"21117","Kenton County",6,"Kentucky Health Cooperative","KY"
-2015,"21117","Kenton County",6,"WellCare","KY"
-2015,"21119","Knott County",8,"Anthem Health Plans","KY"
-2015,"21119","Knott County",8,"Kentucky Health Cooperative","KY"
-2015,"21121","Knox County",8,"Anthem Health Plans","KY"
-2015,"21121","Knox County",8,"Kentucky Health Cooperative","KY"
-2015,"21123","Larue County",3,"Anthem Health Plans","KY"
-2015,"21123","Larue County",3,"Kentucky Health Cooperative","KY"
-2015,"21125","Laurel County",8,"Anthem Health Plans","KY"
-2015,"21125","Laurel County",8,"Kentucky Health Cooperative","KY"
-2015,"21125","Laurel County",8,"WellCare","KY"
-2015,"21127","Lawrence County",7,"Anthem Health Plans","KY"
-2015,"21127","Lawrence County",7,"Kentucky Health Cooperative","KY"
-2015,"21129","Lee County",8,"Anthem Health Plans","KY"
-2015,"21129","Lee County",8,"Kentucky Health Cooperative","KY"
-2015,"21131","Leslie County",8,"Anthem Health Plans","KY"
-2015,"21131","Leslie County",8,"Kentucky Health Cooperative","KY"
-2015,"21131","Leslie County",8,"WellCare","KY"
-2015,"21133","Letcher County",8,"Anthem Health Plans","KY"
-2015,"21133","Letcher County",8,"Kentucky Health Cooperative","KY"
-2015,"21135","Lewis County",7,"Anthem Health Plans","KY"
-2015,"21135","Lewis County",7,"Kentucky Health Cooperative","KY"
-2015,"21137","Lincoln County",5,"Anthem Health Plans","KY"
-2015,"21137","Lincoln County",5,"Kentucky Health Cooperative","KY"
-2015,"21139","Livingston County",1,"Anthem Health Plans","KY"
-2015,"21139","Livingston County",1,"Kentucky Health Cooperative","KY"
-2015,"21141","Logan County",4,"Anthem Health Plans","KY"
-2015,"21141","Logan County",4,"Kentucky Health Cooperative","KY"
-2015,"21143","Lyon County",1,"Anthem Health Plans","KY"
-2015,"21143","Lyon County",1,"Kentucky Health Cooperative","KY"
-2015,"21145","McCracken County",1,"Anthem Health Plans","KY"
-2015,"21145","McCracken County",1,"Kentucky Health Cooperative","KY"
-2015,"21147","McCreary County",4,"Anthem Health Plans","KY"
-2015,"21147","McCreary County",4,"Kentucky Health Cooperative","KY"
-2015,"21149","McLean County",2,"Anthem Health Plans","KY"
-2015,"21149","McLean County",2,"Kentucky Health Cooperative","KY"
-2015,"21151","Madison County",5,"Anthem Health Plans","KY"
-2015,"21151","Madison County",5,"Care Source","KY"
-2015,"21151","Madison County",5,"Kentucky Health Cooperative","KY"
-2015,"21153","Magoffin County",8,"Anthem Health Plans","KY"
-2015,"21153","Magoffin County",8,"Kentucky Health Cooperative","KY"
-2015,"21155","Marion County",3,"Anthem Health Plans","KY"
-2015,"21155","Marion County",3,"Kentucky Health Cooperative","KY"
-2015,"21157","Marshall County",1,"Anthem Health Plans","KY"
-2015,"21157","Marshall County",1,"Kentucky Health Cooperative","KY"
-2015,"21159","Martin County",8,"Anthem Health Plans","KY"
-2015,"21159","Martin County",8,"Kentucky Health Cooperative","KY"
-2015,"21161","Mason County",7,"Anthem Health Plans","KY"
-2015,"21161","Mason County",7,"Kentucky Health Cooperative","KY"
-2015,"21163","Meade County",3,"Anthem Health Plans","KY"
-2015,"21163","Meade County",3,"Kentucky Health Cooperative","KY"
-2015,"21165","Menifee County",7,"Anthem Health Plans","KY"
-2015,"21165","Menifee County",7,"Kentucky Health Cooperative","KY"
-2015,"21167","Mercer County",5,"Anthem Health Plans","KY"
-2015,"21167","Mercer County",5,"Kentucky Health Cooperative","KY"
-2015,"21169","Metcalfe County",4,"Anthem Health Plans","KY"
-2015,"21169","Metcalfe County",4,"Kentucky Health Cooperative","KY"
-2015,"21171","Monroe County",4,"Anthem Health Plans","KY"
-2015,"21171","Monroe County",4,"Kentucky Health Cooperative","KY"
-2015,"21173","Montgomery County",5,"Anthem Health Plans","KY"
-2015,"21173","Montgomery County",5,"Kentucky Health Cooperative","KY"
-2015,"21175","Morgan County",7,"Anthem Health Plans","KY"
-2015,"21175","Morgan County",7,"Kentucky Health Cooperative","KY"
-2015,"21177","Muhlenberg County",2,"Anthem Health Plans","KY"
-2015,"21177","Muhlenberg County",2,"Kentucky Health Cooperative","KY"
-2015,"21179","Nelson County",3,"Anthem Health Plans","KY"
-2015,"21179","Nelson County",3,"Kentucky Health Cooperative","KY"
-2015,"21181","Nicholas County",5,"Anthem Health Plans","KY"
-2015,"21181","Nicholas County",5,"Kentucky Health Cooperative","KY"
-2015,"21183","Ohio County",2,"Anthem Health Plans","KY"
-2015,"21183","Ohio County",2,"Kentucky Health Cooperative","KY"
-2015,"21185","Oldham County",3,"Anthem Health Plans","KY"
-2015,"21185","Oldham County",3,"Care Source","KY"
-2015,"21185","Oldham County",3,"Humana","KY"
-2015,"21185","Oldham County",3,"Kentucky Health Cooperative","KY"
-2015,"21187","Owen County",5,"Anthem Health Plans","KY"
-2015,"21187","Owen County",5,"Kentucky Health Cooperative","KY"
-2015,"21189","Owsley County",8,"Anthem Health Plans","KY"
-2015,"21189","Owsley County",8,"Kentucky Health Cooperative","KY"
-2015,"21191","Pendleton County",6,"Anthem Health Plans","KY"
-2015,"21191","Pendleton County",6,"Care Source","KY"
-2015,"21191","Pendleton County",6,"Humana","KY"
-2015,"21191","Pendleton County",6,"Kentucky Health Cooperative","KY"
-2015,"21193","Perry County",8,"Anthem Health Plans","KY"
-2015,"21193","Perry County",8,"Kentucky Health Cooperative","KY"
-2015,"21195","Pike County",8,"Anthem Health Plans","KY"
-2015,"21195","Pike County",8,"Kentucky Health Cooperative","KY"
-2015,"21197","Powell County",5,"Anthem Health Plans","KY"
-2015,"21197","Powell County",5,"Kentucky Health Cooperative","KY"
-2015,"21199","Pulaski County",4,"Anthem Health Plans","KY"
-2015,"21199","Pulaski County",4,"Kentucky Health Cooperative","KY"
-2015,"21201","Robertson County",7,"Anthem Health Plans","KY"
-2015,"21201","Robertson County",7,"Kentucky Health Cooperative","KY"
-2015,"21203","Rockcastle County",5,"Anthem Health Plans","KY"
-2015,"21203","Rockcastle County",5,"Kentucky Health Cooperative","KY"
-2015,"21205","Rowan County",7,"Anthem Health Plans","KY"
-2015,"21205","Rowan County",7,"Kentucky Health Cooperative","KY"
-2015,"21207","Russell County",4,"Anthem Health Plans","KY"
-2015,"21207","Russell County",4,"Kentucky Health Cooperative","KY"
-2015,"21209","Scott County",5,"Anthem Health Plans","KY"
-2015,"21209","Scott County",5,"Care Source","KY"
-2015,"21209","Scott County",5,"Humana","KY"
-2015,"21209","Scott County",5,"Kentucky Health Cooperative","KY"
-2015,"21211","Shelby County",3,"Anthem Health Plans","KY"
-2015,"21211","Shelby County",3,"Care Source","KY"
-2015,"21211","Shelby County",3,"Kentucky Health Cooperative","KY"
-2015,"21213","Simpson County",4,"Anthem Health Plans","KY"
-2015,"21213","Simpson County",4,"Kentucky Health Cooperative","KY"
-2015,"21215","Spencer County",3,"Anthem Health Plans","KY"
-2015,"21215","Spencer County",3,"Kentucky Health Cooperative","KY"
-2015,"21217","Taylor County",4,"Anthem Health Plans","KY"
-2015,"21217","Taylor County",4,"Kentucky Health Cooperative","KY"
-2015,"21219","Todd County",2,"Anthem Health Plans","KY"
-2015,"21219","Todd County",2,"Kentucky Health Cooperative","KY"
-2015,"21221","Trigg County",2,"Anthem Health Plans","KY"
-2015,"21221","Trigg County",2,"Kentucky Health Cooperative","KY"
-2015,"21223","Trimble County",3,"Anthem Health Plans","KY"
-2015,"21223","Trimble County",3,"Kentucky Health Cooperative","KY"
-2015,"21225","Union County",2,"Anthem Health Plans","KY"
-2015,"21225","Union County",2,"Kentucky Health Cooperative","KY"
-2015,"21227","Warren County",4,"Anthem Health Plans","KY"
-2015,"21227","Warren County",4,"Kentucky Health Cooperative","KY"
-2015,"21227","Warren County",4,"WellCare","KY"
-2015,"21229","Washington County",3,"Anthem Health Plans","KY"
-2015,"21229","Washington County",3,"Kentucky Health Cooperative","KY"
-2015,"21231","Wayne County",4,"Anthem Health Plans","KY"
-2015,"21231","Wayne County",4,"Kentucky Health Cooperative","KY"
-2015,"21233","Webster County",2,"Anthem Health Plans","KY"
-2015,"21233","Webster County",2,"Kentucky Health Cooperative","KY"
-2015,"21235","Whitley County",8,"Anthem Health Plans","KY"
-2015,"21235","Whitley County",8,"Kentucky Health Cooperative","KY"
-2015,"21237","Wolfe County",8,"Anthem Health Plans","KY"
-2015,"21237","Wolfe County",8,"Kentucky Health Cooperative","KY"
-2015,"21239","Woodford County",5,"Anthem Health Plans","KY"
-2015,"21239","Woodford County",5,"Care Source","KY"
-2015,"21239","Woodford County",5,"Humana","KY"
-2015,"21239","Woodford County",5,"Kentucky Health Cooperative","KY"
-2016,"21001","Adair County",4,"Anthem Health Plans","KY"
-2016,"21001","Adair County",4,"United","KY"
-2016,"21003","Allen County",4,"Anthem Health Plans","KY"
-2016,"21003","Allen County",4,"United","KY"
-2016,"21005","Anderson County",5,"Anthem Health Plans","KY"
-2016,"21005","Anderson County",5,"Care Source","KY"
-2016,"21005","Anderson County",5,"United","KY"
-2016,"21007","Ballard County",1,"Anthem Health Plans","KY"
-2016,"21007","Ballard County",1,"United","KY"
-2016,"21009","Barren County",4,"Anthem Health Plans","KY"
-2016,"21009","Barren County",4,"United","KY"
-2016,"21011","Bath County",7,"Anthem Health Plans","KY"
-2016,"21011","Bath County",7,"Care Source","KY"
-2016,"21011","Bath County",7,"United","KY"
-2016,"21013","Bell County",8,"Anthem Health Plans","KY"
-2016,"21013","Bell County",8,"United","KY"
-2016,"21015","Boone County",6,"Aetna","KY"
-2016,"21015","Boone County",6,"Anthem Health Plans","KY"
-2016,"21015","Boone County",6,"Care Source","KY"
-2016,"21015","Boone County",6,"Humana","KY"
-2016,"21015","Boone County",6,"United","KY"
-2016,"21015","Boone County",6,"WellCare","KY"
-2016,"21017","Bourbon County",5,"Anthem Health Plans","KY"
-2016,"21017","Bourbon County",5,"Care Source","KY"
-2016,"21017","Bourbon County",5,"Humana","KY"
-2016,"21017","Bourbon County",5,"United","KY"
-2016,"21019","Boyd County",7,"Anthem Health Plans","KY"
-2016,"21019","Boyd County",7,"Care Source","KY"
-2016,"21019","Boyd County",7,"United","KY"
-2016,"21021","Boyle County",5,"Anthem Health Plans","KY"
-2016,"21021","Boyle County",5,"United","KY"
-2016,"21023","Bracken County",7,"Anthem Health Plans","KY"
-2016,"21023","Bracken County",7,"United","KY"
-2016,"21025","Breathitt County",8,"Anthem Health Plans","KY"
-2016,"21025","Breathitt County",8,"United","KY"
-2016,"21027","Breckinridge County",3,"Anthem Health Plans","KY"
-2016,"21027","Breckinridge County",3,"United","KY"
-2016,"21029","Bullitt County",3,"Anthem Health Plans","KY"
-2016,"21029","Bullitt County",3,"Baptist Health","KY"
-2016,"21029","Bullitt County",3,"Care Source","KY"
-2016,"21029","Bullitt County",3,"Humana","KY"
-2016,"21029","Bullitt County",3,"United","KY"
-2016,"21029","Bullitt County",3,"WellCare","KY"
-2016,"21031","Butler County",4,"Anthem Health Plans","KY"
-2016,"21031","Butler County",4,"United","KY"
-2016,"21033","Caldwell County",1,"Anthem Health Plans","KY"
-2016,"21033","Caldwell County",1,"United","KY"
-2016,"21035","Calloway County",1,"Anthem Health Plans","KY"
-2016,"21035","Calloway County",1,"United","KY"
-2016,"21037","Campbell County",6,"Aetna","KY"
-2016,"21037","Campbell County",6,"Anthem Health Plans","KY"
-2016,"21037","Campbell County",6,"Care Source","KY"
-2016,"21037","Campbell County",6,"Humana","KY"
-2016,"21037","Campbell County",6,"United","KY"
-2016,"21037","Campbell County",6,"WellCare","KY"
-2016,"21039","Carlisle County",1,"Anthem Health Plans","KY"
-2016,"21039","Carlisle County",1,"United","KY"
-2016,"21041","Carroll County",3,"Anthem Health Plans","KY"
-2016,"21041","Carroll County",3,"Care Source","KY"
-2016,"21041","Carroll County",3,"United","KY"
-2016,"21043","Carter County",7,"Anthem Health Plans","KY"
-2016,"21043","Carter County",7,"Care Source","KY"
-2016,"21043","Carter County",7,"United","KY"
-2016,"21045","Casey County",4,"Anthem Health Plans","KY"
-2016,"21045","Casey County",4,"United","KY"
-2016,"21047","Christian County",2,"Anthem Health Plans","KY"
-2016,"21047","Christian County",2,"United","KY"
-2016,"21049","Clark County",5,"Anthem Health Plans","KY"
-2016,"21049","Clark County",5,"Care Source","KY"
-2016,"21049","Clark County",5,"Humana","KY"
-2016,"21049","Clark County",5,"United","KY"
-2016,"21051","Clay County",8,"Anthem Health Plans","KY"
-2016,"21051","Clay County",8,"Care Source","KY"
-2016,"21051","Clay County",8,"United","KY"
-2016,"21051","Clay County",8,"WellCare","KY"
-2016,"21053","Clinton County",4,"Anthem Health Plans","KY"
-2016,"21053","Clinton County",4,"United","KY"
-2016,"21055","Crittenden County",1,"Anthem Health Plans","KY"
-2016,"21055","Crittenden County",1,"United","KY"
-2016,"21057","Cumberland County",4,"Anthem Health Plans","KY"
-2016,"21057","Cumberland County",4,"United","KY"
-2016,"21059","Daviess County",2,"Anthem Health Plans","KY"
-2016,"21059","Daviess County",2,"United","KY"
-2016,"21061","Edmonson County",4,"Anthem Health Plans","KY"
-2016,"21061","Edmonson County",4,"United","KY"
-2016,"21063","Elliott County",7,"Anthem Health Plans","KY"
-2016,"21063","Elliott County",7,"Care Source","KY"
-2016,"21063","Elliott County",7,"United","KY"
-2016,"21065","Estill County",5,"Anthem Health Plans","KY"
-2016,"21065","Estill County",5,"Baptist Health","KY"
-2016,"21065","Estill County",5,"United","KY"
-2016,"21067","Fayette County",5,"Aetna","KY"
-2016,"21067","Fayette County",5,"Anthem Health Plans","KY"
-2016,"21067","Fayette County",5,"Baptist Health","KY"
-2016,"21067","Fayette County",5,"Care Source","KY"
-2016,"21067","Fayette County",5,"Humana","KY"
-2016,"21067","Fayette County",5,"United","KY"
-2016,"21067","Fayette County",5,"WellCare","KY"
-2016,"21069","Fleming County",7,"Anthem Health Plans","KY"
-2016,"21069","Fleming County",7,"United","KY"
-2016,"21071","Floyd County",8,"Anthem Health Plans","KY"
-2016,"21071","Floyd County",8,"Care Source","KY"
-2016,"21071","Floyd County",8,"United","KY"
-2016,"21073","Franklin County",5,"Anthem Health Plans","KY"
-2016,"21073","Franklin County",5,"Care Source","KY"
-2016,"21073","Franklin County",5,"United","KY"
-2016,"21075","Fulton County",1,"Anthem Health Plans","KY"
-2016,"21075","Fulton County",1,"United","KY"
-2016,"21077","Gallatin County",6,"Anthem Health Plans","KY"
-2016,"21077","Gallatin County",6,"Care Source","KY"
-2016,"21077","Gallatin County",6,"Humana","KY"
-2016,"21077","Gallatin County",6,"United","KY"
-2016,"21079","Garrard County",5,"Anthem Health Plans","KY"
-2016,"21079","Garrard County",5,"Baptist Health","KY"
-2016,"21079","Garrard County",5,"United","KY"
-2016,"21081","Grant County",6,"Anthem Health Plans","KY"
-2016,"21081","Grant County",6,"Care Source","KY"
-2016,"21081","Grant County",6,"Humana","KY"
-2016,"21081","Grant County",6,"United","KY"
-2016,"21083","Graves County",1,"Anthem Health Plans","KY"
-2016,"21083","Graves County",1,"United","KY"
-2016,"21085","Grayson County",3,"Anthem Health Plans","KY"
-2016,"21085","Grayson County",3,"United","KY"
-2016,"21087","Green County",4,"Anthem Health Plans","KY"
-2016,"21087","Green County",4,"United","KY"
-2016,"21089","Greenup County",7,"Anthem Health Plans","KY"
-2016,"21089","Greenup County",7,"Care Source","KY"
-2016,"21089","Greenup County",7,"United","KY"
-2016,"21091","Hancock County",2,"Anthem Health Plans","KY"
-2016,"21091","Hancock County",2,"United","KY"
-2016,"21093","Hardin County",3,"Anthem Health Plans","KY"
-2016,"21093","Hardin County",3,"United","KY"
-2016,"21095","Harlan County",8,"Anthem Health Plans","KY"
-2016,"21095","Harlan County",8,"United","KY"
-2016,"21095","Harlan County",8,"WellCare","KY"
-2016,"21097","Harrison County",5,"Anthem Health Plans","KY"
-2016,"21097","Harrison County",5,"Care Source","KY"
-2016,"21097","Harrison County",5,"United","KY"
-2016,"21099","Hart County",4,"Anthem Health Plans","KY"
-2016,"21099","Hart County",4,"United","KY"
-2016,"21101","Henderson County",2,"Anthem Health Plans","KY"
-2016,"21101","Henderson County",2,"United","KY"
-2016,"21103","Henry County",3,"Aetna","KY"
-2016,"21103","Henry County",3,"Anthem Health Plans","KY"
-2016,"21103","Henry County",3,"Baptist Health","KY"
-2016,"21103","Henry County",3,"Care Source","KY"
-2016,"21103","Henry County",3,"United","KY"
-2016,"21105","Hickman County",1,"Anthem Health Plans","KY"
-2016,"21105","Hickman County",1,"United","KY"
-2016,"21107","Hopkins County",2,"Anthem Health Plans","KY"
-2016,"21107","Hopkins County",2,"Baptist Health","KY"
-2016,"21107","Hopkins County",2,"United","KY"
-2016,"21109","Jackson County",5,"Anthem Health Plans","KY"
-2016,"21109","Jackson County",5,"United","KY"
-2016,"21111","Jefferson County",3,"Aetna","KY"
-2016,"21111","Jefferson County",3,"Anthem Health Plans","KY"
-2016,"21111","Jefferson County",3,"Baptist Health","KY"
-2016,"21111","Jefferson County",3,"Care Source","KY"
-2016,"21111","Jefferson County",3,"Humana","KY"
-2016,"21111","Jefferson County",3,"United","KY"
-2016,"21111","Jefferson County",3,"WellCare","KY"
-2016,"21113","Jessamine County",5,"Anthem Health Plans","KY"
-2016,"21113","Jessamine County",5,"Baptist Health","KY"
-2016,"21113","Jessamine County",5,"Care Source","KY"
-2016,"21113","Jessamine County",5,"Humana","KY"
-2016,"21113","Jessamine County",5,"United","KY"
-2016,"21113","Jessamine County",5,"WellCare","KY"
-2016,"21115","Johnson County",8,"Anthem Health Plans","KY"
-2016,"21115","Johnson County",8,"United","KY"
-2016,"21117","Kenton County",6,"Aetna","KY"
-2016,"21117","Kenton County",6,"Anthem Health Plans","KY"
-2016,"21117","Kenton County",6,"Care Source","KY"
-2016,"21117","Kenton County",6,"Humana","KY"
-2016,"21117","Kenton County",6,"United","KY"
-2016,"21117","Kenton County",6,"WellCare","KY"
-2016,"21119","Knott County",8,"Anthem Health Plans","KY"
-2016,"21119","Knott County",8,"United","KY"
-2016,"21121","Knox County",8,"Anthem Health Plans","KY"
-2016,"21121","Knox County",8,"Care Source","KY"
-2016,"21121","Knox County",8,"United","KY"
-2016,"21123","Larue County",3,"Anthem Health Plans","KY"
-2016,"21123","Larue County",3,"United","KY"
-2016,"21125","Laurel County",8,"Anthem Health Plans","KY"
-2016,"21125","Laurel County",8,"Care Source","KY"
-2016,"21125","Laurel County",8,"United","KY"
-2016,"21125","Laurel County",8,"WellCare","KY"
-2016,"21127","Lawrence County",7,"Anthem Health Plans","KY"
-2016,"21127","Lawrence County",7,"United","KY"
-2016,"21129","Lee County",8,"Anthem Health Plans","KY"
-2016,"21129","Lee County",8,"United","KY"
-2016,"21131","Leslie County",8,"Anthem Health Plans","KY"
-2016,"21131","Leslie County",8,"United","KY"
-2016,"21131","Leslie County",8,"WellCare","KY"
-2016,"21133","Letcher County",8,"Anthem Health Plans","KY"
-2016,"21133","Letcher County",8,"United","KY"
-2016,"21135","Lewis County",7,"Anthem Health Plans","KY"
-2016,"21135","Lewis County",7,"United","KY"
-2016,"21137","Lincoln County",5,"Anthem Health Plans","KY"
-2016,"21137","Lincoln County",5,"United","KY"
-2016,"21139","Livingston County",1,"Anthem Health Plans","KY"
-2016,"21139","Livingston County",1,"United","KY"
-2016,"21141","Logan County",4,"Anthem Health Plans","KY"
-2016,"21141","Logan County",4,"United","KY"
-2016,"21143","Lyon County",1,"Anthem Health Plans","KY"
-2016,"21143","Lyon County",1,"United","KY"
-2016,"21145","McCracken County",1,"Anthem Health Plans","KY"
-2016,"21145","McCracken County",1,"United","KY"
-2016,"21147","McCreary County",4,"Anthem Health Plans","KY"
-2016,"21147","McCreary County",4,"United","KY"
-2016,"21149","McLean County",2,"Anthem Health Plans","KY"
-2016,"21149","McLean County",2,"United","KY"
-2016,"21151","Madison County",5,"Aetna","KY"
-2016,"21151","Madison County",5,"Anthem Health Plans","KY"
-2016,"21151","Madison County",5,"Baptist Health","KY"
-2016,"21151","Madison County",5,"Care Source","KY"
-2016,"21151","Madison County",5,"United","KY"
-2016,"21153","Magoffin County",8,"Anthem Health Plans","KY"
-2016,"21153","Magoffin County",8,"United","KY"
-2016,"21155","Marion County",3,"Anthem Health Plans","KY"
-2016,"21155","Marion County",3,"United","KY"
-2016,"21157","Marshall County",1,"Anthem Health Plans","KY"
-2016,"21157","Marshall County",1,"United","KY"
-2016,"21159","Martin County",8,"Anthem Health Plans","KY"
-2016,"21159","Martin County",8,"United","KY"
-2016,"21161","Mason County",7,"Anthem Health Plans","KY"
-2016,"21161","Mason County",7,"United","KY"
-2016,"21163","Meade County",3,"Anthem Health Plans","KY"
-2016,"21163","Meade County",3,"United","KY"
-2016,"21165","Menifee County",7,"Anthem Health Plans","KY"
-2016,"21165","Menifee County",7,"United","KY"
-2016,"21167","Mercer County",5,"Anthem Health Plans","KY"
-2016,"21167","Mercer County",5,"Baptist Health","KY"
-2016,"21167","Mercer County",5,"Care Source","KY"
-2016,"21167","Mercer County",5,"United","KY"
-2016,"21169","Metcalfe County",4,"Anthem Health Plans","KY"
-2016,"21169","Metcalfe County",4,"United","KY"
-2016,"21171","Monroe County",4,"Anthem Health Plans","KY"
-2016,"21171","Monroe County",4,"United","KY"
-2016,"21173","Montgomery County",5,"Anthem Health Plans","KY"
-2016,"21173","Montgomery County",5,"Care Source","KY"
-2016,"21173","Montgomery County",5,"United","KY"
-2016,"21175","Morgan County",7,"Anthem Health Plans","KY"
-2016,"21175","Morgan County",7,"United","KY"
-2016,"21177","Muhlenberg County",2,"Anthem Health Plans","KY"
-2016,"21177","Muhlenberg County",2,"United","KY"
-2016,"21179","Nelson County",3,"Anthem Health Plans","KY"
-2016,"21179","Nelson County",3,"Care Source","KY"
-2016,"21179","Nelson County",3,"United","KY"
-2016,"21181","Nicholas County",5,"Anthem Health Plans","KY"
-2016,"21181","Nicholas County",5,"Care Source","KY"
-2016,"21181","Nicholas County",5,"United","KY"
-2016,"21183","Ohio County",2,"Anthem Health Plans","KY"
-2016,"21183","Ohio County",2,"United","KY"
-2016,"21185","Oldham County",3,"Aetna","KY"
-2016,"21185","Oldham County",3,"Anthem Health Plans","KY"
-2016,"21185","Oldham County",3,"Baptist Health","KY"
-2016,"21185","Oldham County",3,"Care Source","KY"
-2016,"21185","Oldham County",3,"Humana","KY"
-2016,"21185","Oldham County",3,"United","KY"
-2016,"21187","Owen County",5,"Aetna","KY"
-2016,"21187","Owen County",5,"Anthem Health Plans","KY"
-2016,"21187","Owen County",5,"Care Source","KY"
-2016,"21187","Owen County",5,"United","KY"
-2016,"21189","Owsley County",8,"Anthem Health Plans","KY"
-2016,"21189","Owsley County",8,"United","KY"
-2016,"21191","Pendleton County",6,"Anthem Health Plans","KY"
-2016,"21191","Pendleton County",6,"Care Source","KY"
-2016,"21191","Pendleton County",6,"Humana","KY"
-2016,"21191","Pendleton County",6,"United","KY"
-2016,"21193","Perry County",8,"Anthem Health Plans","KY"
-2016,"21193","Perry County",8,"Care Source","KY"
-2016,"21193","Perry County",8,"United","KY"
-2016,"21195","Pike County",8,"Anthem Health Plans","KY"
-2016,"21195","Pike County",8,"United","KY"
-2016,"21197","Powell County",5,"Anthem Health Plans","KY"
-2016,"21197","Powell County",5,"Care Source","KY"
-2016,"21197","Powell County",5,"United","KY"
-2016,"21199","Pulaski County",4,"Anthem Health Plans","KY"
-2016,"21199","Pulaski County",4,"Care Source","KY"
-2016,"21199","Pulaski County",4,"United","KY"
-2016,"21201","Robertson County",7,"Anthem Health Plans","KY"
-2016,"21201","Robertson County",7,"United","KY"
-2016,"21203","Rockcastle County",5,"Anthem Health Plans","KY"
-2016,"21203","Rockcastle County",5,"Baptist Health","KY"
-2016,"21203","Rockcastle County",5,"United","KY"
-2016,"21205","Rowan County",7,"Anthem Health Plans","KY"
-2016,"21205","Rowan County",7,"Care Source","KY"
-2016,"21205","Rowan County",7,"United","KY"
-2016,"21207","Russell County",4,"Anthem Health Plans","KY"
-2016,"21207","Russell County",4,"United","KY"
-2016,"21209","Scott County",5,"Anthem Health Plans","KY"
-2016,"21209","Scott County",5,"Care Source","KY"
-2016,"21209","Scott County",5,"Humana","KY"
-2016,"21209","Scott County",5,"United","KY"
-2016,"21211","Shelby County",3,"Anthem Health Plans","KY"
-2016,"21211","Shelby County",3,"Baptist Health","KY"
-2016,"21211","Shelby County",3,"Care Source","KY"
-2016,"21211","Shelby County",3,"United","KY"
-2016,"21213","Simpson County",4,"Anthem Health Plans","KY"
-2016,"21213","Simpson County",4,"United","KY"
-2016,"21215","Spencer County",3,"Anthem Health Plans","KY"
-2016,"21215","Spencer County",3,"Baptist Health","KY"
-2016,"21215","Spencer County",3,"Care Source","KY"
-2016,"21215","Spencer County",3,"United","KY"
-2016,"21217","Taylor County",4,"Anthem Health Plans","KY"
-2016,"21217","Taylor County",4,"Care Source","KY"
-2016,"21217","Taylor County",4,"United","KY"
-2016,"21219","Todd County",2,"Anthem Health Plans","KY"
-2016,"21219","Todd County",2,"United","KY"
-2016,"21221","Trigg County",2,"Anthem Health Plans","KY"
-2016,"21221","Trigg County",2,"United","KY"
-2016,"21223","Trimble County",3,"Aetna","KY"
-2016,"21223","Trimble County",3,"Anthem Health Plans","KY"
-2016,"21223","Trimble County",3,"Baptist Health","KY"
-2016,"21223","Trimble County",3,"Care Source","KY"
-2016,"21223","Trimble County",3,"United","KY"
-2016,"21225","Union County",2,"Anthem Health Plans","KY"
-2016,"21225","Union County",2,"United","KY"
-2016,"21227","Warren County",4,"Anthem Health Plans","KY"
-2016,"21227","Warren County",4,"United","KY"
-2016,"21227","Warren County",4,"WellCare","KY"
-2016,"21229","Washington County",3,"Anthem Health Plans","KY"
-2016,"21229","Washington County",3,"Care Source","KY"
-2016,"21229","Washington County",3,"United","KY"
-2016,"21231","Wayne County",4,"Anthem Health Plans","KY"
-2016,"21231","Wayne County",4,"United","KY"
-2016,"21233","Webster County",2,"Anthem Health Plans","KY"
-2016,"21233","Webster County",2,"Baptist Health","KY"
-2016,"21233","Webster County",2,"United","KY"
-2016,"21235","Whitley County",8,"Anthem Health Plans","KY"
-2016,"21235","Whitley County",8,"Baptist Health","KY"
-2016,"21235","Whitley County",8,"Care Source","KY"
-2016,"21235","Whitley County",8,"United","KY"
-2016,"21237","Wolfe County",8,"Anthem Health Plans","KY"
-2016,"21237","Wolfe County",8,"Care Source","KY"
-2016,"21237","Wolfe County",8,"United","KY"
-2016,"21239","Woodford County",5,"Anthem Health Plans","KY"
-2016,"21239","Woodford County",5,"Baptist Health","KY"
-2016,"21239","Woodford County",5,"Care Source","KY"
-2016,"21239","Woodford County",5,"Humana","KY"
-2016,"21239","Woodford County",5,"United","KY"
+"year","state_code","fips_county","county_name","issuer_name","issuer_id","rating_area"
+2015,"KY","21001","Adair County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2015,"KY","21001","Adair County","Kentucky Health Cooperative, Inc.",77894,4
+2015,"KY","21003","Allen County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2015,"KY","21003","Allen County","Kentucky Health Cooperative, Inc.",77894,4
+2015,"KY","21005","Anderson County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2015,"KY","21005","Anderson County","Kentucky Health Cooperative, Inc.",77894,5
+2015,"KY","21007","Ballard County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2015,"KY","21007","Ballard County","Kentucky Health Cooperative, Inc.",77894,1
+2015,"KY","21009","Barren County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2015,"KY","21009","Barren County","Kentucky Health Cooperative, Inc.",77894,4
+2015,"KY","21011","Bath County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2015,"KY","21011","Bath County","Kentucky Health Cooperative, Inc.",77894,7
+2015,"KY","21013","Bell County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2015,"KY","21013","Bell County","Kentucky Health Cooperative, Inc.",77894,8
+2015,"KY","21015","Boone County","Anthem Health Plans of KY(Anthem BCBS)",36239,6
+2015,"KY","21015","Boone County","CareSource Kentucky Co.",45636,6
+2015,"KY","21015","Boone County","Humana Health Plan, Inc.",15411,6
+2015,"KY","21015","Boone County","Kentucky Health Cooperative, Inc.",77894,6
+2015,"KY","21015","Boone County","WellCare Health Plans of Kentucky, Inc",72001,6
+2015,"KY","21017","Bourbon County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2015,"KY","21017","Bourbon County","CareSource Kentucky Co.",45636,5
+2015,"KY","21017","Bourbon County","Humana Health Plan, Inc.",15411,5
+2015,"KY","21017","Bourbon County","Kentucky Health Cooperative, Inc.",77894,5
+2015,"KY","21019","Boyd County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2015,"KY","21019","Boyd County","Kentucky Health Cooperative, Inc.",77894,7
+2015,"KY","21021","Boyle County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2015,"KY","21021","Boyle County","Kentucky Health Cooperative, Inc.",77894,5
+2015,"KY","21023","Bracken County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2015,"KY","21023","Bracken County","Kentucky Health Cooperative, Inc.",77894,7
+2015,"KY","21025","Breathitt County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2015,"KY","21025","Breathitt County","Kentucky Health Cooperative, Inc.",77894,8
+2015,"KY","21027","Breckinridge County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2015,"KY","21027","Breckinridge County","Kentucky Health Cooperative, Inc.",77894,3
+2015,"KY","21029","Bullitt County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2015,"KY","21029","Bullitt County","CareSource Kentucky Co.",45636,3
+2015,"KY","21029","Bullitt County","Humana Health Plan, Inc.",15411,3
+2015,"KY","21029","Bullitt County","Kentucky Health Cooperative, Inc.",77894,3
+2015,"KY","21029","Bullitt County","WellCare Health Plans of Kentucky, Inc",72001,3
+2015,"KY","21031","Butler County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2015,"KY","21031","Butler County","Kentucky Health Cooperative, Inc.",77894,4
+2015,"KY","21033","Caldwell County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2015,"KY","21033","Caldwell County","Kentucky Health Cooperative, Inc.",77894,1
+2015,"KY","21035","Calloway County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2015,"KY","21035","Calloway County","Kentucky Health Cooperative, Inc.",77894,1
+2015,"KY","21037","Campbell County","Anthem Health Plans of KY(Anthem BCBS)",36239,6
+2015,"KY","21037","Campbell County","CareSource Kentucky Co.",45636,6
+2015,"KY","21037","Campbell County","Humana Health Plan, Inc.",15411,6
+2015,"KY","21037","Campbell County","Kentucky Health Cooperative, Inc.",77894,6
+2015,"KY","21037","Campbell County","WellCare Health Plans of Kentucky, Inc",72001,6
+2015,"KY","21039","Carlisle County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2015,"KY","21039","Carlisle County","Kentucky Health Cooperative, Inc.",77894,1
+2015,"KY","21041","Carroll County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2015,"KY","21041","Carroll County","Kentucky Health Cooperative, Inc.",77894,3
+2015,"KY","21043","Carter County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2015,"KY","21043","Carter County","Kentucky Health Cooperative, Inc.",77894,7
+2015,"KY","21045","Casey County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2015,"KY","21045","Casey County","Kentucky Health Cooperative, Inc.",77894,4
+2015,"KY","21047","Christian County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2015,"KY","21047","Christian County","Kentucky Health Cooperative, Inc.",77894,2
+2015,"KY","21049","Clark County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2015,"KY","21049","Clark County","CareSource Kentucky Co.",45636,5
+2015,"KY","21049","Clark County","Humana Health Plan, Inc.",15411,5
+2015,"KY","21049","Clark County","Kentucky Health Cooperative, Inc.",77894,5
+2015,"KY","21051","Clay County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2015,"KY","21051","Clay County","Kentucky Health Cooperative, Inc.",77894,8
+2015,"KY","21051","Clay County","WellCare Health Plans of Kentucky, Inc",72001,8
+2015,"KY","21053","Clinton County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2015,"KY","21053","Clinton County","Kentucky Health Cooperative, Inc.",77894,4
+2015,"KY","21055","Crittenden County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2015,"KY","21055","Crittenden County","Kentucky Health Cooperative, Inc.",77894,1
+2015,"KY","21057","Cumberland County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2015,"KY","21057","Cumberland County","Kentucky Health Cooperative, Inc.",77894,4
+2015,"KY","21059","Daviess County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2015,"KY","21059","Daviess County","Kentucky Health Cooperative, Inc.",77894,2
+2015,"KY","21061","Edmonson County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2015,"KY","21061","Edmonson County","Kentucky Health Cooperative, Inc.",77894,4
+2015,"KY","21063","Elliott County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2015,"KY","21063","Elliott County","Kentucky Health Cooperative, Inc.",77894,7
+2015,"KY","21065","Estill County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2015,"KY","21065","Estill County","Kentucky Health Cooperative, Inc.",77894,5
+2015,"KY","21067","Fayette County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2015,"KY","21067","Fayette County","CareSource Kentucky Co.",45636,5
+2015,"KY","21067","Fayette County","Humana Health Plan, Inc.",15411,5
+2015,"KY","21067","Fayette County","Kentucky Health Cooperative, Inc.",77894,5
+2015,"KY","21067","Fayette County","WellCare Health Plans of Kentucky, Inc",72001,5
+2015,"KY","21069","Fleming County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2015,"KY","21069","Fleming County","Kentucky Health Cooperative, Inc.",77894,7
+2015,"KY","21071","Floyd County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2015,"KY","21071","Floyd County","Kentucky Health Cooperative, Inc.",77894,8
+2015,"KY","21073","Franklin County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2015,"KY","21073","Franklin County","Kentucky Health Cooperative, Inc.",77894,5
+2015,"KY","21075","Fulton County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2015,"KY","21075","Fulton County","Kentucky Health Cooperative, Inc.",77894,1
+2015,"KY","21077","Gallatin County","Anthem Health Plans of KY(Anthem BCBS)",36239,6
+2015,"KY","21077","Gallatin County","Humana Health Plan, Inc.",15411,6
+2015,"KY","21077","Gallatin County","Kentucky Health Cooperative, Inc.",77894,6
+2015,"KY","21079","Garrard County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2015,"KY","21079","Garrard County","Kentucky Health Cooperative, Inc.",77894,5
+2015,"KY","21081","Grant County","Anthem Health Plans of KY(Anthem BCBS)",36239,6
+2015,"KY","21081","Grant County","CareSource Kentucky Co.",45636,6
+2015,"KY","21081","Grant County","Humana Health Plan, Inc.",15411,6
+2015,"KY","21081","Grant County","Kentucky Health Cooperative, Inc.",77894,6
+2015,"KY","21083","Graves County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2015,"KY","21083","Graves County","Kentucky Health Cooperative, Inc.",77894,1
+2015,"KY","21085","Grayson County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2015,"KY","21085","Grayson County","Kentucky Health Cooperative, Inc.",77894,3
+2015,"KY","21087","Green County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2015,"KY","21087","Green County","Kentucky Health Cooperative, Inc.",77894,4
+2015,"KY","21089","Greenup County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2015,"KY","21089","Greenup County","Kentucky Health Cooperative, Inc.",77894,7
+2015,"KY","21091","Hancock County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2015,"KY","21091","Hancock County","Kentucky Health Cooperative, Inc.",77894,2
+2015,"KY","21093","Hardin County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2015,"KY","21093","Hardin County","Kentucky Health Cooperative, Inc.",77894,3
+2015,"KY","21095","Harlan County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2015,"KY","21095","Harlan County","Kentucky Health Cooperative, Inc.",77894,8
+2015,"KY","21095","Harlan County","WellCare Health Plans of Kentucky, Inc",72001,8
+2015,"KY","21097","Harrison County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2015,"KY","21097","Harrison County","Kentucky Health Cooperative, Inc.",77894,5
+2015,"KY","21099","Hart County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2015,"KY","21099","Hart County","Kentucky Health Cooperative, Inc.",77894,4
+2015,"KY","21101","Henderson County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2015,"KY","21101","Henderson County","Kentucky Health Cooperative, Inc.",77894,2
+2015,"KY","21103","Henry County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2015,"KY","21103","Henry County","Kentucky Health Cooperative, Inc.",77894,3
+2015,"KY","21105","Hickman County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2015,"KY","21105","Hickman County","Kentucky Health Cooperative, Inc.",77894,1
+2015,"KY","21107","Hopkins County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2015,"KY","21107","Hopkins County","Kentucky Health Cooperative, Inc.",77894,2
+2015,"KY","21109","Jackson County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2015,"KY","21109","Jackson County","Kentucky Health Cooperative, Inc.",77894,5
+2015,"KY","21111","Jefferson County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2015,"KY","21111","Jefferson County","CareSource Kentucky Co.",45636,3
+2015,"KY","21111","Jefferson County","Humana Health Plan, Inc.",15411,3
+2015,"KY","21111","Jefferson County","Kentucky Health Cooperative, Inc.",77894,3
+2015,"KY","21111","Jefferson County","WellCare Health Plans of Kentucky, Inc",72001,3
+2015,"KY","21113","Jessamine County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2015,"KY","21113","Jessamine County","CareSource Kentucky Co.",45636,5
+2015,"KY","21113","Jessamine County","Humana Health Plan, Inc.",15411,5
+2015,"KY","21113","Jessamine County","Kentucky Health Cooperative, Inc.",77894,5
+2015,"KY","21113","Jessamine County","WellCare Health Plans of Kentucky, Inc",72001,5
+2015,"KY","21115","Johnson County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2015,"KY","21115","Johnson County","Kentucky Health Cooperative, Inc.",77894,8
+2015,"KY","21117","Kenton County","Anthem Health Plans of KY(Anthem BCBS)",36239,6
+2015,"KY","21117","Kenton County","CareSource Kentucky Co.",45636,6
+2015,"KY","21117","Kenton County","Humana Health Plan, Inc.",15411,6
+2015,"KY","21117","Kenton County","Kentucky Health Cooperative, Inc.",77894,6
+2015,"KY","21117","Kenton County","WellCare Health Plans of Kentucky, Inc",72001,6
+2015,"KY","21119","Knott County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2015,"KY","21119","Knott County","Kentucky Health Cooperative, Inc.",77894,8
+2015,"KY","21121","Knox County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2015,"KY","21121","Knox County","Kentucky Health Cooperative, Inc.",77894,8
+2015,"KY","21123","Larue County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2015,"KY","21123","Larue County","Kentucky Health Cooperative, Inc.",77894,3
+2015,"KY","21125","Laurel County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2015,"KY","21125","Laurel County","Kentucky Health Cooperative, Inc.",77894,8
+2015,"KY","21125","Laurel County","WellCare Health Plans of Kentucky, Inc",72001,8
+2015,"KY","21127","Lawrence County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2015,"KY","21127","Lawrence County","Kentucky Health Cooperative, Inc.",77894,7
+2015,"KY","21129","Lee County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2015,"KY","21129","Lee County","Kentucky Health Cooperative, Inc.",77894,8
+2015,"KY","21131","Leslie County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2015,"KY","21131","Leslie County","Kentucky Health Cooperative, Inc.",77894,8
+2015,"KY","21131","Leslie County","WellCare Health Plans of Kentucky, Inc",72001,8
+2015,"KY","21133","Letcher County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2015,"KY","21133","Letcher County","Kentucky Health Cooperative, Inc.",77894,8
+2015,"KY","21135","Lewis County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2015,"KY","21135","Lewis County","Kentucky Health Cooperative, Inc.",77894,7
+2015,"KY","21137","Lincoln County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2015,"KY","21137","Lincoln County","Kentucky Health Cooperative, Inc.",77894,5
+2015,"KY","21139","Livingston County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2015,"KY","21139","Livingston County","Kentucky Health Cooperative, Inc.",77894,1
+2015,"KY","21141","Logan County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2015,"KY","21141","Logan County","Kentucky Health Cooperative, Inc.",77894,4
+2015,"KY","21143","Lyon County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2015,"KY","21143","Lyon County","Kentucky Health Cooperative, Inc.",77894,1
+2015,"KY","21145","McCracken County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2015,"KY","21145","McCracken County","Kentucky Health Cooperative, Inc.",77894,1
+2015,"KY","21147","McCreary County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2015,"KY","21147","McCreary County","Kentucky Health Cooperative, Inc.",77894,4
+2015,"KY","21149","McLean County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2015,"KY","21149","McLean County","Kentucky Health Cooperative, Inc.",77894,2
+2015,"KY","21151","Madison County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2015,"KY","21151","Madison County","CareSource Kentucky Co.",45636,5
+2015,"KY","21151","Madison County","Kentucky Health Cooperative, Inc.",77894,5
+2015,"KY","21153","Magoffin County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2015,"KY","21153","Magoffin County","Kentucky Health Cooperative, Inc.",77894,8
+2015,"KY","21155","Marion County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2015,"KY","21155","Marion County","Kentucky Health Cooperative, Inc.",77894,3
+2015,"KY","21157","Marshall County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2015,"KY","21157","Marshall County","Kentucky Health Cooperative, Inc.",77894,1
+2015,"KY","21159","Martin County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2015,"KY","21159","Martin County","Kentucky Health Cooperative, Inc.",77894,8
+2015,"KY","21161","Mason County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2015,"KY","21161","Mason County","Kentucky Health Cooperative, Inc.",77894,7
+2015,"KY","21163","Meade County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2015,"KY","21163","Meade County","Kentucky Health Cooperative, Inc.",77894,3
+2015,"KY","21165","Menifee County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2015,"KY","21165","Menifee County","Kentucky Health Cooperative, Inc.",77894,7
+2015,"KY","21167","Mercer County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2015,"KY","21167","Mercer County","Kentucky Health Cooperative, Inc.",77894,5
+2015,"KY","21169","Metcalfe County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2015,"KY","21169","Metcalfe County","Kentucky Health Cooperative, Inc.",77894,4
+2015,"KY","21171","Monroe County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2015,"KY","21171","Monroe County","Kentucky Health Cooperative, Inc.",77894,4
+2015,"KY","21173","Montgomery County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2015,"KY","21173","Montgomery County","Kentucky Health Cooperative, Inc.",77894,5
+2015,"KY","21175","Morgan County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2015,"KY","21175","Morgan County","Kentucky Health Cooperative, Inc.",77894,7
+2015,"KY","21177","Muhlenberg County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2015,"KY","21177","Muhlenberg County","Kentucky Health Cooperative, Inc.",77894,2
+2015,"KY","21179","Nelson County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2015,"KY","21179","Nelson County","Kentucky Health Cooperative, Inc.",77894,3
+2015,"KY","21181","Nicholas County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2015,"KY","21181","Nicholas County","Kentucky Health Cooperative, Inc.",77894,5
+2015,"KY","21183","Ohio County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2015,"KY","21183","Ohio County","Kentucky Health Cooperative, Inc.",77894,2
+2015,"KY","21185","Oldham County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2015,"KY","21185","Oldham County","CareSource Kentucky Co.",45636,3
+2015,"KY","21185","Oldham County","Humana Health Plan, Inc.",15411,3
+2015,"KY","21185","Oldham County","Kentucky Health Cooperative, Inc.",77894,3
+2015,"KY","21187","Owen County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2015,"KY","21187","Owen County","Kentucky Health Cooperative, Inc.",77894,5
+2015,"KY","21189","Owsley County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2015,"KY","21189","Owsley County","Kentucky Health Cooperative, Inc.",77894,8
+2015,"KY","21191","Pendleton County","Anthem Health Plans of KY(Anthem BCBS)",36239,6
+2015,"KY","21191","Pendleton County","CareSource Kentucky Co.",45636,6
+2015,"KY","21191","Pendleton County","Humana Health Plan, Inc.",15411,6
+2015,"KY","21191","Pendleton County","Kentucky Health Cooperative, Inc.",77894,6
+2015,"KY","21193","Perry County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2015,"KY","21193","Perry County","Kentucky Health Cooperative, Inc.",77894,8
+2015,"KY","21195","Pike County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2015,"KY","21195","Pike County","Kentucky Health Cooperative, Inc.",77894,8
+2015,"KY","21197","Powell County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2015,"KY","21197","Powell County","Kentucky Health Cooperative, Inc.",77894,5
+2015,"KY","21199","Pulaski County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2015,"KY","21199","Pulaski County","Kentucky Health Cooperative, Inc.",77894,4
+2015,"KY","21201","Robertson County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2015,"KY","21201","Robertson County","Kentucky Health Cooperative, Inc.",77894,7
+2015,"KY","21203","Rockcastle County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2015,"KY","21203","Rockcastle County","Kentucky Health Cooperative, Inc.",77894,5
+2015,"KY","21205","Rowan County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2015,"KY","21205","Rowan County","Kentucky Health Cooperative, Inc.",77894,7
+2015,"KY","21207","Russell County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2015,"KY","21207","Russell County","Kentucky Health Cooperative, Inc.",77894,4
+2015,"KY","21209","Scott County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2015,"KY","21209","Scott County","CareSource Kentucky Co.",45636,5
+2015,"KY","21209","Scott County","Humana Health Plan, Inc.",15411,5
+2015,"KY","21209","Scott County","Kentucky Health Cooperative, Inc.",77894,5
+2015,"KY","21211","Shelby County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2015,"KY","21211","Shelby County","CareSource Kentucky Co.",45636,3
+2015,"KY","21211","Shelby County","Kentucky Health Cooperative, Inc.",77894,3
+2015,"KY","21213","Simpson County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2015,"KY","21213","Simpson County","Kentucky Health Cooperative, Inc.",77894,4
+2015,"KY","21215","Spencer County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2015,"KY","21215","Spencer County","Kentucky Health Cooperative, Inc.",77894,3
+2015,"KY","21217","Taylor County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2015,"KY","21217","Taylor County","Kentucky Health Cooperative, Inc.",77894,4
+2015,"KY","21219","Todd County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2015,"KY","21219","Todd County","Kentucky Health Cooperative, Inc.",77894,2
+2015,"KY","21221","Trigg County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2015,"KY","21221","Trigg County","Kentucky Health Cooperative, Inc.",77894,2
+2015,"KY","21223","Trimble County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2015,"KY","21223","Trimble County","Kentucky Health Cooperative, Inc.",77894,3
+2015,"KY","21225","Union County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2015,"KY","21225","Union County","Kentucky Health Cooperative, Inc.",77894,2
+2015,"KY","21227","Warren County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2015,"KY","21227","Warren County","Kentucky Health Cooperative, Inc.",77894,4
+2015,"KY","21227","Warren County","WellCare Health Plans of Kentucky, Inc",72001,4
+2015,"KY","21229","Washington County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2015,"KY","21229","Washington County","Kentucky Health Cooperative, Inc.",77894,3
+2015,"KY","21231","Wayne County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2015,"KY","21231","Wayne County","Kentucky Health Cooperative, Inc.",77894,4
+2015,"KY","21233","Webster County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2015,"KY","21233","Webster County","Kentucky Health Cooperative, Inc.",77894,2
+2015,"KY","21235","Whitley County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2015,"KY","21235","Whitley County","Kentucky Health Cooperative, Inc.",77894,8
+2015,"KY","21237","Wolfe County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2015,"KY","21237","Wolfe County","Kentucky Health Cooperative, Inc.",77894,8
+2015,"KY","21239","Woodford County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2015,"KY","21239","Woodford County","CareSource Kentucky Co.",45636,5
+2015,"KY","21239","Woodford County","Humana Health Plan, Inc.",15411,5
+2015,"KY","21239","Woodford County","Kentucky Health Cooperative, Inc.",77894,5
+2016,"KY","21001","Adair County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2016,"KY","21001","Adair County","UnitedHealthcare of Kentucky, Ltd.",23671,4
+2016,"KY","21003","Allen County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2016,"KY","21003","Allen County","UnitedHealthcare of Kentucky, Ltd.",23671,4
+2016,"KY","21005","Anderson County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2016,"KY","21005","Anderson County","CareSource Kentucky Co.",45636,5
+2016,"KY","21005","Anderson County","UnitedHealthcare of Kentucky, Ltd.",23671,5
+2016,"KY","21007","Ballard County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2016,"KY","21007","Ballard County","UnitedHealthcare of Kentucky, Ltd.",23671,1
+2016,"KY","21009","Barren County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2016,"KY","21009","Barren County","UnitedHealthcare of Kentucky, Ltd.",23671,4
+2016,"KY","21011","Bath County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2016,"KY","21011","Bath County","CareSource Kentucky Co.",45636,7
+2016,"KY","21011","Bath County","UnitedHealthcare of Kentucky, Ltd.",23671,7
+2016,"KY","21013","Bell County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2016,"KY","21013","Bell County","UnitedHealthcare of Kentucky, Ltd.",23671,8
+2016,"KY","21015","Boone County","Aetna Health Inc. (a PA corp.)",34822,6
+2016,"KY","21015","Boone County","Anthem Health Plans of KY(Anthem BCBS)",36239,6
+2016,"KY","21015","Boone County","CareSource Kentucky Co.",45636,6
+2016,"KY","21015","Boone County","Humana Health Plan, Inc.",15411,6
+2016,"KY","21015","Boone County","UnitedHealthcare of Kentucky, Ltd.",23671,6
+2016,"KY","21015","Boone County","WellCare Health Plans of Kentucky, Inc",72001,6
+2016,"KY","21017","Bourbon County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2016,"KY","21017","Bourbon County","CareSource Kentucky Co.",45636,5
+2016,"KY","21017","Bourbon County","Humana Health Plan, Inc.",15411,5
+2016,"KY","21017","Bourbon County","UnitedHealthcare of Kentucky, Ltd.",23671,5
+2016,"KY","21019","Boyd County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2016,"KY","21019","Boyd County","CareSource Kentucky Co.",45636,7
+2016,"KY","21019","Boyd County","UnitedHealthcare of Kentucky, Ltd.",23671,7
+2016,"KY","21021","Boyle County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2016,"KY","21021","Boyle County","UnitedHealthcare of Kentucky, Ltd.",23671,5
+2016,"KY","21023","Bracken County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2016,"KY","21023","Bracken County","UnitedHealthcare of Kentucky, Ltd.",23671,7
+2016,"KY","21025","Breathitt County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2016,"KY","21025","Breathitt County","UnitedHealthcare of Kentucky, Ltd.",23671,8
+2016,"KY","21027","Breckinridge County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2016,"KY","21027","Breckinridge County","UnitedHealthcare of Kentucky, Ltd.",23671,3
+2016,"KY","21029","Bullitt County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2016,"KY","21029","Bullitt County","Baptist Health Plan, Inc.",40586,3
+2016,"KY","21029","Bullitt County","CareSource Kentucky Co.",45636,3
+2016,"KY","21029","Bullitt County","Humana Health Plan, Inc.",15411,3
+2016,"KY","21029","Bullitt County","UnitedHealthcare of Kentucky, Ltd.",23671,3
+2016,"KY","21029","Bullitt County","WellCare Health Plans of Kentucky, Inc",72001,3
+2016,"KY","21031","Butler County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2016,"KY","21031","Butler County","UnitedHealthcare of Kentucky, Ltd.",23671,4
+2016,"KY","21033","Caldwell County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2016,"KY","21033","Caldwell County","UnitedHealthcare of Kentucky, Ltd.",23671,1
+2016,"KY","21035","Calloway County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2016,"KY","21035","Calloway County","UnitedHealthcare of Kentucky, Ltd.",23671,1
+2016,"KY","21037","Campbell County","Aetna Health Inc. (a PA corp.)",34822,6
+2016,"KY","21037","Campbell County","Anthem Health Plans of KY(Anthem BCBS)",36239,6
+2016,"KY","21037","Campbell County","CareSource Kentucky Co.",45636,6
+2016,"KY","21037","Campbell County","Humana Health Plan, Inc.",15411,6
+2016,"KY","21037","Campbell County","UnitedHealthcare of Kentucky, Ltd.",23671,6
+2016,"KY","21037","Campbell County","WellCare Health Plans of Kentucky, Inc",72001,6
+2016,"KY","21039","Carlisle County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2016,"KY","21039","Carlisle County","UnitedHealthcare of Kentucky, Ltd.",23671,1
+2016,"KY","21041","Carroll County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2016,"KY","21041","Carroll County","CareSource Kentucky Co.",45636,3
+2016,"KY","21041","Carroll County","UnitedHealthcare of Kentucky, Ltd.",23671,3
+2016,"KY","21043","Carter County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2016,"KY","21043","Carter County","CareSource Kentucky Co.",45636,7
+2016,"KY","21043","Carter County","UnitedHealthcare of Kentucky, Ltd.",23671,7
+2016,"KY","21045","Casey County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2016,"KY","21045","Casey County","UnitedHealthcare of Kentucky, Ltd.",23671,4
+2016,"KY","21047","Christian County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2016,"KY","21047","Christian County","UnitedHealthcare of Kentucky, Ltd.",23671,2
+2016,"KY","21049","Clark County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2016,"KY","21049","Clark County","CareSource Kentucky Co.",45636,5
+2016,"KY","21049","Clark County","Humana Health Plan, Inc.",15411,5
+2016,"KY","21049","Clark County","UnitedHealthcare of Kentucky, Ltd.",23671,5
+2016,"KY","21051","Clay County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2016,"KY","21051","Clay County","CareSource Kentucky Co.",45636,8
+2016,"KY","21051","Clay County","UnitedHealthcare of Kentucky, Ltd.",23671,8
+2016,"KY","21051","Clay County","WellCare Health Plans of Kentucky, Inc",72001,8
+2016,"KY","21053","Clinton County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2016,"KY","21053","Clinton County","UnitedHealthcare of Kentucky, Ltd.",23671,4
+2016,"KY","21055","Crittenden County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2016,"KY","21055","Crittenden County","UnitedHealthcare of Kentucky, Ltd.",23671,1
+2016,"KY","21057","Cumberland County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2016,"KY","21057","Cumberland County","UnitedHealthcare of Kentucky, Ltd.",23671,4
+2016,"KY","21059","Daviess County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2016,"KY","21059","Daviess County","UnitedHealthcare of Kentucky, Ltd.",23671,2
+2016,"KY","21061","Edmonson County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2016,"KY","21061","Edmonson County","UnitedHealthcare of Kentucky, Ltd.",23671,4
+2016,"KY","21063","Elliott County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2016,"KY","21063","Elliott County","CareSource Kentucky Co.",45636,7
+2016,"KY","21063","Elliott County","UnitedHealthcare of Kentucky, Ltd.",23671,7
+2016,"KY","21065","Estill County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2016,"KY","21065","Estill County","Baptist Health Plan, Inc.",40586,5
+2016,"KY","21065","Estill County","UnitedHealthcare of Kentucky, Ltd.",23671,5
+2016,"KY","21067","Fayette County","Aetna Health Inc. (a PA corp.)",34822,5
+2016,"KY","21067","Fayette County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2016,"KY","21067","Fayette County","Baptist Health Plan, Inc.",40586,5
+2016,"KY","21067","Fayette County","CareSource Kentucky Co.",45636,5
+2016,"KY","21067","Fayette County","Humana Health Plan, Inc.",15411,5
+2016,"KY","21067","Fayette County","UnitedHealthcare of Kentucky, Ltd.",23671,5
+2016,"KY","21067","Fayette County","WellCare Health Plans of Kentucky, Inc",72001,5
+2016,"KY","21069","Fleming County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2016,"KY","21069","Fleming County","UnitedHealthcare of Kentucky, Ltd.",23671,7
+2016,"KY","21071","Floyd County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2016,"KY","21071","Floyd County","CareSource Kentucky Co.",45636,8
+2016,"KY","21071","Floyd County","UnitedHealthcare of Kentucky, Ltd.",23671,8
+2016,"KY","21073","Franklin County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2016,"KY","21073","Franklin County","CareSource Kentucky Co.",45636,5
+2016,"KY","21073","Franklin County","UnitedHealthcare of Kentucky, Ltd.",23671,5
+2016,"KY","21075","Fulton County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2016,"KY","21075","Fulton County","UnitedHealthcare of Kentucky, Ltd.",23671,1
+2016,"KY","21077","Gallatin County","Anthem Health Plans of KY(Anthem BCBS)",36239,6
+2016,"KY","21077","Gallatin County","CareSource Kentucky Co.",45636,6
+2016,"KY","21077","Gallatin County","Humana Health Plan, Inc.",15411,6
+2016,"KY","21077","Gallatin County","UnitedHealthcare of Kentucky, Ltd.",23671,6
+2016,"KY","21079","Garrard County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2016,"KY","21079","Garrard County","Baptist Health Plan, Inc.",40586,5
+2016,"KY","21079","Garrard County","UnitedHealthcare of Kentucky, Ltd.",23671,5
+2016,"KY","21081","Grant County","Anthem Health Plans of KY(Anthem BCBS)",36239,6
+2016,"KY","21081","Grant County","CareSource Kentucky Co.",45636,6
+2016,"KY","21081","Grant County","Humana Health Plan, Inc.",15411,6
+2016,"KY","21081","Grant County","UnitedHealthcare of Kentucky, Ltd.",23671,6
+2016,"KY","21083","Graves County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2016,"KY","21083","Graves County","UnitedHealthcare of Kentucky, Ltd.",23671,1
+2016,"KY","21085","Grayson County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2016,"KY","21085","Grayson County","UnitedHealthcare of Kentucky, Ltd.",23671,3
+2016,"KY","21087","Green County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2016,"KY","21087","Green County","UnitedHealthcare of Kentucky, Ltd.",23671,4
+2016,"KY","21089","Greenup County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2016,"KY","21089","Greenup County","CareSource Kentucky Co.",45636,7
+2016,"KY","21089","Greenup County","UnitedHealthcare of Kentucky, Ltd.",23671,7
+2016,"KY","21091","Hancock County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2016,"KY","21091","Hancock County","UnitedHealthcare of Kentucky, Ltd.",23671,2
+2016,"KY","21093","Hardin County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2016,"KY","21093","Hardin County","UnitedHealthcare of Kentucky, Ltd.",23671,3
+2016,"KY","21095","Harlan County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2016,"KY","21095","Harlan County","UnitedHealthcare of Kentucky, Ltd.",23671,8
+2016,"KY","21095","Harlan County","WellCare Health Plans of Kentucky, Inc",72001,8
+2016,"KY","21097","Harrison County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2016,"KY","21097","Harrison County","CareSource Kentucky Co.",45636,5
+2016,"KY","21097","Harrison County","UnitedHealthcare of Kentucky, Ltd.",23671,5
+2016,"KY","21099","Hart County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2016,"KY","21099","Hart County","UnitedHealthcare of Kentucky, Ltd.",23671,4
+2016,"KY","21101","Henderson County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2016,"KY","21101","Henderson County","UnitedHealthcare of Kentucky, Ltd.",23671,2
+2016,"KY","21103","Henry County","Aetna Health Inc. (a PA corp.)",34822,3
+2016,"KY","21103","Henry County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2016,"KY","21103","Henry County","Baptist Health Plan, Inc.",40586,3
+2016,"KY","21103","Henry County","CareSource Kentucky Co.",45636,3
+2016,"KY","21103","Henry County","UnitedHealthcare of Kentucky, Ltd.",23671,3
+2016,"KY","21105","Hickman County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2016,"KY","21105","Hickman County","UnitedHealthcare of Kentucky, Ltd.",23671,1
+2016,"KY","21107","Hopkins County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2016,"KY","21107","Hopkins County","Baptist Health Plan, Inc.",40586,2
+2016,"KY","21107","Hopkins County","UnitedHealthcare of Kentucky, Ltd.",23671,2
+2016,"KY","21109","Jackson County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2016,"KY","21109","Jackson County","UnitedHealthcare of Kentucky, Ltd.",23671,5
+2016,"KY","21111","Jefferson County","Aetna Health Inc. (a PA corp.)",34822,3
+2016,"KY","21111","Jefferson County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2016,"KY","21111","Jefferson County","Baptist Health Plan, Inc.",40586,3
+2016,"KY","21111","Jefferson County","CareSource Kentucky Co.",45636,3
+2016,"KY","21111","Jefferson County","Humana Health Plan, Inc.",15411,3
+2016,"KY","21111","Jefferson County","UnitedHealthcare of Kentucky, Ltd.",23671,3
+2016,"KY","21111","Jefferson County","WellCare Health Plans of Kentucky, Inc",72001,3
+2016,"KY","21113","Jessamine County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2016,"KY","21113","Jessamine County","Baptist Health Plan, Inc.",40586,5
+2016,"KY","21113","Jessamine County","CareSource Kentucky Co.",45636,5
+2016,"KY","21113","Jessamine County","Humana Health Plan, Inc.",15411,5
+2016,"KY","21113","Jessamine County","UnitedHealthcare of Kentucky, Ltd.",23671,5
+2016,"KY","21113","Jessamine County","WellCare Health Plans of Kentucky, Inc",72001,5
+2016,"KY","21115","Johnson County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2016,"KY","21115","Johnson County","UnitedHealthcare of Kentucky, Ltd.",23671,8
+2016,"KY","21117","Kenton County","Aetna Health Inc. (a PA corp.)",34822,6
+2016,"KY","21117","Kenton County","Anthem Health Plans of KY(Anthem BCBS)",36239,6
+2016,"KY","21117","Kenton County","CareSource Kentucky Co.",45636,6
+2016,"KY","21117","Kenton County","Humana Health Plan, Inc.",15411,6
+2016,"KY","21117","Kenton County","UnitedHealthcare of Kentucky, Ltd.",23671,6
+2016,"KY","21117","Kenton County","WellCare Health Plans of Kentucky, Inc",72001,6
+2016,"KY","21119","Knott County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2016,"KY","21119","Knott County","UnitedHealthcare of Kentucky, Ltd.",23671,8
+2016,"KY","21121","Knox County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2016,"KY","21121","Knox County","CareSource Kentucky Co.",45636,8
+2016,"KY","21121","Knox County","UnitedHealthcare of Kentucky, Ltd.",23671,8
+2016,"KY","21123","Larue County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2016,"KY","21123","Larue County","UnitedHealthcare of Kentucky, Ltd.",23671,3
+2016,"KY","21125","Laurel County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2016,"KY","21125","Laurel County","CareSource Kentucky Co.",45636,8
+2016,"KY","21125","Laurel County","UnitedHealthcare of Kentucky, Ltd.",23671,8
+2016,"KY","21125","Laurel County","WellCare Health Plans of Kentucky, Inc",72001,8
+2016,"KY","21127","Lawrence County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2016,"KY","21127","Lawrence County","UnitedHealthcare of Kentucky, Ltd.",23671,7
+2016,"KY","21129","Lee County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2016,"KY","21129","Lee County","UnitedHealthcare of Kentucky, Ltd.",23671,8
+2016,"KY","21131","Leslie County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2016,"KY","21131","Leslie County","UnitedHealthcare of Kentucky, Ltd.",23671,8
+2016,"KY","21131","Leslie County","WellCare Health Plans of Kentucky, Inc",72001,8
+2016,"KY","21133","Letcher County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2016,"KY","21133","Letcher County","UnitedHealthcare of Kentucky, Ltd.",23671,8
+2016,"KY","21135","Lewis County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2016,"KY","21135","Lewis County","UnitedHealthcare of Kentucky, Ltd.",23671,7
+2016,"KY","21137","Lincoln County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2016,"KY","21137","Lincoln County","UnitedHealthcare of Kentucky, Ltd.",23671,5
+2016,"KY","21139","Livingston County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2016,"KY","21139","Livingston County","UnitedHealthcare of Kentucky, Ltd.",23671,1
+2016,"KY","21141","Logan County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2016,"KY","21141","Logan County","UnitedHealthcare of Kentucky, Ltd.",23671,4
+2016,"KY","21143","Lyon County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2016,"KY","21143","Lyon County","UnitedHealthcare of Kentucky, Ltd.",23671,1
+2016,"KY","21145","McCracken County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2016,"KY","21145","McCracken County","UnitedHealthcare of Kentucky, Ltd.",23671,1
+2016,"KY","21147","McCreary County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2016,"KY","21147","McCreary County","UnitedHealthcare of Kentucky, Ltd.",23671,4
+2016,"KY","21149","McLean County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2016,"KY","21149","McLean County","UnitedHealthcare of Kentucky, Ltd.",23671,2
+2016,"KY","21151","Madison County","Aetna Health Inc. (a PA corp.)",34822,5
+2016,"KY","21151","Madison County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2016,"KY","21151","Madison County","Baptist Health Plan, Inc.",40586,5
+2016,"KY","21151","Madison County","CareSource Kentucky Co.",45636,5
+2016,"KY","21151","Madison County","UnitedHealthcare of Kentucky, Ltd.",23671,5
+2016,"KY","21153","Magoffin County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2016,"KY","21153","Magoffin County","UnitedHealthcare of Kentucky, Ltd.",23671,8
+2016,"KY","21155","Marion County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2016,"KY","21155","Marion County","UnitedHealthcare of Kentucky, Ltd.",23671,3
+2016,"KY","21157","Marshall County","Anthem Health Plans of KY(Anthem BCBS)",36239,1
+2016,"KY","21157","Marshall County","UnitedHealthcare of Kentucky, Ltd.",23671,1
+2016,"KY","21159","Martin County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2016,"KY","21159","Martin County","UnitedHealthcare of Kentucky, Ltd.",23671,8
+2016,"KY","21161","Mason County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2016,"KY","21161","Mason County","UnitedHealthcare of Kentucky, Ltd.",23671,7
+2016,"KY","21163","Meade County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2016,"KY","21163","Meade County","UnitedHealthcare of Kentucky, Ltd.",23671,3
+2016,"KY","21165","Menifee County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2016,"KY","21165","Menifee County","UnitedHealthcare of Kentucky, Ltd.",23671,7
+2016,"KY","21167","Mercer County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2016,"KY","21167","Mercer County","Baptist Health Plan, Inc.",40586,5
+2016,"KY","21167","Mercer County","CareSource Kentucky Co.",45636,5
+2016,"KY","21167","Mercer County","UnitedHealthcare of Kentucky, Ltd.",23671,5
+2016,"KY","21169","Metcalfe County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2016,"KY","21169","Metcalfe County","UnitedHealthcare of Kentucky, Ltd.",23671,4
+2016,"KY","21171","Monroe County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2016,"KY","21171","Monroe County","UnitedHealthcare of Kentucky, Ltd.",23671,4
+2016,"KY","21173","Montgomery County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2016,"KY","21173","Montgomery County","CareSource Kentucky Co.",45636,5
+2016,"KY","21173","Montgomery County","UnitedHealthcare of Kentucky, Ltd.",23671,5
+2016,"KY","21175","Morgan County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2016,"KY","21175","Morgan County","UnitedHealthcare of Kentucky, Ltd.",23671,7
+2016,"KY","21177","Muhlenberg County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2016,"KY","21177","Muhlenberg County","UnitedHealthcare of Kentucky, Ltd.",23671,2
+2016,"KY","21179","Nelson County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2016,"KY","21179","Nelson County","CareSource Kentucky Co.",45636,3
+2016,"KY","21179","Nelson County","UnitedHealthcare of Kentucky, Ltd.",23671,3
+2016,"KY","21181","Nicholas County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2016,"KY","21181","Nicholas County","CareSource Kentucky Co.",45636,5
+2016,"KY","21181","Nicholas County","UnitedHealthcare of Kentucky, Ltd.",23671,5
+2016,"KY","21183","Ohio County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2016,"KY","21183","Ohio County","UnitedHealthcare of Kentucky, Ltd.",23671,2
+2016,"KY","21185","Oldham County","Aetna Health Inc. (a PA corp.)",34822,3
+2016,"KY","21185","Oldham County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2016,"KY","21185","Oldham County","Baptist Health Plan, Inc.",40586,3
+2016,"KY","21185","Oldham County","CareSource Kentucky Co.",45636,3
+2016,"KY","21185","Oldham County","Humana Health Plan, Inc.",15411,3
+2016,"KY","21185","Oldham County","UnitedHealthcare of Kentucky, Ltd.",23671,3
+2016,"KY","21187","Owen County","Aetna Health Inc. (a PA corp.)",34822,5
+2016,"KY","21187","Owen County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2016,"KY","21187","Owen County","CareSource Kentucky Co.",45636,5
+2016,"KY","21187","Owen County","UnitedHealthcare of Kentucky, Ltd.",23671,5
+2016,"KY","21189","Owsley County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2016,"KY","21189","Owsley County","UnitedHealthcare of Kentucky, Ltd.",23671,8
+2016,"KY","21191","Pendleton County","Anthem Health Plans of KY(Anthem BCBS)",36239,6
+2016,"KY","21191","Pendleton County","CareSource Kentucky Co.",45636,6
+2016,"KY","21191","Pendleton County","Humana Health Plan, Inc.",15411,6
+2016,"KY","21191","Pendleton County","UnitedHealthcare of Kentucky, Ltd.",23671,6
+2016,"KY","21193","Perry County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2016,"KY","21193","Perry County","CareSource Kentucky Co.",45636,8
+2016,"KY","21193","Perry County","UnitedHealthcare of Kentucky, Ltd.",23671,8
+2016,"KY","21195","Pike County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2016,"KY","21195","Pike County","UnitedHealthcare of Kentucky, Ltd.",23671,8
+2016,"KY","21197","Powell County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2016,"KY","21197","Powell County","CareSource Kentucky Co.",45636,5
+2016,"KY","21197","Powell County","UnitedHealthcare of Kentucky, Ltd.",23671,5
+2016,"KY","21199","Pulaski County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2016,"KY","21199","Pulaski County","CareSource Kentucky Co.",45636,4
+2016,"KY","21199","Pulaski County","UnitedHealthcare of Kentucky, Ltd.",23671,4
+2016,"KY","21201","Robertson County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2016,"KY","21201","Robertson County","UnitedHealthcare of Kentucky, Ltd.",23671,7
+2016,"KY","21203","Rockcastle County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2016,"KY","21203","Rockcastle County","Baptist Health Plan, Inc.",40586,5
+2016,"KY","21203","Rockcastle County","UnitedHealthcare of Kentucky, Ltd.",23671,5
+2016,"KY","21205","Rowan County","Anthem Health Plans of KY(Anthem BCBS)",36239,7
+2016,"KY","21205","Rowan County","CareSource Kentucky Co.",45636,7
+2016,"KY","21205","Rowan County","UnitedHealthcare of Kentucky, Ltd.",23671,7
+2016,"KY","21207","Russell County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2016,"KY","21207","Russell County","UnitedHealthcare of Kentucky, Ltd.",23671,4
+2016,"KY","21209","Scott County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2016,"KY","21209","Scott County","CareSource Kentucky Co.",45636,5
+2016,"KY","21209","Scott County","Humana Health Plan, Inc.",15411,5
+2016,"KY","21209","Scott County","UnitedHealthcare of Kentucky, Ltd.",23671,5
+2016,"KY","21211","Shelby County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2016,"KY","21211","Shelby County","Baptist Health Plan, Inc.",40586,3
+2016,"KY","21211","Shelby County","CareSource Kentucky Co.",45636,3
+2016,"KY","21211","Shelby County","UnitedHealthcare of Kentucky, Ltd.",23671,3
+2016,"KY","21213","Simpson County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2016,"KY","21213","Simpson County","UnitedHealthcare of Kentucky, Ltd.",23671,4
+2016,"KY","21215","Spencer County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2016,"KY","21215","Spencer County","Baptist Health Plan, Inc.",40586,3
+2016,"KY","21215","Spencer County","CareSource Kentucky Co.",45636,3
+2016,"KY","21215","Spencer County","UnitedHealthcare of Kentucky, Ltd.",23671,3
+2016,"KY","21217","Taylor County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2016,"KY","21217","Taylor County","CareSource Kentucky Co.",45636,4
+2016,"KY","21217","Taylor County","UnitedHealthcare of Kentucky, Ltd.",23671,4
+2016,"KY","21219","Todd County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2016,"KY","21219","Todd County","UnitedHealthcare of Kentucky, Ltd.",23671,2
+2016,"KY","21221","Trigg County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2016,"KY","21221","Trigg County","UnitedHealthcare of Kentucky, Ltd.",23671,2
+2016,"KY","21223","Trimble County","Aetna Health Inc. (a PA corp.)",34822,3
+2016,"KY","21223","Trimble County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2016,"KY","21223","Trimble County","Baptist Health Plan, Inc.",40586,3
+2016,"KY","21223","Trimble County","CareSource Kentucky Co.",45636,3
+2016,"KY","21223","Trimble County","UnitedHealthcare of Kentucky, Ltd.",23671,3
+2016,"KY","21225","Union County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2016,"KY","21225","Union County","UnitedHealthcare of Kentucky, Ltd.",23671,2
+2016,"KY","21227","Warren County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2016,"KY","21227","Warren County","UnitedHealthcare of Kentucky, Ltd.",23671,4
+2016,"KY","21227","Warren County","WellCare Health Plans of Kentucky, Inc",72001,4
+2016,"KY","21229","Washington County","Anthem Health Plans of KY(Anthem BCBS)",36239,3
+2016,"KY","21229","Washington County","CareSource Kentucky Co.",45636,3
+2016,"KY","21229","Washington County","UnitedHealthcare of Kentucky, Ltd.",23671,3
+2016,"KY","21231","Wayne County","Anthem Health Plans of KY(Anthem BCBS)",36239,4
+2016,"KY","21231","Wayne County","UnitedHealthcare of Kentucky, Ltd.",23671,4
+2016,"KY","21233","Webster County","Anthem Health Plans of KY(Anthem BCBS)",36239,2
+2016,"KY","21233","Webster County","Baptist Health Plan, Inc.",40586,2
+2016,"KY","21233","Webster County","UnitedHealthcare of Kentucky, Ltd.",23671,2
+2016,"KY","21235","Whitley County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2016,"KY","21235","Whitley County","Baptist Health Plan, Inc.",40586,8
+2016,"KY","21235","Whitley County","CareSource Kentucky Co.",45636,8
+2016,"KY","21235","Whitley County","UnitedHealthcare of Kentucky, Ltd.",23671,8
+2016,"KY","21237","Wolfe County","Anthem Health Plans of KY(Anthem BCBS)",36239,8
+2016,"KY","21237","Wolfe County","CareSource Kentucky Co.",45636,8
+2016,"KY","21237","Wolfe County","UnitedHealthcare of Kentucky, Ltd.",23671,8
+2016,"KY","21239","Woodford County","Anthem Health Plans of KY(Anthem BCBS)",36239,5
+2016,"KY","21239","Woodford County","Baptist Health Plan, Inc.",40586,5
+2016,"KY","21239","Woodford County","CareSource Kentucky Co.",45636,5
+2016,"KY","21239","Woodford County","Humana Health Plan, Inc.",15411,5
+2016,"KY","21239","Woodford County","UnitedHealthcare of Kentucky, Ltd.",23671,5

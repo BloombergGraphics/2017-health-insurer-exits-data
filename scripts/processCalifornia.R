@@ -161,6 +161,55 @@ ca14 <- as.data.frame(ca14)
 ca17 <- as.data.frame(ca17)
 # Join to 2017 data
 ca <- bind_rows(ca14, ca17)
+
+# Add HIOS ids
+ids <- read.csv("data/hios-ids.csv", stringsAsFactors = F)
+ids_ca <- ids %>% filter(state_code == "CA" & market == "Individual") %>%
+	mutate(issuer_name = str_replace_all(issuer_name, "  ", ", ")) %>%
+	group_by(issuer_name, issuer_id) %>%
+	summarize(n = n()) %>%
+	select(-n)
+table(ids_ca$issuer_name)
+table(ca$issuer_name)
+# Verify no duplicates
+ids_ca[duplicated(ids_ca),]
+
+# Clean up names for matching
+# Verified specific Anthem subsidiary for 2014 with https://www.coveredca.com/PDFs/CC-health-plans-booklet-rev4.pdf
+# It is Anthem Blue Cross of California, NOT Anthem Blue Cross Life and Health Insurance Company (separate companies & HIOS ids)
+ca <- ca %>% mutate(issuer_name = ifelse(issuer_name == "CCHP", "Chinese Community Health Plan",
+																	ifelse(issuer_name %in% c("L.A. Care Health Plan", "LA Care"), "Local Initiative Health Authority for Los Angeles County, dba L.A. Care Health Plan",
+																	ifelse(issuer_name %in% c("Molina", "Molina Healthcare"), "Molina Healthcare of California",
+																	ifelse(issuer_name == "Oscar", "Oscar Health Plan of California",
+																	ifelse(issuer_name == "Sharp", "Sharp Health Plan",
+																	ifelse(issuer_name == "Valley Health Plan", "County of Santa Clara dba Valley Health Plan",
+																	ifelse(issuer_name %in% c("Blue Shield", "Blue Shield of California"), "California Physicians’ Service, dba Blue Shield of California",
+																	ifelse(issuer_name %in% c("Anthem", "Anthem Blue Cross of California"), "Blue Cross of California(Anthem BC)",
+																	ifelse(issuer_name == "Kaiser Permanente", "Kaiser Foundation Health Plan, Inc.",
+																	ifelse(issuer_name == "HealthNet Life", "Health Net Life Insurance Company",
+																	ifelse(issuer_name == "HealthNet of CA", "Health Net of California, Inc.",
+																		issuer_name))))))))))))
+
+# 2014 Health Net just listed as "Health Net" - tricky to tell if it's Health Net of California or Health Net Life Insurance, which are separate companies
+# Use 2016 and 2017 Health Net Life & Health Net CA service areas for 2014 too (unchanged from 2016 to 2017)
+# 2017 areas from data above
+# 3 counties in 2014 didn't have Health Net in 2016 or 2017: Monterey, San Benito, Mariposa
+# Monterey and San Benito were in rating region 9 with Santa Cruz county, which had Health Net Life in 2016 and 2017
+# Mariposa in rating region 10 which also had Health Net Life
+healthlife <- ca %>% filter(issuer_name == "Health Net Life Insurance Company")
+healthca <- ca %>% filter(issuer_name ==  "Health Net of California Inc.")
+ca <- ca %>% mutate(issuer_name = ifelse(issuer_name == "Health Net" & fips_county %in% healthlife$fips_county, "Health Net Life Insurance Company",
+																	ifelse(issuer_name == "Health Net" & fips_county %in% healthca$fips_county, "Health Net of California, Inc.",
+																	ifelse(issuer_name == "Health Net", "Health Net Life Insurance Company",
+																				 issuer_name))))
+table(ca$issuer_name)
+# Join HIOS id to newly cleaned names
+ca <- left_join(ca, ids_ca, by="issuer_name")
+# Verify no NA ids
+summary(ca$issuer_id)
+ca <- ca %>% select(year, state_code, rating_area, fips_county, county_name, issuer_name, issuer_id, everything()) %>%
+	arrange(year, fips_county)
+
 write.csv(ca, "data-original/state-based/ca-insurers.csv", row.names = F, na = "")
 
 ####################################################################################

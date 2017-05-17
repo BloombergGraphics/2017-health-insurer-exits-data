@@ -1,400 +1,400 @@
-"year","fips_county","county_name","state_code","rating_area","issuer_name"
-2014,"06003","Alpine County","CA",1,"Anthem Blue Cross of California"
-2014,"06003","Alpine County","CA",1,"Blue Shield of California"
-2014,"06005","Amador County","CA",1,"Anthem Blue Cross of California"
-2014,"06005","Amador County","CA",1,"Blue Shield of California"
-2014,"06005","Amador County","CA",1,"Kaiser Permanente"
-2014,"06007","Butte County","CA",1,"Anthem Blue Cross of California"
-2014,"06007","Butte County","CA",1,"Blue Shield of California"
-2014,"06007","Butte County","CA",1,"Kaiser Permanente"
-2014,"06009","Calaveras County","CA",1,"Anthem Blue Cross of California"
-2014,"06009","Calaveras County","CA",1,"Blue Shield of California"
-2014,"06009","Calaveras County","CA",1,"Kaiser Permanente"
-2014,"06011","Colusa County","CA",1,"Anthem Blue Cross of California"
-2014,"06011","Colusa County","CA",1,"Blue Shield of California"
-2014,"06015","Del Norte County","CA",1,"Anthem Blue Cross of California"
-2014,"06015","Del Norte County","CA",1,"Blue Shield of California"
-2014,"06021","Glenn County","CA",1,"Anthem Blue Cross of California"
-2014,"06021","Glenn County","CA",1,"Blue Shield of California"
-2014,"06023","Humboldt County","CA",1,"Anthem Blue Cross of California"
-2014,"06023","Humboldt County","CA",1,"Blue Shield of California"
-2014,"06023","Humboldt County","CA",1,"Kaiser Permanente"
-2014,"06033","Lake County","CA",1,"Anthem Blue Cross of California"
-2014,"06033","Lake County","CA",1,"Blue Shield of California"
-2014,"06033","Lake County","CA",1,"Kaiser Permanente"
-2014,"06035","Lassen County","CA",1,"Anthem Blue Cross of California"
-2014,"06035","Lassen County","CA",1,"Blue Shield of California"
-2014,"06045","Mendocino County","CA",1,"Anthem Blue Cross of California"
-2014,"06045","Mendocino County","CA",1,"Blue Shield of California"
-2014,"06045","Mendocino County","CA",1,"Kaiser Permanente"
-2014,"06049","Modoc County","CA",1,"Anthem Blue Cross of California"
-2014,"06049","Modoc County","CA",1,"Blue Shield of California"
-2014,"06057","Nevada County","CA",1,"Anthem Blue Cross of California"
-2014,"06057","Nevada County","CA",1,"Blue Shield of California"
-2014,"06057","Nevada County","CA",1,"Kaiser Permanente"
-2014,"06063","Plumas County","CA",1,"Anthem Blue Cross of California"
-2014,"06063","Plumas County","CA",1,"Blue Shield of California"
-2014,"06089","Shasta County","CA",1,"Anthem Blue Cross of California"
-2014,"06089","Shasta County","CA",1,"Blue Shield of California"
-2014,"06089","Shasta County","CA",1,"Kaiser Permanente"
-2014,"06091","Sierra County","CA",1,"Anthem Blue Cross of California"
-2014,"06091","Sierra County","CA",1,"Blue Shield of California"
-2014,"06093","Siskiyou County","CA",1,"Anthem Blue Cross of California"
-2014,"06093","Siskiyou County","CA",1,"Blue Shield of California"
-2014,"06101","Sutter County","CA",1,"Anthem Blue Cross of California"
-2014,"06101","Sutter County","CA",1,"Blue Shield of California"
-2014,"06101","Sutter County","CA",1,"Kaiser Permanente"
-2014,"06103","Tehama County","CA",1,"Anthem Blue Cross of California"
-2014,"06103","Tehama County","CA",1,"Blue Shield of California"
-2014,"06105","Trinity County","CA",1,"Anthem Blue Cross of California"
-2014,"06105","Trinity County","CA",1,"Blue Shield of California"
-2014,"06109","Tuolumne County","CA",1,"Anthem Blue Cross of California"
-2014,"06109","Tuolumne County","CA",1,"Blue Shield of California"
-2014,"06115","Yuba County","CA",1,"Anthem Blue Cross of California"
-2014,"06115","Yuba County","CA",1,"Blue Shield of California"
-2014,"06115","Yuba County","CA",1,"Kaiser Permanente"
-2014,"06041","Marin County","CA",2,"Anthem Blue Cross of California"
-2014,"06041","Marin County","CA",2,"Blue Shield of California"
-2014,"06041","Marin County","CA",2,"Health Net"
-2014,"06041","Marin County","CA",2,"Kaiser Permanente"
-2014,"06041","Marin County","CA",2,"Western Health Advantage"
-2014,"06055","Napa County","CA",2,"Anthem Blue Cross of California"
-2014,"06055","Napa County","CA",2,"Blue Shield of California"
-2014,"06055","Napa County","CA",2,"Health Net"
-2014,"06055","Napa County","CA",2,"Kaiser Permanente"
-2014,"06055","Napa County","CA",2,"Western Health Advantage"
-2014,"06095","Solano County","CA",2,"Anthem Blue Cross of California"
-2014,"06095","Solano County","CA",2,"Blue Shield of California"
-2014,"06095","Solano County","CA",2,"Health Net"
-2014,"06095","Solano County","CA",2,"Kaiser Permanente"
-2014,"06095","Solano County","CA",2,"Western Health Advantage"
-2014,"06097","Sonoma County","CA",2,"Anthem Blue Cross of California"
-2014,"06097","Sonoma County","CA",2,"Blue Shield of California"
-2014,"06097","Sonoma County","CA",2,"Health Net"
-2014,"06097","Sonoma County","CA",2,"Kaiser Permanente"
-2014,"06097","Sonoma County","CA",2,"Western Health Advantage"
-2014,"06017","El Dorado County","CA",3,"Anthem Blue Cross of California"
-2014,"06017","El Dorado County","CA",3,"Blue Shield of California"
-2014,"06017","El Dorado County","CA",3,"Kaiser Permanente"
-2014,"06017","El Dorado County","CA",3,"Western Health Advantage"
-2014,"06061","Placer County","CA",3,"Anthem Blue Cross of California"
-2014,"06061","Placer County","CA",3,"Blue Shield of California"
-2014,"06061","Placer County","CA",3,"Kaiser Permanente"
-2014,"06061","Placer County","CA",3,"Western Health Advantage"
-2014,"06067","Sacramento County","CA",3,"Anthem Blue Cross of California"
-2014,"06067","Sacramento County","CA",3,"Blue Shield of California"
-2014,"06067","Sacramento County","CA",3,"Kaiser Permanente"
-2014,"06067","Sacramento County","CA",3,"Western Health Advantage"
-2014,"06113","Yolo County","CA",3,"Anthem Blue Cross of California"
-2014,"06113","Yolo County","CA",3,"Blue Shield of California"
-2014,"06113","Yolo County","CA",3,"Kaiser Permanente"
-2014,"06113","Yolo County","CA",3,"Western Health Advantage"
-2014,"06075","San Francisco County","CA",4,"Anthem Blue Cross of California"
-2014,"06075","San Francisco County","CA",4,"Blue Shield of California"
-2014,"06075","San Francisco County","CA",4,"Chinese Community Health Plan"
-2014,"06075","San Francisco County","CA",4,"Health Net"
-2014,"06075","San Francisco County","CA",4,"Kaiser Permanente"
-2014,"06013","Contra Costa County","CA",5,"Anthem Blue Cross of California"
-2014,"06013","Contra Costa County","CA",5,"Blue Shield of California"
-2014,"06013","Contra Costa County","CA",5,"Contra Costa Health Plan"
-2014,"06013","Contra Costa County","CA",5,"Health Net"
-2014,"06013","Contra Costa County","CA",5,"Kaiser Permanente"
-2014,"06001","Alameda County","CA",6,"Anthem Blue Cross of California"
-2014,"06001","Alameda County","CA",6,"Blue Shield of California"
-2014,"06001","Alameda County","CA",6,"Kaiser Permanente"
-2014,"06085","Santa Clara County","CA",7,"Anthem Blue Cross of California"
-2014,"06085","Santa Clara County","CA",7,"Blue Shield of California"
-2014,"06085","Santa Clara County","CA",7,"Health Net"
-2014,"06085","Santa Clara County","CA",7,"Kaiser Permanente"
-2014,"06085","Santa Clara County","CA",7,"Valley Health Plan"
-2014,"06081","San Mateo County","CA",8,"Anthem Blue Cross of California"
-2014,"06081","San Mateo County","CA",8,"Blue Shield of California"
-2014,"06081","San Mateo County","CA",8,"Chinese Community Health Plan"
-2014,"06081","San Mateo County","CA",8,"Health Net"
-2014,"06081","San Mateo County","CA",8,"Kaiser Permanente"
-2014,"06053","Monterey County","CA",9,"Anthem Blue Cross of California"
-2014,"06053","Monterey County","CA",9,"Blue Shield of California"
-2014,"06053","Monterey County","CA",9,"Health Net"
-2014,"06069","San Benito County","CA",9,"Anthem Blue Cross of California"
-2014,"06069","San Benito County","CA",9,"Blue Shield of California"
-2014,"06069","San Benito County","CA",9,"Health Net"
-2014,"06087","Santa Cruz County","CA",9,"Anthem Blue Cross of California"
-2014,"06087","Santa Cruz County","CA",9,"Blue Shield of California"
-2014,"06087","Santa Cruz County","CA",9,"Health Net"
-2014,"06043","Mariposa County","CA",10,"Anthem Blue Cross of California"
-2014,"06043","Mariposa County","CA",10,"Blue Shield of California"
-2014,"06043","Mariposa County","CA",10,"Health Net"
-2014,"06047","Merced County","CA",10,"Anthem Blue Cross of California"
-2014,"06047","Merced County","CA",10,"Blue Shield of California"
-2014,"06047","Merced County","CA",10,"Health Net"
-2014,"06047","Merced County","CA",10,"Kaiser Permanente"
-2014,"06077","San Joaquin County","CA",10,"Anthem Blue Cross of California"
-2014,"06077","San Joaquin County","CA",10,"Blue Shield of California"
-2014,"06077","San Joaquin County","CA",10,"Health Net"
-2014,"06077","San Joaquin County","CA",10,"Kaiser Permanente"
-2014,"06099","Stanislaus County","CA",10,"Anthem Blue Cross of California"
-2014,"06099","Stanislaus County","CA",10,"Blue Shield of California"
-2014,"06099","Stanislaus County","CA",10,"Health Net"
-2014,"06099","Stanislaus County","CA",10,"Kaiser Permanente"
-2014,"06107","Tulare County","CA",10,"Anthem Blue Cross of California"
-2014,"06107","Tulare County","CA",10,"Blue Shield of California"
-2014,"06107","Tulare County","CA",10,"Health Net"
-2014,"06107","Tulare County","CA",10,"Kaiser Permanente"
-2014,"06019","Fresno County","CA",11,"Anthem Blue Cross of California"
-2014,"06019","Fresno County","CA",11,"Blue Shield of California"
-2014,"06019","Fresno County","CA",11,"Kaiser Permanente"
-2014,"06031","Kings County","CA",11,"Anthem Blue Cross of California"
-2014,"06031","Kings County","CA",11,"Blue Shield of California"
-2014,"06031","Kings County","CA",11,"Kaiser Permanente"
-2014,"06039","Madera County","CA",11,"Anthem Blue Cross of California"
-2014,"06039","Madera County","CA",11,"Blue Shield of California"
-2014,"06039","Madera County","CA",11,"Kaiser Permanente"
-2014,"06079","San Luis Obispo County","CA",12,"Anthem Blue Cross of California"
-2014,"06079","San Luis Obispo County","CA",12,"Blue Shield of California"
-2014,"06079","San Luis Obispo County","CA",12,"Kaiser Permanente"
-2014,"06083","Santa Barbara County","CA",12,"Anthem Blue Cross of California"
-2014,"06083","Santa Barbara County","CA",12,"Blue Shield of California"
-2014,"06083","Santa Barbara County","CA",12,"Kaiser Permanente"
-2014,"06111","Ventura County","CA",12,"Anthem Blue Cross of California"
-2014,"06111","Ventura County","CA",12,"Blue Shield of California"
-2014,"06111","Ventura County","CA",12,"Kaiser Permanente"
-2014,"06025","Imperial County","CA",13,"Anthem Blue Cross of California"
-2014,"06025","Imperial County","CA",13,"Blue Shield of California"
-2014,"06025","Imperial County","CA",13,"Kaiser Permanente"
-2014,"06027","Inyo County","CA",13,"Anthem Blue Cross of California"
-2014,"06027","Inyo County","CA",13,"Blue Shield of California"
-2014,"06051","Mono County","CA",13,"Anthem Blue Cross of California"
-2014,"06051","Mono County","CA",13,"Blue Shield of California"
-2014,"06029","Kern County","CA",14,"Anthem Blue Cross of California"
-2014,"06029","Kern County","CA",14,"Blue Shield of California"
-2014,"06029","Kern County","CA",14,"Health Net"
-2014,"06029","Kern County","CA",14,"Kaiser Permanente"
-2014,"06065","Riverside County","CA",17,"Anthem Blue Cross of California"
-2014,"06065","Riverside County","CA",17,"Blue Shield of California"
-2014,"06065","Riverside County","CA",17,"Health Net"
-2014,"06065","Riverside County","CA",17,"Kaiser Permanente"
-2014,"06065","Riverside County","CA",17,"Molina Healthcare"
-2014,"06071","San Bernardino County","CA",17,"Anthem Blue Cross of California"
-2014,"06071","San Bernardino County","CA",17,"Blue Shield of California"
-2014,"06071","San Bernardino County","CA",17,"Health Net"
-2014,"06071","San Bernardino County","CA",17,"Kaiser Permanente"
-2014,"06071","San Bernardino County","CA",17,"Molina Healthcare"
-2014,"06059","Orange County","CA",18,"Anthem Blue Cross of California"
-2014,"06059","Orange County","CA",18,"Blue Shield of California"
-2014,"06059","Orange County","CA",18,"Health Net"
-2014,"06059","Orange County","CA",18,"Kaiser Permanente"
-2014,"06073","San Diego County","CA",19,"Anthem Blue Cross of California"
-2014,"06073","San Diego County","CA",19,"Blue Shield of California"
-2014,"06073","San Diego County","CA",19,"Health Net"
-2014,"06073","San Diego County","CA",19,"Kaiser Permanente"
-2014,"06073","San Diego County","CA",19,"Molina Healthcare"
-2014,"06073","San Diego County","CA",19,"Sharp Health Plan"
-2014,"06037","Los Angeles County","CA",,"Anthem Blue Cross of California"
-2014,"06037","Los Angeles County","CA",,"Blue Shield of California"
-2014,"06037","Los Angeles County","CA",,"Health Net"
-2014,"06037","Los Angeles County","CA",,"Kaiser Permanente"
-2014,"06037","Los Angeles County","CA",,"L.A. Care Health Plan"
-2014,"06037","Los Angeles County","CA",,"Molina Healthcare"
-2017,"06001","Alameda","CA",6,"Anthem"
-2017,"06001","Alameda","CA",6,"Blue Shield"
-2017,"06001","Alameda","CA",6,"Kaiser Permanente"
-2017,"06003","Alpine","CA",1,"Anthem"
-2017,"06003","Alpine","CA",1,"Blue Shield"
-2017,"06005","Amador","CA",1,"Anthem"
-2017,"06005","Amador","CA",1,"Blue Shield"
-2017,"06005","Amador","CA",1,"Kaiser Permanente"
-2017,"06007","Butte","CA",1,"Anthem"
-2017,"06007","Butte","CA",1,"Blue Shield"
-2017,"06009","Calaveras","CA",1,"Anthem"
-2017,"06009","Calaveras","CA",1,"Blue Shield"
-2017,"06011","Colusa","CA",1,"Anthem"
-2017,"06011","Colusa","CA",1,"Blue Shield"
-2017,"06013","Contra Costa","CA",5,"Anthem"
-2017,"06013","Contra Costa","CA",5,"Blue Shield"
-2017,"06013","Contra Costa","CA",5,"HealthNet Life"
-2017,"06013","Contra Costa","CA",5,"Kaiser Permanente"
-2017,"06015","Del Norte","CA",1,"Anthem"
-2017,"06015","Del Norte","CA",1,"Blue Shield"
-2017,"06017","El Dorado","CA",3,"Anthem"
-2017,"06017","El Dorado","CA",3,"Blue Shield"
-2017,"06017","El Dorado","CA",3,"HealthNet of CA"
-2017,"06017","El Dorado","CA",3,"Kaiser Permanente"
-2017,"06017","El Dorado","CA",3,"Western Health Advantage"
-2017,"06019","Fresno","CA",11,"Anthem"
-2017,"06019","Fresno","CA",11,"Blue Shield"
-2017,"06019","Fresno","CA",11,"HealthNet of CA"
-2017,"06019","Fresno","CA",11,"Kaiser Permanente"
-2017,"06021","Glenn","CA",1,"Anthem"
-2017,"06021","Glenn","CA",1,"Blue Shield"
-2017,"06023","Humboldt","CA",1,"Anthem"
-2017,"06023","Humboldt","CA",1,"Blue Shield"
-2017,"06025","Imperial","CA",13,"Anthem"
-2017,"06025","Imperial","CA",13,"Blue Shield"
-2017,"06025","Imperial","CA",13,"Kaiser Permanente"
-2017,"06025","Imperial","CA",13,"Molina"
-2017,"06027","Inyo","CA",13,"Anthem"
-2017,"06027","Inyo","CA",13,"Blue Shield"
-2017,"06029","Kern","CA",14,"Anthem"
-2017,"06029","Kern","CA",14,"Blue Shield"
-2017,"06029","Kern","CA",14,"HealthNet of CA"
-2017,"06029","Kern","CA",14,"Kaiser Permanente"
-2017,"06031","Kings","CA",11,"Anthem"
-2017,"06031","Kings","CA",11,"Blue Shield"
-2017,"06031","Kings","CA",11,"HealthNet of CA"
-2017,"06031","Kings","CA",11,"Kaiser Permanente"
-2017,"06033","Lake","CA",1,"Anthem"
-2017,"06033","Lake","CA",1,"Blue Shield"
-2017,"06035","Lassen","CA",1,"Anthem"
-2017,"06035","Lassen","CA",1,"Blue Shield"
-2017,"06037","Los Angeles","CA",15,"Anthem"
-2017,"06037","Los Angeles","CA",15,"Blue Shield"
-2017,"06037","Los Angeles","CA",15,"HealthNet of CA"
-2017,"06037","Los Angeles","CA",15,"Kaiser Permanente"
-2017,"06037","Los Angeles","CA",15,"LA Care"
-2017,"06037","Los Angeles","CA",15,"Molina"
-2017,"06037","Los Angeles","CA",16,"Anthem"
-2017,"06037","Los Angeles","CA",16,"Blue Shield"
-2017,"06037","Los Angeles","CA",16,"HealthNet of CA"
-2017,"06037","Los Angeles","CA",16,"Kaiser Permanente"
-2017,"06037","Los Angeles","CA",16,"LA Care"
-2017,"06037","Los Angeles","CA",16,"Molina"
-2017,"06037","Los Angeles","CA",16,"Oscar"
-2017,"06039","Madera","CA",11,"Anthem"
-2017,"06039","Madera","CA",11,"Blue Shield"
-2017,"06039","Madera","CA",11,"HealthNet of CA"
-2017,"06039","Madera","CA",11,"Kaiser Permanente"
-2017,"06041","Marin","CA",2,"Anthem"
-2017,"06041","Marin","CA",2,"Blue Shield"
-2017,"06041","Marin","CA",2,"HealthNet Life"
-2017,"06041","Marin","CA",2,"Kaiser Permanente"
-2017,"06041","Marin","CA",2,"Western Health Advantage"
-2017,"06043","Mariposa","CA",10,"Anthem"
-2017,"06043","Mariposa","CA",10,"Blue Shield"
-2017,"06043","Mariposa","CA",10,"Kaiser Permanente"
-2017,"06045","Mendocino","CA",1,"Anthem"
-2017,"06045","Mendocino","CA",1,"Blue Shield"
-2017,"06047","Merced","CA",10,"Anthem"
-2017,"06047","Merced","CA",10,"Blue Shield"
-2017,"06047","Merced","CA",10,"HealthNet Life"
-2017,"06049","Modoc","CA",1,"Anthem"
-2017,"06049","Modoc","CA",1,"Blue Shield"
-2017,"06051","Mono","CA",13,"Anthem"
-2017,"06051","Mono","CA",13,"Blue Shield"
-2017,"06053","Monterey","CA",9,"Anthem"
-2017,"06053","Monterey","CA",9,"Blue Shield"
-2017,"06055","Napa","CA",2,"Anthem"
-2017,"06055","Napa","CA",2,"Blue Shield"
-2017,"06055","Napa","CA",2,"HealthNet Life"
-2017,"06055","Napa","CA",2,"Kaiser Permanente"
-2017,"06055","Napa","CA",2,"Western Health Advantage"
-2017,"06057","Nevada","CA",1,"Anthem"
-2017,"06057","Nevada","CA",1,"Blue Shield"
-2017,"06057","Nevada","CA",1,"HealthNet of CA"
-2017,"06059","Orange","CA",18,"Anthem"
-2017,"06059","Orange","CA",18,"Blue Shield"
-2017,"06059","Orange","CA",18,"HealthNet of CA"
-2017,"06059","Orange","CA",18,"Kaiser Permanente"
-2017,"06059","Orange","CA",18,"Molina"
-2017,"06059","Orange","CA",18,"Oscar"
-2017,"06061","Placer","CA",3,"Anthem"
-2017,"06061","Placer","CA",3,"Blue Shield"
-2017,"06061","Placer","CA",3,"HealthNet of CA"
-2017,"06061","Placer","CA",3,"Kaiser Permanente"
-2017,"06061","Placer","CA",3,"Western Health Advantage"
-2017,"06063","Plumas","CA",1,"Anthem"
-2017,"06063","Plumas","CA",1,"Blue Shield"
-2017,"06065","Riverside","CA",17,"Anthem"
-2017,"06065","Riverside","CA",17,"Blue Shield"
-2017,"06065","Riverside","CA",17,"HealthNet of CA"
-2017,"06065","Riverside","CA",17,"Kaiser Permanente"
-2017,"06065","Riverside","CA",17,"Molina"
-2017,"06067","Sacramento","CA",3,"Anthem"
-2017,"06067","Sacramento","CA",3,"Blue Shield"
-2017,"06067","Sacramento","CA",3,"HealthNet of CA"
-2017,"06067","Sacramento","CA",3,"Kaiser Permanente"
-2017,"06067","Sacramento","CA",3,"Western Health Advantage"
-2017,"06069","San Benito","CA",9,"Anthem"
-2017,"06069","San Benito","CA",9,"Blue Shield"
-2017,"06071","San Bernardino","CA",17,"Anthem"
-2017,"06071","San Bernardino","CA",17,"Blue Shield"
-2017,"06071","San Bernardino","CA",17,"HealthNet of CA"
-2017,"06071","San Bernardino","CA",17,"Kaiser Permanente"
-2017,"06071","San Bernardino","CA",17,"Molina"
-2017,"06073","San Diego","CA",19,"Anthem"
-2017,"06073","San Diego","CA",19,"Blue Shield"
-2017,"06073","San Diego","CA",19,"HealthNet of CA"
-2017,"06073","San Diego","CA",19,"Kaiser Permanente"
-2017,"06073","San Diego","CA",19,"Molina"
-2017,"06073","San Diego","CA",19,"Sharp"
-2017,"06075","San Francisco","CA",4,"Anthem"
-2017,"06075","San Francisco","CA",4,"Blue Shield"
-2017,"06075","San Francisco","CA",4,"CCHP"
-2017,"06075","San Francisco","CA",4,"HealthNet Life"
-2017,"06075","San Francisco","CA",4,"Kaiser Permanente"
-2017,"06075","San Francisco","CA",4,"Oscar"
-2017,"06077","San Joaquin","CA",10,"Anthem"
-2017,"06077","San Joaquin","CA",10,"Blue Shield"
-2017,"06077","San Joaquin","CA",10,"HealthNet Life"
-2017,"06077","San Joaquin","CA",10,"Kaiser Permanente"
-2017,"06079","San Luis Obispo","CA",12,"Anthem"
-2017,"06079","San Luis Obispo","CA",12,"Blue Shield"
-2017,"06081","San Mateo","CA",8,"Anthem"
-2017,"06081","San Mateo","CA",8,"Blue Shield"
-2017,"06081","San Mateo","CA",8,"CCHP"
-2017,"06081","San Mateo","CA",8,"HealthNet Life"
-2017,"06081","San Mateo","CA",8,"Kaiser Permanente"
-2017,"06083","Santa Barbara","CA",12,"Anthem"
-2017,"06083","Santa Barbara","CA",12,"Blue Shield"
-2017,"06085","Santa Clara","CA",7,"Anthem"
-2017,"06085","Santa Clara","CA",7,"Blue Shield"
-2017,"06085","Santa Clara","CA",7,"HealthNet of CA"
-2017,"06085","Santa Clara","CA",7,"Kaiser Permanente"
-2017,"06085","Santa Clara","CA",7,"Valley Health Plan"
-2017,"06087","Santa Cruz","CA",9,"Anthem"
-2017,"06087","Santa Cruz","CA",9,"Blue Shield"
-2017,"06087","Santa Cruz","CA",9,"HealthNet Life"
-2017,"06087","Santa Cruz","CA",9,"Kaiser Permanente"
-2017,"06089","Shasta","CA",1,"Anthem"
-2017,"06089","Shasta","CA",1,"Blue Shield"
-2017,"06091","Sierra","CA",1,"Anthem"
-2017,"06091","Sierra","CA",1,"Blue Shield"
-2017,"06093","Siskiyou","CA",1,"Anthem"
-2017,"06093","Siskiyou","CA",1,"Blue Shield"
-2017,"06095","Solano","CA",2,"Anthem"
-2017,"06095","Solano","CA",2,"Blue Shield"
-2017,"06095","Solano","CA",2,"HealthNet Life"
-2017,"06095","Solano","CA",2,"Kaiser Permanente"
-2017,"06095","Solano","CA",2,"Western Health Advantage"
-2017,"06097","Sonoma","CA",2,"Anthem"
-2017,"06097","Sonoma","CA",2,"Blue Shield"
-2017,"06097","Sonoma","CA",2,"HealthNet Life"
-2017,"06097","Sonoma","CA",2,"Kaiser Permanente"
-2017,"06097","Sonoma","CA",2,"Western Health Advantage"
-2017,"06099","Stanislaus","CA",10,"Anthem"
-2017,"06099","Stanislaus","CA",10,"Blue Shield"
-2017,"06099","Stanislaus","CA",10,"HealthNet Life"
-2017,"06099","Stanislaus","CA",10,"Kaiser Permanente"
-2017,"06101","Sutter","CA",1,"Anthem"
-2017,"06101","Sutter","CA",1,"Blue Shield"
-2017,"06101","Sutter","CA",1,"Kaiser Permanente"
-2017,"06103","Tehama","CA",1,"Anthem"
-2017,"06103","Tehama","CA",1,"Blue Shield"
-2017,"06105","Trinity","CA",1,"Anthem"
-2017,"06105","Trinity","CA",1,"Blue Shield"
-2017,"06107","Tulare","CA",10,"Anthem"
-2017,"06107","Tulare","CA",10,"Blue Shield"
-2017,"06107","Tulare","CA",10,"HealthNet Life"
-2017,"06107","Tulare","CA",10,"Kaiser Permanente"
-2017,"06109","Tuolumne","CA",1,"Anthem"
-2017,"06109","Tuolumne","CA",1,"Blue Shield"
-2017,"06111","Ventura","CA",12,"Anthem"
-2017,"06111","Ventura","CA",12,"Blue Shield"
-2017,"06111","Ventura","CA",12,"Kaiser Permanente"
-2017,"06113","Yolo","CA",3,"Anthem"
-2017,"06113","Yolo","CA",3,"Blue Shield"
-2017,"06113","Yolo","CA",3,"HealthNet of CA"
-2017,"06113","Yolo","CA",3,"Kaiser Permanente"
-2017,"06113","Yolo","CA",3,"Western Health Advantage"
-2017,"06115","Yuba","CA",1,"Anthem"
-2017,"06115","Yuba","CA",1,"Blue Shield"
-2017,"06115","Yuba","CA",1,"Kaiser Permanente"
+"year","state_code","rating_area","fips_county","county_name","issuer_name","issuer_id"
+2014,"CA",6,"06001","Alameda County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",6,"06001","Alameda County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",6,"06001","Alameda County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",1,"06003","Alpine County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",1,"06003","Alpine County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",1,"06005","Amador County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",1,"06005","Amador County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",1,"06005","Amador County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",1,"06007","Butte County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",1,"06007","Butte County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",1,"06007","Butte County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",1,"06009","Calaveras County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",1,"06009","Calaveras County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",1,"06009","Calaveras County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",1,"06011","Colusa County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",1,"06011","Colusa County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",5,"06013","Contra Costa County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",5,"06013","Contra Costa County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",5,"06013","Contra Costa County","Contra Costa Health Plan",99483
+2014,"CA",5,"06013","Contra Costa County","Health Net Life Insurance Company",99110
+2014,"CA",5,"06013","Contra Costa County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",1,"06015","Del Norte County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",1,"06015","Del Norte County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",3,"06017","El Dorado County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",3,"06017","El Dorado County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",3,"06017","El Dorado County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",3,"06017","El Dorado County","Western Health Advantage",93689
+2014,"CA",11,"06019","Fresno County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",11,"06019","Fresno County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",11,"06019","Fresno County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",1,"06021","Glenn County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",1,"06021","Glenn County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",1,"06023","Humboldt County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",1,"06023","Humboldt County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",1,"06023","Humboldt County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",13,"06025","Imperial County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",13,"06025","Imperial County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",13,"06025","Imperial County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",13,"06027","Inyo County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",13,"06027","Inyo County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",14,"06029","Kern County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",14,"06029","Kern County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",14,"06029","Kern County","Health Net Life Insurance Company",99110
+2014,"CA",14,"06029","Kern County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",11,"06031","Kings County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",11,"06031","Kings County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",11,"06031","Kings County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",1,"06033","Lake County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",1,"06033","Lake County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",1,"06033","Lake County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",1,"06035","Lassen County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",1,"06035","Lassen County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",,"06037","Los Angeles County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",,"06037","Los Angeles County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",,"06037","Los Angeles County","Health Net Life Insurance Company",99110
+2014,"CA",,"06037","Los Angeles County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",,"06037","Los Angeles County","Local Initiative Health Authority for Los Angeles County, dba L.A. Care Health Plan",92815
+2014,"CA",,"06037","Los Angeles County","Molina Healthcare of California",18126
+2014,"CA",11,"06039","Madera County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",11,"06039","Madera County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",11,"06039","Madera County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",2,"06041","Marin County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",2,"06041","Marin County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",2,"06041","Marin County","Health Net Life Insurance Company",99110
+2014,"CA",2,"06041","Marin County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",2,"06041","Marin County","Western Health Advantage",93689
+2014,"CA",10,"06043","Mariposa County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",10,"06043","Mariposa County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",10,"06043","Mariposa County","Health Net Life Insurance Company",99110
+2014,"CA",1,"06045","Mendocino County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",1,"06045","Mendocino County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",1,"06045","Mendocino County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",10,"06047","Merced County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",10,"06047","Merced County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",10,"06047","Merced County","Health Net Life Insurance Company",99110
+2014,"CA",10,"06047","Merced County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",1,"06049","Modoc County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",1,"06049","Modoc County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",13,"06051","Mono County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",13,"06051","Mono County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",9,"06053","Monterey County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",9,"06053","Monterey County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",9,"06053","Monterey County","Health Net Life Insurance Company",99110
+2014,"CA",2,"06055","Napa County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",2,"06055","Napa County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",2,"06055","Napa County","Health Net Life Insurance Company",99110
+2014,"CA",2,"06055","Napa County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",2,"06055","Napa County","Western Health Advantage",93689
+2014,"CA",1,"06057","Nevada County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",1,"06057","Nevada County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",1,"06057","Nevada County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",18,"06059","Orange County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",18,"06059","Orange County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",18,"06059","Orange County","Health Net Life Insurance Company",99110
+2014,"CA",18,"06059","Orange County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",3,"06061","Placer County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",3,"06061","Placer County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",3,"06061","Placer County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",3,"06061","Placer County","Western Health Advantage",93689
+2014,"CA",1,"06063","Plumas County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",1,"06063","Plumas County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",17,"06065","Riverside County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",17,"06065","Riverside County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",17,"06065","Riverside County","Health Net Life Insurance Company",99110
+2014,"CA",17,"06065","Riverside County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",17,"06065","Riverside County","Molina Healthcare of California",18126
+2014,"CA",3,"06067","Sacramento County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",3,"06067","Sacramento County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",3,"06067","Sacramento County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",3,"06067","Sacramento County","Western Health Advantage",93689
+2014,"CA",9,"06069","San Benito County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",9,"06069","San Benito County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",9,"06069","San Benito County","Health Net Life Insurance Company",99110
+2014,"CA",17,"06071","San Bernardino County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",17,"06071","San Bernardino County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",17,"06071","San Bernardino County","Health Net Life Insurance Company",99110
+2014,"CA",17,"06071","San Bernardino County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",17,"06071","San Bernardino County","Molina Healthcare of California",18126
+2014,"CA",19,"06073","San Diego County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",19,"06073","San Diego County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",19,"06073","San Diego County","Health Net Life Insurance Company",99110
+2014,"CA",19,"06073","San Diego County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",19,"06073","San Diego County","Molina Healthcare of California",18126
+2014,"CA",19,"06073","San Diego County","Sharp Health Plan",92499
+2014,"CA",4,"06075","San Francisco County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",4,"06075","San Francisco County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",4,"06075","San Francisco County","Chinese Community Health Plan",47579
+2014,"CA",4,"06075","San Francisco County","Health Net Life Insurance Company",99110
+2014,"CA",4,"06075","San Francisco County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",10,"06077","San Joaquin County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",10,"06077","San Joaquin County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",10,"06077","San Joaquin County","Health Net Life Insurance Company",99110
+2014,"CA",10,"06077","San Joaquin County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",12,"06079","San Luis Obispo County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",12,"06079","San Luis Obispo County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",12,"06079","San Luis Obispo County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",8,"06081","San Mateo County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",8,"06081","San Mateo County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",8,"06081","San Mateo County","Chinese Community Health Plan",47579
+2014,"CA",8,"06081","San Mateo County","Health Net Life Insurance Company",99110
+2014,"CA",8,"06081","San Mateo County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",12,"06083","Santa Barbara County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",12,"06083","Santa Barbara County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",12,"06083","Santa Barbara County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",7,"06085","Santa Clara County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",7,"06085","Santa Clara County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",7,"06085","Santa Clara County","Health Net Life Insurance Company",99110
+2014,"CA",7,"06085","Santa Clara County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",7,"06085","Santa Clara County","County of Santa Clara dba Valley Health Plan",84014
+2014,"CA",9,"06087","Santa Cruz County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",9,"06087","Santa Cruz County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",9,"06087","Santa Cruz County","Health Net Life Insurance Company",99110
+2014,"CA",1,"06089","Shasta County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",1,"06089","Shasta County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",1,"06089","Shasta County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",1,"06091","Sierra County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",1,"06091","Sierra County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",1,"06093","Siskiyou County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",1,"06093","Siskiyou County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",2,"06095","Solano County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",2,"06095","Solano County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",2,"06095","Solano County","Health Net Life Insurance Company",99110
+2014,"CA",2,"06095","Solano County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",2,"06095","Solano County","Western Health Advantage",93689
+2014,"CA",2,"06097","Sonoma County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",2,"06097","Sonoma County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",2,"06097","Sonoma County","Health Net Life Insurance Company",99110
+2014,"CA",2,"06097","Sonoma County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",2,"06097","Sonoma County","Western Health Advantage",93689
+2014,"CA",10,"06099","Stanislaus County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",10,"06099","Stanislaus County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",10,"06099","Stanislaus County","Health Net Life Insurance Company",99110
+2014,"CA",10,"06099","Stanislaus County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",1,"06101","Sutter County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",1,"06101","Sutter County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",1,"06101","Sutter County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",1,"06103","Tehama County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",1,"06103","Tehama County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",1,"06105","Trinity County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",1,"06105","Trinity County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",10,"06107","Tulare County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",10,"06107","Tulare County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",10,"06107","Tulare County","Health Net Life Insurance Company",99110
+2014,"CA",10,"06107","Tulare County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",1,"06109","Tuolumne County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",1,"06109","Tuolumne County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",12,"06111","Ventura County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",12,"06111","Ventura County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",12,"06111","Ventura County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",3,"06113","Yolo County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",3,"06113","Yolo County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",3,"06113","Yolo County","Kaiser Foundation Health Plan, Inc.",40513
+2014,"CA",3,"06113","Yolo County","Western Health Advantage",93689
+2014,"CA",1,"06115","Yuba County","Blue Cross of California(Anthem BC)",27603
+2014,"CA",1,"06115","Yuba County","California Physicians’ Service, dba Blue Shield of California",70285
+2014,"CA",1,"06115","Yuba County","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",6,"06001","Alameda","Blue Cross of California(Anthem BC)",27603
+2017,"CA",6,"06001","Alameda","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",6,"06001","Alameda","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",1,"06003","Alpine","Blue Cross of California(Anthem BC)",27603
+2017,"CA",1,"06003","Alpine","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",1,"06005","Amador","Blue Cross of California(Anthem BC)",27603
+2017,"CA",1,"06005","Amador","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",1,"06005","Amador","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",1,"06007","Butte","Blue Cross of California(Anthem BC)",27603
+2017,"CA",1,"06007","Butte","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",1,"06009","Calaveras","Blue Cross of California(Anthem BC)",27603
+2017,"CA",1,"06009","Calaveras","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",1,"06011","Colusa","Blue Cross of California(Anthem BC)",27603
+2017,"CA",1,"06011","Colusa","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",5,"06013","Contra Costa","Blue Cross of California(Anthem BC)",27603
+2017,"CA",5,"06013","Contra Costa","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",5,"06013","Contra Costa","Health Net Life Insurance Company",99110
+2017,"CA",5,"06013","Contra Costa","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",1,"06015","Del Norte","Blue Cross of California(Anthem BC)",27603
+2017,"CA",1,"06015","Del Norte","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",3,"06017","El Dorado","Blue Cross of California(Anthem BC)",27603
+2017,"CA",3,"06017","El Dorado","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",3,"06017","El Dorado","Health Net of California, Inc.",67138
+2017,"CA",3,"06017","El Dorado","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",3,"06017","El Dorado","Western Health Advantage",93689
+2017,"CA",11,"06019","Fresno","Blue Cross of California(Anthem BC)",27603
+2017,"CA",11,"06019","Fresno","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",11,"06019","Fresno","Health Net of California, Inc.",67138
+2017,"CA",11,"06019","Fresno","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",1,"06021","Glenn","Blue Cross of California(Anthem BC)",27603
+2017,"CA",1,"06021","Glenn","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",1,"06023","Humboldt","Blue Cross of California(Anthem BC)",27603
+2017,"CA",1,"06023","Humboldt","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",13,"06025","Imperial","Blue Cross of California(Anthem BC)",27603
+2017,"CA",13,"06025","Imperial","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",13,"06025","Imperial","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",13,"06025","Imperial","Molina Healthcare of California",18126
+2017,"CA",13,"06027","Inyo","Blue Cross of California(Anthem BC)",27603
+2017,"CA",13,"06027","Inyo","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",14,"06029","Kern","Blue Cross of California(Anthem BC)",27603
+2017,"CA",14,"06029","Kern","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",14,"06029","Kern","Health Net of California, Inc.",67138
+2017,"CA",14,"06029","Kern","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",11,"06031","Kings","Blue Cross of California(Anthem BC)",27603
+2017,"CA",11,"06031","Kings","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",11,"06031","Kings","Health Net of California, Inc.",67138
+2017,"CA",11,"06031","Kings","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",1,"06033","Lake","Blue Cross of California(Anthem BC)",27603
+2017,"CA",1,"06033","Lake","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",1,"06035","Lassen","Blue Cross of California(Anthem BC)",27603
+2017,"CA",1,"06035","Lassen","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",15,"06037","Los Angeles","Blue Cross of California(Anthem BC)",27603
+2017,"CA",15,"06037","Los Angeles","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",15,"06037","Los Angeles","Health Net of California, Inc.",67138
+2017,"CA",15,"06037","Los Angeles","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",15,"06037","Los Angeles","Local Initiative Health Authority for Los Angeles County, dba L.A. Care Health Plan",92815
+2017,"CA",15,"06037","Los Angeles","Molina Healthcare of California",18126
+2017,"CA",16,"06037","Los Angeles","Blue Cross of California(Anthem BC)",27603
+2017,"CA",16,"06037","Los Angeles","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",16,"06037","Los Angeles","Health Net of California, Inc.",67138
+2017,"CA",16,"06037","Los Angeles","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",16,"06037","Los Angeles","Local Initiative Health Authority for Los Angeles County, dba L.A. Care Health Plan",92815
+2017,"CA",16,"06037","Los Angeles","Molina Healthcare of California",18126
+2017,"CA",16,"06037","Los Angeles","Oscar Health Plan of California",10544
+2017,"CA",11,"06039","Madera","Blue Cross of California(Anthem BC)",27603
+2017,"CA",11,"06039","Madera","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",11,"06039","Madera","Health Net of California, Inc.",67138
+2017,"CA",11,"06039","Madera","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",2,"06041","Marin","Blue Cross of California(Anthem BC)",27603
+2017,"CA",2,"06041","Marin","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",2,"06041","Marin","Health Net Life Insurance Company",99110
+2017,"CA",2,"06041","Marin","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",2,"06041","Marin","Western Health Advantage",93689
+2017,"CA",10,"06043","Mariposa","Blue Cross of California(Anthem BC)",27603
+2017,"CA",10,"06043","Mariposa","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",10,"06043","Mariposa","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",1,"06045","Mendocino","Blue Cross of California(Anthem BC)",27603
+2017,"CA",1,"06045","Mendocino","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",10,"06047","Merced","Blue Cross of California(Anthem BC)",27603
+2017,"CA",10,"06047","Merced","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",10,"06047","Merced","Health Net Life Insurance Company",99110
+2017,"CA",1,"06049","Modoc","Blue Cross of California(Anthem BC)",27603
+2017,"CA",1,"06049","Modoc","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",13,"06051","Mono","Blue Cross of California(Anthem BC)",27603
+2017,"CA",13,"06051","Mono","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",9,"06053","Monterey","Blue Cross of California(Anthem BC)",27603
+2017,"CA",9,"06053","Monterey","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",2,"06055","Napa","Blue Cross of California(Anthem BC)",27603
+2017,"CA",2,"06055","Napa","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",2,"06055","Napa","Health Net Life Insurance Company",99110
+2017,"CA",2,"06055","Napa","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",2,"06055","Napa","Western Health Advantage",93689
+2017,"CA",1,"06057","Nevada","Blue Cross of California(Anthem BC)",27603
+2017,"CA",1,"06057","Nevada","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",1,"06057","Nevada","Health Net of California, Inc.",67138
+2017,"CA",18,"06059","Orange","Blue Cross of California(Anthem BC)",27603
+2017,"CA",18,"06059","Orange","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",18,"06059","Orange","Health Net of California, Inc.",67138
+2017,"CA",18,"06059","Orange","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",18,"06059","Orange","Molina Healthcare of California",18126
+2017,"CA",18,"06059","Orange","Oscar Health Plan of California",10544
+2017,"CA",3,"06061","Placer","Blue Cross of California(Anthem BC)",27603
+2017,"CA",3,"06061","Placer","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",3,"06061","Placer","Health Net of California, Inc.",67138
+2017,"CA",3,"06061","Placer","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",3,"06061","Placer","Western Health Advantage",93689
+2017,"CA",1,"06063","Plumas","Blue Cross of California(Anthem BC)",27603
+2017,"CA",1,"06063","Plumas","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",17,"06065","Riverside","Blue Cross of California(Anthem BC)",27603
+2017,"CA",17,"06065","Riverside","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",17,"06065","Riverside","Health Net of California, Inc.",67138
+2017,"CA",17,"06065","Riverside","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",17,"06065","Riverside","Molina Healthcare of California",18126
+2017,"CA",3,"06067","Sacramento","Blue Cross of California(Anthem BC)",27603
+2017,"CA",3,"06067","Sacramento","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",3,"06067","Sacramento","Health Net of California, Inc.",67138
+2017,"CA",3,"06067","Sacramento","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",3,"06067","Sacramento","Western Health Advantage",93689
+2017,"CA",9,"06069","San Benito","Blue Cross of California(Anthem BC)",27603
+2017,"CA",9,"06069","San Benito","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",17,"06071","San Bernardino","Blue Cross of California(Anthem BC)",27603
+2017,"CA",17,"06071","San Bernardino","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",17,"06071","San Bernardino","Health Net of California, Inc.",67138
+2017,"CA",17,"06071","San Bernardino","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",17,"06071","San Bernardino","Molina Healthcare of California",18126
+2017,"CA",19,"06073","San Diego","Blue Cross of California(Anthem BC)",27603
+2017,"CA",19,"06073","San Diego","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",19,"06073","San Diego","Health Net of California, Inc.",67138
+2017,"CA",19,"06073","San Diego","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",19,"06073","San Diego","Molina Healthcare of California",18126
+2017,"CA",19,"06073","San Diego","Sharp Health Plan",92499
+2017,"CA",4,"06075","San Francisco","Blue Cross of California(Anthem BC)",27603
+2017,"CA",4,"06075","San Francisco","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",4,"06075","San Francisco","Chinese Community Health Plan",47579
+2017,"CA",4,"06075","San Francisco","Health Net Life Insurance Company",99110
+2017,"CA",4,"06075","San Francisco","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",4,"06075","San Francisco","Oscar Health Plan of California",10544
+2017,"CA",10,"06077","San Joaquin","Blue Cross of California(Anthem BC)",27603
+2017,"CA",10,"06077","San Joaquin","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",10,"06077","San Joaquin","Health Net Life Insurance Company",99110
+2017,"CA",10,"06077","San Joaquin","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",12,"06079","San Luis Obispo","Blue Cross of California(Anthem BC)",27603
+2017,"CA",12,"06079","San Luis Obispo","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",8,"06081","San Mateo","Blue Cross of California(Anthem BC)",27603
+2017,"CA",8,"06081","San Mateo","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",8,"06081","San Mateo","Chinese Community Health Plan",47579
+2017,"CA",8,"06081","San Mateo","Health Net Life Insurance Company",99110
+2017,"CA",8,"06081","San Mateo","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",12,"06083","Santa Barbara","Blue Cross of California(Anthem BC)",27603
+2017,"CA",12,"06083","Santa Barbara","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",7,"06085","Santa Clara","Blue Cross of California(Anthem BC)",27603
+2017,"CA",7,"06085","Santa Clara","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",7,"06085","Santa Clara","Health Net of California, Inc.",67138
+2017,"CA",7,"06085","Santa Clara","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",7,"06085","Santa Clara","County of Santa Clara dba Valley Health Plan",84014
+2017,"CA",9,"06087","Santa Cruz","Blue Cross of California(Anthem BC)",27603
+2017,"CA",9,"06087","Santa Cruz","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",9,"06087","Santa Cruz","Health Net Life Insurance Company",99110
+2017,"CA",9,"06087","Santa Cruz","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",1,"06089","Shasta","Blue Cross of California(Anthem BC)",27603
+2017,"CA",1,"06089","Shasta","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",1,"06091","Sierra","Blue Cross of California(Anthem BC)",27603
+2017,"CA",1,"06091","Sierra","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",1,"06093","Siskiyou","Blue Cross of California(Anthem BC)",27603
+2017,"CA",1,"06093","Siskiyou","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",2,"06095","Solano","Blue Cross of California(Anthem BC)",27603
+2017,"CA",2,"06095","Solano","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",2,"06095","Solano","Health Net Life Insurance Company",99110
+2017,"CA",2,"06095","Solano","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",2,"06095","Solano","Western Health Advantage",93689
+2017,"CA",2,"06097","Sonoma","Blue Cross of California(Anthem BC)",27603
+2017,"CA",2,"06097","Sonoma","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",2,"06097","Sonoma","Health Net Life Insurance Company",99110
+2017,"CA",2,"06097","Sonoma","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",2,"06097","Sonoma","Western Health Advantage",93689
+2017,"CA",10,"06099","Stanislaus","Blue Cross of California(Anthem BC)",27603
+2017,"CA",10,"06099","Stanislaus","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",10,"06099","Stanislaus","Health Net Life Insurance Company",99110
+2017,"CA",10,"06099","Stanislaus","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",1,"06101","Sutter","Blue Cross of California(Anthem BC)",27603
+2017,"CA",1,"06101","Sutter","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",1,"06101","Sutter","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",1,"06103","Tehama","Blue Cross of California(Anthem BC)",27603
+2017,"CA",1,"06103","Tehama","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",1,"06105","Trinity","Blue Cross of California(Anthem BC)",27603
+2017,"CA",1,"06105","Trinity","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",10,"06107","Tulare","Blue Cross of California(Anthem BC)",27603
+2017,"CA",10,"06107","Tulare","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",10,"06107","Tulare","Health Net Life Insurance Company",99110
+2017,"CA",10,"06107","Tulare","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",1,"06109","Tuolumne","Blue Cross of California(Anthem BC)",27603
+2017,"CA",1,"06109","Tuolumne","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",12,"06111","Ventura","Blue Cross of California(Anthem BC)",27603
+2017,"CA",12,"06111","Ventura","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",12,"06111","Ventura","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",3,"06113","Yolo","Blue Cross of California(Anthem BC)",27603
+2017,"CA",3,"06113","Yolo","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",3,"06113","Yolo","Health Net of California, Inc.",67138
+2017,"CA",3,"06113","Yolo","Kaiser Foundation Health Plan, Inc.",40513
+2017,"CA",3,"06113","Yolo","Western Health Advantage",93689
+2017,"CA",1,"06115","Yuba","Blue Cross of California(Anthem BC)",27603
+2017,"CA",1,"06115","Yuba","California Physicians’ Service, dba Blue Shield of California",70285
+2017,"CA",1,"06115","Yuba","Kaiser Foundation Health Plan, Inc.",40513

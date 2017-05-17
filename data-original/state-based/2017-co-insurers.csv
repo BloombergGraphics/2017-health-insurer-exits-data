@@ -1,151 +1,151 @@
-"year","fips_county","state_code","county_name","rating_area","issuer_name","plans"
-2017,"08001","CO","Adams",3,"Cigna Health and Life Insurance Company",15
-2017,"08001","CO","Adams",3,"Denver Health Medical Plan  Inc",7
-2017,"08001","CO","Adams",3,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08001","CO","Adams",3,"Kaiser Foundation Health Plan of Colorado",20
-2017,"08003","CO","Alamosa",8,"Colorado Choice Health Plans",15
-2017,"08003","CO","Alamosa",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08005","CO","Arapahoe",3,"Bright Health Plan",6
-2017,"08005","CO","Arapahoe",3,"Cigna Health and Life Insurance Company",15
-2017,"08005","CO","Arapahoe",3,"Denver Health Medical Plan  Inc",7
-2017,"08005","CO","Arapahoe",3,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08005","CO","Arapahoe",3,"Kaiser Foundation Health Plan of Colorado",10
-2017,"08007","CO","Archuleta",9,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",19
-2017,"08009","CO","Baca",8,"Colorado Choice Health Plans",15
-2017,"08009","CO","Baca",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08011","CO","Bent",8,"Colorado Choice Health Plans",15
-2017,"08011","CO","Bent",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08013","CO","Boulder",1,"Bright Health Plan",6
-2017,"08013","CO","Boulder",1,"Cigna Health and Life Insurance Company",15
-2017,"08013","CO","Boulder",1,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08013","CO","Boulder",1,"Kaiser Foundation Health Plan of Colorado",20
-2017,"08014","CO","Broomfield",3,"Bright Health Plan",6
-2017,"08014","CO","Broomfield",3,"Cigna Health and Life Insurance Company",15
-2017,"08014","CO","Broomfield",3,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08014","CO","Broomfield",3,"Kaiser Foundation Health Plan of Colorado",10
-2017,"08015","CO","Chaffee",8,"Colorado Choice Health Plans",15
-2017,"08015","CO","Chaffee",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08017","CO","Cheyenne",8,"Colorado Choice Health Plans",15
-2017,"08017","CO","Cheyenne",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08019","CO","ClearCreek",3,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08019","CO","ClearCreek",3,"Kaiser Foundation Health Plan of Colorado",10
-2017,"08021","CO","Conejos",8,"Colorado Choice Health Plans",15
-2017,"08021","CO","Conejos",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08023","CO","Costilla",8,"Colorado Choice Health Plans",15
-2017,"08023","CO","Costilla",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08025","CO","Crowley",8,"Colorado Choice Health Plans",15
-2017,"08025","CO","Crowley",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08025","CO","Crowley",8,"Kaiser Foundation Health Plan of Colorado",10
-2017,"08027","CO","Custer",8,"Colorado Choice Health Plans",15
-2017,"08027","CO","Custer",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08027","CO","Custer",8,"Kaiser Foundation Health Plan of Colorado",10
-2017,"08029","CO","Delta",9,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08031","CO","Denver",3,"Bright Health Plan",6
-2017,"08031","CO","Denver",3,"Cigna Health and Life Insurance Company",15
-2017,"08031","CO","Denver",3,"Denver Health Medical Plan  Inc",7
-2017,"08031","CO","Denver",3,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08031","CO","Denver",3,"Kaiser Foundation Health Plan of Colorado",10
-2017,"08033","CO","Dolores",9,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08035","CO","Douglas",3,"Bright Health Plan",6
-2017,"08035","CO","Douglas",3,"Cigna Health and Life Insurance Company",15
-2017,"08035","CO","Douglas",3,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08035","CO","Douglas",3,"Kaiser Foundation Health Plan of Colorado",20
-2017,"08037","CO","Eagle",9,"Cigna Health and Life Insurance Company",6
-2017,"08037","CO","Eagle",9,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",19
-2017,"08037","CO","Eagle",9,"Kaiser Foundation Health Plan of Colorado",10
-2017,"08039","CO","Elbert",3,"Colorado Choice Health Plans",15
-2017,"08039","CO","Elbert",3,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08039","CO","Elbert",3,"Kaiser Foundation Health Plan of Colorado",20
-2017,"08041","CO","ElPaso",2,"Bright Health Plan",6
-2017,"08041","CO","ElPaso",2,"Cigna Health and Life Insurance Company",6
-2017,"08041","CO","ElPaso",2,"Colorado Choice Health Plans",15
-2017,"08041","CO","ElPaso",2,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08041","CO","ElPaso",2,"Kaiser Foundation Health Plan of Colorado",20
-2017,"08043","CO","Fremont",8,"Colorado Choice Health Plans",15
-2017,"08043","CO","Fremont",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08043","CO","Fremont",8,"Kaiser Foundation Health Plan of Colorado",20
-2017,"08045","CO","Garfield",9,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08045","CO","Garfield",9,"Kaiser Foundation Health Plan of Colorado",10
-2017,"08047","CO","Gilpin",3,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08047","CO","Gilpin",3,"Kaiser Foundation Health Plan of Colorado",10
-2017,"08049","CO","Grand",9,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08049","CO","Grand",9,"Kaiser Foundation Health Plan of Colorado",10
-2017,"08051","CO","Gunnison",9,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08053","CO","Hinsdale",9,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08055","CO","Huerfano",8,"Colorado Choice Health Plans",15
-2017,"08055","CO","Huerfano",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08055","CO","Huerfano",8,"Kaiser Foundation Health Plan of Colorado",10
-2017,"08057","CO","Jackson",9,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08059","CO","Jefferson",3,"Bright Health Plan",6
-2017,"08059","CO","Jefferson",3,"Cigna Health and Life Insurance Company",15
-2017,"08059","CO","Jefferson",3,"Denver Health Medical Plan  Inc",7
-2017,"08059","CO","Jefferson",3,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08059","CO","Jefferson",3,"Kaiser Foundation Health Plan of Colorado",10
-2017,"08061","CO","Kiowa",8,"Colorado Choice Health Plans",15
-2017,"08061","CO","Kiowa",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08063","CO","KitCarson",8,"Colorado Choice Health Plans",15
-2017,"08063","CO","KitCarson",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08065","CO","Lake",9,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08067","CO","LaPlata",9,"Cigna Health and Life Insurance Company",6
-2017,"08067","CO","LaPlata",9,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",19
-2017,"08069","CO","Larimer",4,"Cigna Health and Life Insurance Company",6
-2017,"08069","CO","Larimer",4,"Colorado Choice Health Plans",15
-2017,"08069","CO","Larimer",4,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08069","CO","Larimer",4,"Kaiser Foundation Health Plan of Colorado",20
-2017,"08071","CO","LasAnimas",8,"Colorado Choice Health Plans",15
-2017,"08071","CO","LasAnimas",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08071","CO","LasAnimas",8,"Kaiser Foundation Health Plan of Colorado",10
-2017,"08073","CO","Lincoln",8,"Colorado Choice Health Plans",15
-2017,"08073","CO","Lincoln",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08073","CO","Lincoln",8,"Kaiser Foundation Health Plan of Colorado",10
-2017,"08075","CO","Logan",8,"Colorado Choice Health Plans",15
-2017,"08075","CO","Logan",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08077","CO","Mesa",5,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08077","CO","Mesa",5,"Rocky Mountain Health Maintenance Organization",5
-2017,"08079","CO","Mineral",8,"Colorado Choice Health Plans",15
-2017,"08079","CO","Mineral",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08081","CO","Moffat",9,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08083","CO","Montezuma",9,"Cigna Health and Life Insurance Company",6
-2017,"08083","CO","Montezuma",9,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",19
-2017,"08085","CO","Montrose",9,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08087","CO","Morgan",8,"Colorado Choice Health Plans",15
-2017,"08087","CO","Morgan",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08087","CO","Morgan",8,"Kaiser Foundation Health Plan of Colorado",10
-2017,"08089","CO","Otero",8,"Colorado Choice Health Plans",15
-2017,"08089","CO","Otero",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08089","CO","Otero",8,"Kaiser Foundation Health Plan of Colorado",10
-2017,"08091","CO","Ouray",9,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08093","CO","Park",3,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08093","CO","Park",3,"Kaiser Foundation Health Plan of Colorado",20
-2017,"08095","CO","Phillips",8,"Colorado Choice Health Plans",15
-2017,"08095","CO","Phillips",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08097","CO","Pitkin",9,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08099","CO","Prowers",8,"Colorado Choice Health Plans",15
-2017,"08099","CO","Prowers",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08101","CO","Pueblo",7,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08101","CO","Pueblo",7,"Kaiser Foundation Health Plan of Colorado",20
-2017,"08103","CO","RioBlanco",9,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08105","CO","RioGrande",8,"Colorado Choice Health Plans",15
-2017,"08105","CO","RioGrande",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08107","CO","Routt",9,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08107","CO","Routt",9,"Kaiser Foundation Health Plan of Colorado",10
-2017,"08109","CO","Saguache",8,"Colorado Choice Health Plans",15
-2017,"08109","CO","Saguache",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08111","CO","SanJuan",9,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08113","CO","SanMiguel",9,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08115","CO","Sedgwick",8,"Colorado Choice Health Plans",15
-2017,"08115","CO","Sedgwick",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08117","CO","Summit",9,"Bright Health Plan",6
-2017,"08117","CO","Summit",9,"Cigna Health and Life Insurance Company",6
-2017,"08117","CO","Summit",9,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",19
-2017,"08117","CO","Summit",9,"Kaiser Foundation Health Plan of Colorado",10
-2017,"08119","CO","Teller",2,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08119","CO","Teller",2,"Kaiser Foundation Health Plan of Colorado",20
-2017,"08121","CO","Washington",8,"Colorado Choice Health Plans",15
-2017,"08121","CO","Washington",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08123","CO","Weld",6,"Cigna Health and Life Insurance Company",6
-2017,"08123","CO","Weld",6,"Colorado Choice Health Plans",15
-2017,"08123","CO","Weld",6,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
-2017,"08123","CO","Weld",6,"Kaiser Foundation Health Plan of Colorado",20
-2017,"08125","CO","Yuma",8,"Colorado Choice Health Plans",15
-2017,"08125","CO","Yuma",8,"Anthem Blue Cross Blue Shield  HMO Colorado Inc ",15
+"year","state_code","fips_county","county_name","issuer_name","issuer_id","rating_area","plans"
+2017,"CO","08001","Adams","Cigna Health and Life Insurance Company",49375,3,15
+2017,"CO","08001","Adams","Denver Health Medical Plan, Inc.",66699,3,7
+2017,"CO","08001","Adams","HMO Colorado Inc(Anthem BCBS)",76680,3,15
+2017,"CO","08001","Adams","Kaiser Foundation Health Plan of Colorado",21032,3,20
+2017,"CO","08003","Alamosa","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08003","Alamosa","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08005","Arapahoe","Bright Health Plan",31070,3,6
+2017,"CO","08005","Arapahoe","Cigna Health and Life Insurance Company",49375,3,15
+2017,"CO","08005","Arapahoe","Denver Health Medical Plan, Inc.",66699,3,7
+2017,"CO","08005","Arapahoe","HMO Colorado Inc(Anthem BCBS)",76680,3,15
+2017,"CO","08005","Arapahoe","Kaiser Foundation Health Plan of Colorado",21032,3,10
+2017,"CO","08007","Archuleta","HMO Colorado Inc(Anthem BCBS)",76680,9,19
+2017,"CO","08009","Baca","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08009","Baca","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08011","Bent","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08011","Bent","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08013","Boulder","Bright Health Plan",31070,1,6
+2017,"CO","08013","Boulder","Cigna Health and Life Insurance Company",49375,1,15
+2017,"CO","08013","Boulder","HMO Colorado Inc(Anthem BCBS)",76680,1,15
+2017,"CO","08013","Boulder","Kaiser Foundation Health Plan of Colorado",21032,1,20
+2017,"CO","08014","Broomfield","Bright Health Plan",31070,3,6
+2017,"CO","08014","Broomfield","Cigna Health and Life Insurance Company",49375,3,15
+2017,"CO","08014","Broomfield","HMO Colorado Inc(Anthem BCBS)",76680,3,15
+2017,"CO","08014","Broomfield","Kaiser Foundation Health Plan of Colorado",21032,3,10
+2017,"CO","08015","Chaffee","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08015","Chaffee","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08017","Cheyenne","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08017","Cheyenne","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08019","ClearCreek","HMO Colorado Inc(Anthem BCBS)",76680,3,15
+2017,"CO","08019","ClearCreek","Kaiser Foundation Health Plan of Colorado",21032,3,10
+2017,"CO","08021","Conejos","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08021","Conejos","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08023","Costilla","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08023","Costilla","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08025","Crowley","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08025","Crowley","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08025","Crowley","Kaiser Foundation Health Plan of Colorado",21032,8,10
+2017,"CO","08027","Custer","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08027","Custer","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08027","Custer","Kaiser Foundation Health Plan of Colorado",21032,8,10
+2017,"CO","08029","Delta","HMO Colorado Inc(Anthem BCBS)",76680,9,15
+2017,"CO","08031","Denver","Bright Health Plan",31070,3,6
+2017,"CO","08031","Denver","Cigna Health and Life Insurance Company",49375,3,15
+2017,"CO","08031","Denver","Denver Health Medical Plan, Inc.",66699,3,7
+2017,"CO","08031","Denver","HMO Colorado Inc(Anthem BCBS)",76680,3,15
+2017,"CO","08031","Denver","Kaiser Foundation Health Plan of Colorado",21032,3,10
+2017,"CO","08033","Dolores","HMO Colorado Inc(Anthem BCBS)",76680,9,15
+2017,"CO","08035","Douglas","Bright Health Plan",31070,3,6
+2017,"CO","08035","Douglas","Cigna Health and Life Insurance Company",49375,3,15
+2017,"CO","08035","Douglas","HMO Colorado Inc(Anthem BCBS)",76680,3,15
+2017,"CO","08035","Douglas","Kaiser Foundation Health Plan of Colorado",21032,3,20
+2017,"CO","08037","Eagle","Cigna Health and Life Insurance Company",49375,9,6
+2017,"CO","08037","Eagle","HMO Colorado Inc(Anthem BCBS)",76680,9,19
+2017,"CO","08037","Eagle","Kaiser Foundation Health Plan of Colorado",21032,9,10
+2017,"CO","08039","Elbert","Colorado Choice Health Plans",63312,3,15
+2017,"CO","08039","Elbert","HMO Colorado Inc(Anthem BCBS)",76680,3,15
+2017,"CO","08039","Elbert","Kaiser Foundation Health Plan of Colorado",21032,3,20
+2017,"CO","08041","ElPaso","Bright Health Plan",31070,2,6
+2017,"CO","08041","ElPaso","Cigna Health and Life Insurance Company",49375,2,6
+2017,"CO","08041","ElPaso","Colorado Choice Health Plans",63312,2,15
+2017,"CO","08041","ElPaso","HMO Colorado Inc(Anthem BCBS)",76680,2,15
+2017,"CO","08041","ElPaso","Kaiser Foundation Health Plan of Colorado",21032,2,20
+2017,"CO","08043","Fremont","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08043","Fremont","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08043","Fremont","Kaiser Foundation Health Plan of Colorado",21032,8,20
+2017,"CO","08045","Garfield","HMO Colorado Inc(Anthem BCBS)",76680,9,15
+2017,"CO","08045","Garfield","Kaiser Foundation Health Plan of Colorado",21032,9,10
+2017,"CO","08047","Gilpin","HMO Colorado Inc(Anthem BCBS)",76680,3,15
+2017,"CO","08047","Gilpin","Kaiser Foundation Health Plan of Colorado",21032,3,10
+2017,"CO","08049","Grand","HMO Colorado Inc(Anthem BCBS)",76680,9,15
+2017,"CO","08049","Grand","Kaiser Foundation Health Plan of Colorado",21032,9,10
+2017,"CO","08051","Gunnison","HMO Colorado Inc(Anthem BCBS)",76680,9,15
+2017,"CO","08053","Hinsdale","HMO Colorado Inc(Anthem BCBS)",76680,9,15
+2017,"CO","08055","Huerfano","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08055","Huerfano","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08055","Huerfano","Kaiser Foundation Health Plan of Colorado",21032,8,10
+2017,"CO","08057","Jackson","HMO Colorado Inc(Anthem BCBS)",76680,9,15
+2017,"CO","08059","Jefferson","Bright Health Plan",31070,3,6
+2017,"CO","08059","Jefferson","Cigna Health and Life Insurance Company",49375,3,15
+2017,"CO","08059","Jefferson","Denver Health Medical Plan, Inc.",66699,3,7
+2017,"CO","08059","Jefferson","HMO Colorado Inc(Anthem BCBS)",76680,3,15
+2017,"CO","08059","Jefferson","Kaiser Foundation Health Plan of Colorado",21032,3,10
+2017,"CO","08061","Kiowa","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08061","Kiowa","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08063","KitCarson","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08063","KitCarson","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08065","Lake","HMO Colorado Inc(Anthem BCBS)",76680,9,15
+2017,"CO","08067","LaPlata","Cigna Health and Life Insurance Company",49375,9,6
+2017,"CO","08067","LaPlata","HMO Colorado Inc(Anthem BCBS)",76680,9,19
+2017,"CO","08069","Larimer","Cigna Health and Life Insurance Company",49375,4,6
+2017,"CO","08069","Larimer","Colorado Choice Health Plans",63312,4,15
+2017,"CO","08069","Larimer","HMO Colorado Inc(Anthem BCBS)",76680,4,15
+2017,"CO","08069","Larimer","Kaiser Foundation Health Plan of Colorado",21032,4,20
+2017,"CO","08071","LasAnimas","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08071","LasAnimas","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08071","LasAnimas","Kaiser Foundation Health Plan of Colorado",21032,8,10
+2017,"CO","08073","Lincoln","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08073","Lincoln","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08073","Lincoln","Kaiser Foundation Health Plan of Colorado",21032,8,10
+2017,"CO","08075","Logan","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08075","Logan","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08077","Mesa","HMO Colorado Inc(Anthem BCBS)",76680,5,15
+2017,"CO","08077","Mesa","Rocky Mountain HMO",97879,5,5
+2017,"CO","08079","Mineral","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08079","Mineral","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08081","Moffat","HMO Colorado Inc(Anthem BCBS)",76680,9,15
+2017,"CO","08083","Montezuma","Cigna Health and Life Insurance Company",49375,9,6
+2017,"CO","08083","Montezuma","HMO Colorado Inc(Anthem BCBS)",76680,9,19
+2017,"CO","08085","Montrose","HMO Colorado Inc(Anthem BCBS)",76680,9,15
+2017,"CO","08087","Morgan","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08087","Morgan","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08087","Morgan","Kaiser Foundation Health Plan of Colorado",21032,8,10
+2017,"CO","08089","Otero","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08089","Otero","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08089","Otero","Kaiser Foundation Health Plan of Colorado",21032,8,10
+2017,"CO","08091","Ouray","HMO Colorado Inc(Anthem BCBS)",76680,9,15
+2017,"CO","08093","Park","HMO Colorado Inc(Anthem BCBS)",76680,3,15
+2017,"CO","08093","Park","Kaiser Foundation Health Plan of Colorado",21032,3,20
+2017,"CO","08095","Phillips","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08095","Phillips","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08097","Pitkin","HMO Colorado Inc(Anthem BCBS)",76680,9,15
+2017,"CO","08099","Prowers","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08099","Prowers","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08101","Pueblo","HMO Colorado Inc(Anthem BCBS)",76680,7,15
+2017,"CO","08101","Pueblo","Kaiser Foundation Health Plan of Colorado",21032,7,20
+2017,"CO","08103","RioBlanco","HMO Colorado Inc(Anthem BCBS)",76680,9,15
+2017,"CO","08105","RioGrande","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08105","RioGrande","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08107","Routt","HMO Colorado Inc(Anthem BCBS)",76680,9,15
+2017,"CO","08107","Routt","Kaiser Foundation Health Plan of Colorado",21032,9,10
+2017,"CO","08109","Saguache","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08109","Saguache","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08111","SanJuan","HMO Colorado Inc(Anthem BCBS)",76680,9,15
+2017,"CO","08113","SanMiguel","HMO Colorado Inc(Anthem BCBS)",76680,9,15
+2017,"CO","08115","Sedgwick","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08115","Sedgwick","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08117","Summit","Bright Health Plan",31070,9,6
+2017,"CO","08117","Summit","Cigna Health and Life Insurance Company",49375,9,6
+2017,"CO","08117","Summit","HMO Colorado Inc(Anthem BCBS)",76680,9,19
+2017,"CO","08117","Summit","Kaiser Foundation Health Plan of Colorado",21032,9,10
+2017,"CO","08119","Teller","HMO Colorado Inc(Anthem BCBS)",76680,2,15
+2017,"CO","08119","Teller","Kaiser Foundation Health Plan of Colorado",21032,2,20
+2017,"CO","08121","Washington","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08121","Washington","HMO Colorado Inc(Anthem BCBS)",76680,8,15
+2017,"CO","08123","Weld","Cigna Health and Life Insurance Company",49375,6,6
+2017,"CO","08123","Weld","Colorado Choice Health Plans",63312,6,15
+2017,"CO","08123","Weld","HMO Colorado Inc(Anthem BCBS)",76680,6,15
+2017,"CO","08123","Weld","Kaiser Foundation Health Plan of Colorado",21032,6,20
+2017,"CO","08125","Yuma","Colorado Choice Health Plans",63312,8,15
+2017,"CO","08125","Yuma","HMO Colorado Inc(Anthem BCBS)",76680,8,15

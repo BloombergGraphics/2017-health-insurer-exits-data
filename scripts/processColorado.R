@@ -25,6 +25,34 @@ co17 <- co_raw %>% gather(issuer_name, plans, -c(county, Total, rating_area)) %>
 	arrange(fips_county)
 
 co17$issuer_name <- str_replace_all(co17$issuer_name, "[.]", " ")
+
+# Match HIOS ids from previous years
+table(co17$issuer_name)
+
+ids <- read.csv("data/hios-ids.csv", stringsAsFactors = F)
+ids_co <- ids %>% filter(state_code == "CO" & market == "Individual") %>%
+	mutate(issuer_name = str_replace_all(issuer_name, "  ", ", ")) %>%
+	group_by(issuer_name, issuer_id) %>%
+	summarize(n = n())
+table(ids_co$issuer_name)
+
+# Reformat needed names to match
+co17 <- co17 %>% mutate(issuer_name = ifelse(issuer_name == "Denver Health Medical Plan  Inc", "Denver Health Medical Plan, Inc.",
+																			ifelse(issuer_name == "Rocky Mountain Health Maintenance Organization", "Rocky Mountain HMO",
+																			ifelse(str_detect(issuer_name, "Anthem Blue") & str_detect(issuer_name, "HMO Colorado"), "HMO Colorado Inc(Anthem BCBS)",
+																						 issuer_name))))
+
+ids_co <- ids_co %>% select(issuer_name, issuer_id)
+
+# Join to co
+co17 <- left_join(co17, ids_co, by="issuer_name")
+# Check matching
+checkdt <- co17 %>% group_by(issuer_name, issuer_id) %>%
+	summarize(n = n())
+
+co17 <- co17 %>% 	select(year, state_code, fips_county, county_name, issuer_name, issuer_id, everything()) %>%
+	arrange(year, fips_county)
+
 write.csv(co17, "data-original/state-based/2017-co-insurers.csv", row.names = F, na = "")
 
 ####################################################################################

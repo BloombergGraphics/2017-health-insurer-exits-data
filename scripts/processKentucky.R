@@ -46,7 +46,33 @@ fips_ky <- fips_codes %>% filter(state_code == "KY") %>%
 	select(fips_county, county_name)
 
 ky <- left_join(fips_ky, ky, by = "county_name")
-ky <- ky %>% select(year, fips_county, everything()) %>%
+
+# Standardize issuer names and add HIOS ids, based on 2016 SBM PUF Ids plus one pre-2016 company
+ids <- read.csv("data/hios-ids.csv", stringsAsFactors = F)
+ids_ky <- ids %>% filter(state_code == "KY" & (source == "SBM PUF" | year == 2015 & issuer_name == "Kentucky Health Cooperative, Inc." & market == "Individual"))
+ids_ky <- ids_ky %>% mutate(issuer_name = str_replace_all(issuer_name, "  ", ", "))
+
+table(ids_ky$issuer_name)
+table(ky$issuer_name)
+
+# Full names
+ky <- ky %>% mutate(issuer_name = ifelse(issuer_name == "Aetna", "Aetna Health Inc. (a PA corp.)",
+										ifelse(issuer_name == "Anthem Health Plans", "Anthem Health Plans of KY(Anthem BCBS)",
+										ifelse(issuer_name == "Baptist Health", "Baptist Health Plan, Inc.",
+										ifelse(issuer_name == "Care Source", "CareSource Kentucky Co.",
+										ifelse(issuer_name == "Humana", "Humana Health Plan, Inc.",
+										ifelse(issuer_name == "United", "UnitedHealthcare of Kentucky, Ltd.",
+										ifelse(issuer_name == "WellCare", "WellCare Health Plans of Kentucky, Inc",
+										ifelse(issuer_name == "Kentucky Health Cooperative", "Kentucky Health Cooperative, Inc.",
+													 issuer_name)))))))))
+table(ky$issuer_name)
+
+# Match HIOS id
+ids_ky <- ids_ky %>% select(issuer_name, issuer_id)
+ky <- left_join(ky, ids_ky, by = "issuer_name")
+table(ky$issuer_id)
+
+ky <- ky %>% select(year, state_code, fips_county, county_name, issuer_name, issuer_id, everything()) %>%
 	arrange(year, fips_county)
 
 write.csv(ky, "data-original/state-based/ky-insurers.csv", row.names = F, na = "")

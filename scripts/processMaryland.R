@@ -51,10 +51,10 @@ md17 <- md17 %>% mutate(year = 2017,
 
 write.csv(md17, "data-original/state-based/2017-md-insurers.csv", row.names = F, na = "")
 
-# ####################################################################################
+#####################################################################################
 # Join annual issuers by county data
 # 2016 from CMS's SBM PUFs processed in prepSbmPuf.R
-# ####################################################################################
+#####################################################################################
 
 # Use 2015 data sent by state
 md15 <- md %>% filter(year == 2015)
@@ -63,6 +63,41 @@ md17 <- as.data.frame(md17)
 # Join to 2017 data
 md_use <- bind_rows(md15, md17)
 md_use <- md_use %>% select(-name_match)
+
+#####################################################################################
+# Add HIOS ids
+#####################################################################################
+ids <- read.csv("data/hios-ids.csv", stringsAsFactors = F)
+ids <- ids %>% mutate(issuer_name = str_replace_all(issuer_name, "  ", ", "))
+ids_md <- ids %>% filter(state_code == "MD" & market == "Individual") %>%
+	mutate(issuer_name = str_replace_all(issuer_name, "  ", ", ")) %>%
+	group_by(issuer_name, issuer_id) %>%
+	summarize(n = n()) %>%
+	select(-n)
+ids_md_puf <- ids %>% filter(state_code == "MD" & source == "SBM PUF")
+table(md_use$issuer_name)
+table(ids_md_puf$issuer_name)
+
+# CareFirst of Maryland and GHMSI are subsidiaries of CareFirst BlueCross BlueShield
+# In Montgomery county and Prince George's county they're GHMSI, all other counties are CareFirst of MD (from 2016 data)
+# For 2015, we only know "CareFirst" was in all counties, waiting on state to provide actual subsidiary data, pending request
+md_use <- md_use %>% mutate(issuer_name = ifelse(issuer_name == "CareFirst BlueChoice", "CareFirst BlueChoice, Inc.",
+																				 	ifelse(issuer_name == "CareFirst BlueCross BlueShield" & fips_county %in% c(24031, 24033), "Group Hospitalization and Medical Services, Inc.",
+																				 	ifelse(issuer_name == "CareFirst BlueCross BlueShield" & !(fips_county %in% c(24031, 24033)), "CareFirst of Maryland, Inc.",
+																				 	ifelse(str_detect(issuer_name, "Cigna"), "Cigna Health and Life Insurance Company",
+																				 	ifelse(issuer_name == "Evergreen", "Evergreen Health Cooperative Inc.",
+																				 	ifelse(str_detect(issuer_name, "Kaiser"), "Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",
+																				 	ifelse(issuer_name == "UnitedHealthCare", "UnitedHealthcare of the Mid-Atlantic, Inc.",
+																				 			 	issuer_name))))))))
+table(md_use$issuer_name)
+
+# Join ids
+ids_join <- ids_md_puf %>% select(issuer_name, issuer_id)
+md_use <- left_join(md_use, ids_join, by = "issuer_name")
+
+md_use <- md_use %>% select(year, state_code, rating_area, fips_county, county_name, issuer_name, issuer_id, everything()) %>%
+	arrange(year, fips_county)
+
 write.csv(md_use, "data-original/state-based/md-insurers.csv", row.names = F, na = "")
 
 ####################################################################################

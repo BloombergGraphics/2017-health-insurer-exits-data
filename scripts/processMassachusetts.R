@@ -61,9 +61,7 @@ ma_17 <- formatMa(ma_raw17, 2017)
 
 ma_issuers <- rbind(ma_14, ma_15, ma_16, ma_17)
 
-# Handle Tufts Health Plan acquisition
-ma_issuers <- ma_issuers %>% mutate(issuer_name = ifelse(str_detect(issuer_name, "Tufts Health Plan"), "Tufts Health Plan", issuer_name))
-ma_issuers <- as.data.frame(unique(ma_issuers))
+ma_issuers <- ma_issuers %>% mutate(issuer_name = str_replace_all(issuer_name, "\\*", ""))
 
 # Save for future use
 write.csv(ma_issuers, "documents/ma/ma-insurers-ratingarea.csv", row.names = F, na = "")
@@ -92,6 +90,38 @@ ma <- ma_issuers %>% mutate(county_name = strsplit(counties, ",")) %>%
 # Join FIPS
 ma <- left_join(ma, fips_ma, by="county_name")
 ma <- ma %>% arrange(year, fips_county) %>% select(year, fips_county, county_name, state_code, issuer_name, everything())
+
+####################################################################################
+# Add HIOS id
+####################################################################################
+ids <- read.csv("data/hios-ids.csv", stringsAsFactors = F)
+ids <- ids %>% mutate(issuer_name = str_replace_all(issuer_name, "  ", ", "))
+ids_ma <- ids %>% filter(state_code == "MA" & market == "Individual")
+table(ids_ma$issuer_name)
+table(ma$issuer_name)
+
+ids_join <- ids_ma %>% group_by(issuer_name, issuer_id) %>%
+	summarize(temp = n()) %>%
+	select(-temp)
+
+# Using names from the 2016 SBM PUF for matching where possible
+# Also for reference https://www.cms.gov/cciio/resources/regulations-and-guidance/downloads/2015-rc-issuer-level-report-11-18-16-final-v2.pdf
+# Tufts Health Plan Direct was formerly Network Health
+# Used 2016 MA SBM PUF to verify that Tufts Health Public Plans markets as Tufts Direct, Tufts Associated HMO markets as Tufts Premier
+ma <- ma %>% mutate(issuer_name = ifelse(issuer_name == "BMC HealthNet Plan", "Boston Medical Center Health Plan",
+																	ifelse(issuer_name == "Blue Cross Blue Shield of MA", "Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",
+																	ifelse(issuer_name == "CeltiCare", "CeltiCare Health Plan of Massachusetts",
+																	ifelse(issuer_name == "Fallon", "Fallon Community Health Plan, Inc.",
+																	ifelse(issuer_name == "Health New England", "Health New England, Inc.",
+																	ifelse(issuer_name == "Minuteman", "Minuteman Health, Inc.",
+																	ifelse(issuer_name == "United HealthCare", "UnitedHealthcare Insurance Company",	
+																	ifelse(issuer_name %in% c("Tufts Health Plan - Direct", "Network Health"), "Tufts Health Public Plans Inc.",
+																	ifelse(issuer_name %in% c("Tufts Health Plan - Premier", "Tufts Health Plan"), "Tufts Associated Health Maintenance Organization",
+																						issuer_name))))))))))
+table(ma$issuer_name)
+ma <- left_join(ma, ids_join, by = "issuer_name")
+summary(ma$issuer_id)
+
 write.csv(ma, "data-original/state-based/ma-insurers.csv", row.names = F, na = "")
 
 ####################################################################################

@@ -1,29 +1,29 @@
-"year","fips_county","county_name","state_code","issuer_name","plans"
-2014,"32001","Churchill County","NV","Anthem (HMO)",3
-2014,"32003","Clark County","NV","Anthem (HMO)",12
-2014,"32003","Clark County","NV","Anthem Multi-State Plan via the OPM (HMO)",2
-2014,"32003","Clark County","NV","Health Plan of Nevada (HMO)",11
-2014,"32005","Douglas County","NV","Anthem (HMO)",3
-2014,"32005","Douglas County","NV","Prominence (HMO)",8
-2014,"32007","Elko County","NV","Anthem (HMO)",3
-2014,"32009","Esmeralda County","NV","Anthem (HMO)",3
-2014,"32011","Eureka County","NV","Anthem (HMO)",3
-2014,"32013","Humboldt County","NV","Anthem (HMO)",3
-2014,"32015","Lander County","NV","Anthem (HMO)",2
-2014,"32017","Lincoln County","NV","Anthem (HMO)",3
-2014,"32019","Lyon County","NV","Anthem (HMO)",3
-2014,"32019","Lyon County","NV","Prominence (HMO)",7
-2014,"32021","Mineral County","NV","Anthem (HMO)",3
-2014,"32023","Nye County","NV","Anthem (HMO)",12
-2014,"32023","Nye County","NV","Anthem Multi-State Plan via the OPM (HMO)",2
-2014,"32023","Nye County","NV","Health Plan of Nevada (HMO)",13
-2014,"32027","Pershing County","NV","Anthem (HMO)",3
-2014,"32029","Storey County","NV","Anthem (HMO)",3
-2014,"32029","Storey County","NV","Prominence (HMO)",8
-2014,"32031","Washoe County","NV","Anthem (HMO)",12
-2014,"32031","Washoe County","NV","Anthem Multi-State Plan via the OPM (HMO)",2
-2014,"32031","Washoe County","NV","Health Plan of Nevada (HMO)",13
-2014,"32031","Washoe County","NV","Prominence (HMO)",7
-2014,"32033","White Pine County","NV","Anthem (HMO)",3
-2014,"32510","Carson City","NV","Anthem (HMO)",3
-2014,"32510","Carson City","NV","Prominence (HMO)",8
+"year","state_code","fips_county","county_name","issuer_name","issuer_id","plans"
+2014,"NV","32001","Churchill County","HMO Colorado Inc dba HMO NV(Anthem BCBS)",60156,3
+2014,"NV","32003","Clark County","HMO Colorado Inc dba HMO NV(Anthem BCBS)",60156,12
+2014,"NV","32003","Clark County","Rocky Mountain Hospital and Medical Service, Inc., dba Anthem Blue Cross and Blue Shield",33670,2
+2014,"NV","32003","Clark County","Health Plan of Nevada, Inc.",95865,11
+2014,"NV","32005","Douglas County","HMO Colorado Inc dba HMO NV(Anthem BCBS)",60156,3
+2014,"NV","32005","Douglas County","Prominence HealthFirst",16698,8
+2014,"NV","32007","Elko County","HMO Colorado Inc dba HMO NV(Anthem BCBS)",60156,3
+2014,"NV","32009","Esmeralda County","HMO Colorado Inc dba HMO NV(Anthem BCBS)",60156,3
+2014,"NV","32011","Eureka County","HMO Colorado Inc dba HMO NV(Anthem BCBS)",60156,3
+2014,"NV","32013","Humboldt County","HMO Colorado Inc dba HMO NV(Anthem BCBS)",60156,3
+2014,"NV","32015","Lander County","HMO Colorado Inc dba HMO NV(Anthem BCBS)",60156,2
+2014,"NV","32017","Lincoln County","HMO Colorado Inc dba HMO NV(Anthem BCBS)",60156,3
+2014,"NV","32019","Lyon County","HMO Colorado Inc dba HMO NV(Anthem BCBS)",60156,3
+2014,"NV","32019","Lyon County","Prominence HealthFirst",16698,7
+2014,"NV","32021","Mineral County","HMO Colorado Inc dba HMO NV(Anthem BCBS)",60156,3
+2014,"NV","32023","Nye County","HMO Colorado Inc dba HMO NV(Anthem BCBS)",60156,12
+2014,"NV","32023","Nye County","Rocky Mountain Hospital and Medical Service, Inc., dba Anthem Blue Cross and Blue Shield",33670,2
+2014,"NV","32023","Nye County","Health Plan of Nevada, Inc.",95865,13
+2014,"NV","32027","Pershing County","HMO Colorado Inc dba HMO NV(Anthem BCBS)",60156,3
+2014,"NV","32029","Storey County","HMO Colorado Inc dba HMO NV(Anthem BCBS)",60156,3
+2014,"NV","32029","Storey County","Prominence HealthFirst",16698,8
+2014,"NV","32031","Washoe County","HMO Colorado Inc dba HMO NV(Anthem BCBS)",60156,12
+2014,"NV","32031","Washoe County","Rocky Mountain Hospital and Medical Service, Inc., dba Anthem Blue Cross and Blue Shield",33670,2
+2014,"NV","32031","Washoe County","Health Plan of Nevada, Inc.",95865,13
+2014,"NV","32031","Washoe County","Prominence HealthFirst",16698,7
+2014,"NV","32033","White Pine County","HMO Colorado Inc dba HMO NV(Anthem BCBS)",60156,3
+2014,"NV","32510","Carson City","HMO Colorado Inc dba HMO NV(Anthem BCBS)",60156,3
+2014,"NV","32510","Carson City","Prominence HealthFirst",16698,8

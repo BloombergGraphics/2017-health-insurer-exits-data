@@ -43,9 +43,31 @@ nv_plans <- nv_plans %>% mutate(issuer_name = ifelse(issuer_name == "Multi-State
 # Save plan data for future use
 write.csv(nv_plans, "data-original/state-based/2014-nv-plans.csv", row.names = F, na = "")
 
+####################################################################################
+# 2014 Issuers by county
+####################################################################################
+
 # Collapse to issuers by county
 nv_issuers <- nv_plans %>% group_by(year, fips_county, county_name, state_code, issuer_name) %>%
 	summarize(plans = n()) %>%
 	arrange(year, fips_county)
 
+# Add HIOS id by referencing 2015-2017 NV healthcare.gov plans
+table(nv_issuers$issuer_name)
+nv_issuers <- nv_issuers %>% mutate(issuer_name = ifelse(issuer_name == "Prominence (HMO)", "Prominence HealthFirst",
+																									ifelse(issuer_name == "Health Plan of Nevada (HMO)", "Health Plan of Nevada, Inc.",
+																									ifelse(issuer_name == "Anthem (HMO)", "HMO Colorado Inc dba HMO NV(Anthem BCBS)",	
+																									ifelse(issuer_name == "Anthem Multi-State Plan via the OPM (HMO)", "Rocky Mountain Hospital and Medical Service, Inc., dba Anthem Blue Cross and Blue Shield",		
+																												 issuer_name)))))
+table(nv_issuers$issuer_name)
+
+nv_issuers <- nv_issuers %>% mutate(issuer_id = ifelse(issuer_name == "Prominence HealthFirst", 16698,
+																								ifelse(issuer_name == "Health Plan of Nevada, Inc.", 95865,
+																								ifelse(issuer_name == "HMO Colorado Inc dba HMO NV(Anthem BCBS)", 60156,
+																								ifelse(issuer_name == "Rocky Mountain Hospital and Medical Service, Inc., dba Anthem Blue Cross and Blue Shield", 33670,
+																											 NA)))))
+table(nv_issuers$issuer_id)
+
+nv_issuers <- nv_issuers %>%select(year, state_code, fips_county, county_name, issuer_name, issuer_id, everything()) %>%
+	arrange(year, fips_county)
 write.csv(nv_issuers, "data-original/state-based/2014-nv-insurers.csv", row.names = F, na = "")

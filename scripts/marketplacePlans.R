@@ -11,7 +11,8 @@ library(stringr)
 # Some plans are marketed under different names
 # Blue Cross Blue Shield Healthcare Plan of Georgia is also Anthem but not marked in the landscape files - detect by HIOS ID
 # Empire Blue Cross Blue Shield in NY is also Anthem
-# Mark UHC in Virginia, since they've announced exit 
+# Health Net in California was acquired by Centene in 2016
+# Mark UHC in Virginia, since they've announced exit
 ####################################################################################
 insurers <- c("Anthem", "Aetna", "Cigna", "Centene", "Highmark", "Humana", "Molina", "Wellmark")
 
@@ -44,6 +45,7 @@ formatLandscape <- function(dt, ffm, year) {
 						 centene  = ifelse(str_detect(issuer_name, "Centene") | str_detect(plan_marketing_name, "centene") |
 						 									str_detect(plan_brochure_url, "Centene") | str_detect(plan_brochure_url, "centene") |
 						 										str_detect(issuer_name, "Ambetter") | str_detect(plan_marketing_name, "Ambetter") | str_detect(issuer_name, "CeltiCare") |
+						 										(str_detect(issuer_name, "HealthNet") & state_code == "CA" & year >= 2016)| (str_detect(issuer_name, "Health Net") & state_code == "CA" & year >= 2016) |
 						 										(str_detect(issuer_name, "Health Net") & state_code == "AZ"), 1, 0),
 						 highmark = ifelse((str_detect(issuer_name, "Highmark") | str_detect(plan_marketing_name, "highmark") |
 						 									str_detect(plan_brochure_url, "Highmark") | str_detect(plan_brochure_url, "highmark")), 1, 0),
@@ -59,7 +61,8 @@ formatLandscape <- function(dt, ffm, year) {
 						 aetna = ifelse((str_detect(issuer_name, "Aetna") | str_detect(issuer_name, "aetna")), 1, 0),
 						 cigna = ifelse((str_detect(issuer_name, "Cigna") | str_detect(issuer_name, "cigna")), 1, 0),
 						 centene = ifelse((str_detect(issuer_name, "Centene") | str_detect(issuer_name, "centene")  | str_detect(issuer_name, "CeltiCare") |
-						 								 	str_detect(issuer_name, "Ambetter")  | (str_detect(issuer_name, "HealthNet") & state_code == "CA")), 1, 0),
+						 								 	str_detect(issuer_name, "Ambetter")  | 
+						 									(str_detect(issuer_name, "HealthNet") & state_code == "CA" & year >= 2016)| (str_detect(issuer_name, "Health Net") & state_code == "CA" & year >= 2016)), 1, 0),
 						 highmark = ifelse((str_detect(issuer_name, "Highmark") | str_detect(issuer_name, "highmark")), 1, 0),
 						 molina = ifelse((str_detect(issuer_name, "Molina") | str_detect(issuer_name, "molina")), 1, 0),
 						 wellmark = ifelse((str_detect(issuer_name, "Wellmark") | str_detect(issuer_name, "wellmark")), 1, 0),

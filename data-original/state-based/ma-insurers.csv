@@ -1,495 +1,523 @@
-"year","fips_county","county_name","state_code","issuer_name"
-2014,"25001","Barnstable County","MA","Blue Cross Blue Shield of MA"
-2014,"25001","Barnstable County","MA","BMC HealthNet Plan"
-2014,"25001","Barnstable County","MA","CeltiCare"
-2014,"25001","Barnstable County","MA","Harvard Pilgrim Health Care"
-2014,"25001","Barnstable County","MA","Neighborhood Health Plan"
-2014,"25001","Barnstable County","MA","Network Health"
-2014,"25001","Barnstable County","MA","Tufts Health Plan"
-2014,"25003","Berkshire County","MA","Fallon"
-2014,"25003","Berkshire County","MA","Health New England"
-2014,"25003","Berkshire County","MA","Blue Cross Blue Shield of MA"
-2014,"25003","Berkshire County","MA","BMC HealthNet Plan"
-2014,"25003","Berkshire County","MA","CeltiCare"
-2014,"25003","Berkshire County","MA","Harvard Pilgrim Health Care"
-2014,"25003","Berkshire County","MA","Neighborhood Health Plan"
-2014,"25003","Berkshire County","MA","Network Health"
-2014,"25003","Berkshire County","MA","Tufts Health Plan"
-2014,"25005","Bristol County","MA","Fallon"
-2014,"25005","Bristol County","MA","Minuteman"
-2014,"25005","Bristol County","MA","Blue Cross Blue Shield of MA"
-2014,"25005","Bristol County","MA","BMC HealthNet Plan"
-2014,"25005","Bristol County","MA","CeltiCare"
-2014,"25005","Bristol County","MA","Harvard Pilgrim Health Care"
-2014,"25005","Bristol County","MA","Neighborhood Health Plan"
-2014,"25005","Bristol County","MA","Network Health"
-2014,"25005","Bristol County","MA","Tufts Health Plan"
-2014,"25007","Dukes County","MA","Blue Cross Blue Shield of MA"
-2014,"25007","Dukes County","MA","BMC HealthNet Plan"
-2014,"25007","Dukes County","MA","CeltiCare"
-2014,"25007","Dukes County","MA","Harvard Pilgrim Health Care"
-2014,"25007","Dukes County","MA","Neighborhood Health Plan"
-2014,"25007","Dukes County","MA","Network Health"
-2014,"25007","Dukes County","MA","Tufts Health Plan"
-2014,"25009","Essex County","MA","Fallon"
-2014,"25009","Essex County","MA","Minuteman"
-2014,"25009","Essex County","MA","Blue Cross Blue Shield of MA"
-2014,"25009","Essex County","MA","BMC HealthNet Plan"
-2014,"25009","Essex County","MA","CeltiCare"
-2014,"25009","Essex County","MA","Harvard Pilgrim Health Care"
-2014,"25009","Essex County","MA","Neighborhood Health Plan"
-2014,"25009","Essex County","MA","Network Health"
-2014,"25009","Essex County","MA","Tufts Health Plan"
-2014,"25011","Franklin County","MA","Fallon"
-2014,"25011","Franklin County","MA","Health New England"
-2014,"25011","Franklin County","MA","Blue Cross Blue Shield of MA"
-2014,"25011","Franklin County","MA","BMC HealthNet Plan"
-2014,"25011","Franklin County","MA","CeltiCare"
-2014,"25011","Franklin County","MA","Harvard Pilgrim Health Care"
-2014,"25011","Franklin County","MA","Neighborhood Health Plan"
-2014,"25011","Franklin County","MA","Network Health"
-2014,"25011","Franklin County","MA","Tufts Health Plan"
-2014,"25013","Hampden County","MA","Fallon"
-2014,"25013","Hampden County","MA","Health New England"
-2014,"25013","Hampden County","MA","Blue Cross Blue Shield of MA"
-2014,"25013","Hampden County","MA","BMC HealthNet Plan"
-2014,"25013","Hampden County","MA","CeltiCare"
-2014,"25013","Hampden County","MA","Harvard Pilgrim Health Care"
-2014,"25013","Hampden County","MA","Neighborhood Health Plan"
-2014,"25013","Hampden County","MA","Network Health"
-2014,"25013","Hampden County","MA","Tufts Health Plan"
-2014,"25015","Hampshire County","MA","Fallon"
-2014,"25015","Hampshire County","MA","Health New England"
-2014,"25015","Hampshire County","MA","Blue Cross Blue Shield of MA"
-2014,"25015","Hampshire County","MA","BMC HealthNet Plan"
-2014,"25015","Hampshire County","MA","CeltiCare"
-2014,"25015","Hampshire County","MA","Harvard Pilgrim Health Care"
-2014,"25015","Hampshire County","MA","Neighborhood Health Plan"
-2014,"25015","Hampshire County","MA","Network Health"
-2014,"25015","Hampshire County","MA","Tufts Health Plan"
-2014,"25017","Middlesex County","MA","Fallon"
-2014,"25017","Middlesex County","MA","Minuteman"
-2014,"25017","Middlesex County","MA","Blue Cross Blue Shield of MA"
-2014,"25017","Middlesex County","MA","BMC HealthNet Plan"
-2014,"25017","Middlesex County","MA","CeltiCare"
-2014,"25017","Middlesex County","MA","Harvard Pilgrim Health Care"
-2014,"25017","Middlesex County","MA","Neighborhood Health Plan"
-2014,"25017","Middlesex County","MA","Network Health"
-2014,"25017","Middlesex County","MA","Tufts Health Plan"
-2014,"25019","Nantucket County","MA","Blue Cross Blue Shield of MA"
-2014,"25019","Nantucket County","MA","BMC HealthNet Plan"
-2014,"25019","Nantucket County","MA","CeltiCare"
-2014,"25019","Nantucket County","MA","Harvard Pilgrim Health Care"
-2014,"25019","Nantucket County","MA","Neighborhood Health Plan"
-2014,"25019","Nantucket County","MA","Network Health"
-2014,"25019","Nantucket County","MA","Tufts Health Plan"
-2014,"25021","Norfolk County","MA","Fallon"
-2014,"25021","Norfolk County","MA","Minuteman"
-2014,"25021","Norfolk County","MA","Blue Cross Blue Shield of MA"
-2014,"25021","Norfolk County","MA","BMC HealthNet Plan"
-2014,"25021","Norfolk County","MA","CeltiCare"
-2014,"25021","Norfolk County","MA","Harvard Pilgrim Health Care"
-2014,"25021","Norfolk County","MA","Neighborhood Health Plan"
-2014,"25021","Norfolk County","MA","Network Health"
-2014,"25021","Norfolk County","MA","Tufts Health Plan"
-2014,"25023","Plymouth County","MA","Fallon"
-2014,"25023","Plymouth County","MA","Minuteman"
-2014,"25023","Plymouth County","MA","Blue Cross Blue Shield of MA"
-2014,"25023","Plymouth County","MA","BMC HealthNet Plan"
-2014,"25023","Plymouth County","MA","CeltiCare"
-2014,"25023","Plymouth County","MA","Harvard Pilgrim Health Care"
-2014,"25023","Plymouth County","MA","Neighborhood Health Plan"
-2014,"25023","Plymouth County","MA","Network Health"
-2014,"25023","Plymouth County","MA","Tufts Health Plan"
-2014,"25025","Suffolk County","MA","Fallon"
-2014,"25025","Suffolk County","MA","Minuteman"
-2014,"25025","Suffolk County","MA","Blue Cross Blue Shield of MA"
-2014,"25025","Suffolk County","MA","BMC HealthNet Plan"
-2014,"25025","Suffolk County","MA","CeltiCare"
-2014,"25025","Suffolk County","MA","Harvard Pilgrim Health Care"
-2014,"25025","Suffolk County","MA","Neighborhood Health Plan"
-2014,"25025","Suffolk County","MA","Network Health"
-2014,"25025","Suffolk County","MA","Tufts Health Plan"
-2014,"25027","Worcester County","MA","Fallon"
-2014,"25027","Worcester County","MA","Health New England"
-2014,"25027","Worcester County","MA","Minuteman"
-2014,"25027","Worcester County","MA","Blue Cross Blue Shield of MA"
-2014,"25027","Worcester County","MA","BMC HealthNet Plan"
-2014,"25027","Worcester County","MA","CeltiCare"
-2014,"25027","Worcester County","MA","Harvard Pilgrim Health Care"
-2014,"25027","Worcester County","MA","Neighborhood Health Plan"
-2014,"25027","Worcester County","MA","Network Health"
-2014,"25027","Worcester County","MA","Tufts Health Plan"
-2015,"25001","Barnstable County","MA","Blue Cross Blue Shield of MA"
-2015,"25001","Barnstable County","MA","BMC HealthNet Plan"
-2015,"25001","Barnstable County","MA","CeltiCare"
-2015,"25001","Barnstable County","MA","Fallon"
-2015,"25001","Barnstable County","MA","Harvard Pilgrim Health Care"
-2015,"25001","Barnstable County","MA","Neighborhood Health Plan"
-2015,"25001","Barnstable County","MA","Network Health"
-2015,"25001","Barnstable County","MA","Tufts Health Plan"
-2015,"25001","Barnstable County","MA","United HealthCare"
-2015,"25003","Berkshire County","MA","Health New England"
-2015,"25003","Berkshire County","MA","Blue Cross Blue Shield of MA"
-2015,"25003","Berkshire County","MA","BMC HealthNet Plan"
-2015,"25003","Berkshire County","MA","CeltiCare"
-2015,"25003","Berkshire County","MA","Fallon"
-2015,"25003","Berkshire County","MA","Harvard Pilgrim Health Care"
-2015,"25003","Berkshire County","MA","Neighborhood Health Plan"
-2015,"25003","Berkshire County","MA","Network Health"
-2015,"25003","Berkshire County","MA","Tufts Health Plan"
-2015,"25003","Berkshire County","MA","United HealthCare"
-2015,"25005","Bristol County","MA","Minuteman"
-2015,"25005","Bristol County","MA","Blue Cross Blue Shield of MA"
-2015,"25005","Bristol County","MA","BMC HealthNet Plan"
-2015,"25005","Bristol County","MA","CeltiCare"
-2015,"25005","Bristol County","MA","Fallon"
-2015,"25005","Bristol County","MA","Harvard Pilgrim Health Care"
-2015,"25005","Bristol County","MA","Neighborhood Health Plan"
-2015,"25005","Bristol County","MA","Network Health"
-2015,"25005","Bristol County","MA","Tufts Health Plan"
-2015,"25005","Bristol County","MA","United HealthCare"
-2015,"25007","Dukes County","MA","Blue Cross Blue Shield of MA"
-2015,"25007","Dukes County","MA","BMC HealthNet Plan"
-2015,"25007","Dukes County","MA","CeltiCare"
-2015,"25007","Dukes County","MA","Fallon"
-2015,"25007","Dukes County","MA","Harvard Pilgrim Health Care"
-2015,"25007","Dukes County","MA","Neighborhood Health Plan"
-2015,"25007","Dukes County","MA","Network Health"
-2015,"25007","Dukes County","MA","Tufts Health Plan"
-2015,"25007","Dukes County","MA","United HealthCare"
-2015,"25009","Essex County","MA","Minuteman"
-2015,"25009","Essex County","MA","Blue Cross Blue Shield of MA"
-2015,"25009","Essex County","MA","BMC HealthNet Plan"
-2015,"25009","Essex County","MA","CeltiCare"
-2015,"25009","Essex County","MA","Fallon"
-2015,"25009","Essex County","MA","Harvard Pilgrim Health Care"
-2015,"25009","Essex County","MA","Neighborhood Health Plan"
-2015,"25009","Essex County","MA","Network Health"
-2015,"25009","Essex County","MA","Tufts Health Plan"
-2015,"25009","Essex County","MA","United HealthCare"
-2015,"25011","Franklin County","MA","Health New England"
-2015,"25011","Franklin County","MA","Blue Cross Blue Shield of MA"
-2015,"25011","Franklin County","MA","BMC HealthNet Plan"
-2015,"25011","Franklin County","MA","CeltiCare"
-2015,"25011","Franklin County","MA","Fallon"
-2015,"25011","Franklin County","MA","Harvard Pilgrim Health Care"
-2015,"25011","Franklin County","MA","Neighborhood Health Plan"
-2015,"25011","Franklin County","MA","Network Health"
-2015,"25011","Franklin County","MA","Tufts Health Plan"
-2015,"25011","Franklin County","MA","United HealthCare"
-2015,"25013","Hampden County","MA","Health New England"
-2015,"25013","Hampden County","MA","Blue Cross Blue Shield of MA"
-2015,"25013","Hampden County","MA","BMC HealthNet Plan"
-2015,"25013","Hampden County","MA","CeltiCare"
-2015,"25013","Hampden County","MA","Fallon"
-2015,"25013","Hampden County","MA","Harvard Pilgrim Health Care"
-2015,"25013","Hampden County","MA","Neighborhood Health Plan"
-2015,"25013","Hampden County","MA","Network Health"
-2015,"25013","Hampden County","MA","Tufts Health Plan"
-2015,"25013","Hampden County","MA","United HealthCare"
-2015,"25015","Hampshire County","MA","Health New England"
-2015,"25015","Hampshire County","MA","Blue Cross Blue Shield of MA"
-2015,"25015","Hampshire County","MA","BMC HealthNet Plan"
-2015,"25015","Hampshire County","MA","CeltiCare"
-2015,"25015","Hampshire County","MA","Fallon"
-2015,"25015","Hampshire County","MA","Harvard Pilgrim Health Care"
-2015,"25015","Hampshire County","MA","Neighborhood Health Plan"
-2015,"25015","Hampshire County","MA","Network Health"
-2015,"25015","Hampshire County","MA","Tufts Health Plan"
-2015,"25015","Hampshire County","MA","United HealthCare"
-2015,"25017","Middlesex County","MA","Minuteman"
-2015,"25017","Middlesex County","MA","Blue Cross Blue Shield of MA"
-2015,"25017","Middlesex County","MA","BMC HealthNet Plan"
-2015,"25017","Middlesex County","MA","CeltiCare"
-2015,"25017","Middlesex County","MA","Fallon"
-2015,"25017","Middlesex County","MA","Harvard Pilgrim Health Care"
-2015,"25017","Middlesex County","MA","Neighborhood Health Plan"
-2015,"25017","Middlesex County","MA","Network Health"
-2015,"25017","Middlesex County","MA","Tufts Health Plan"
-2015,"25017","Middlesex County","MA","United HealthCare"
-2015,"25019","Nantucket County","MA","Blue Cross Blue Shield of MA"
-2015,"25019","Nantucket County","MA","BMC HealthNet Plan"
-2015,"25019","Nantucket County","MA","CeltiCare"
-2015,"25019","Nantucket County","MA","Fallon"
-2015,"25019","Nantucket County","MA","Harvard Pilgrim Health Care"
-2015,"25019","Nantucket County","MA","Neighborhood Health Plan"
-2015,"25019","Nantucket County","MA","Network Health"
-2015,"25019","Nantucket County","MA","Tufts Health Plan"
-2015,"25019","Nantucket County","MA","United HealthCare"
-2015,"25021","Norfolk County","MA","Minuteman"
-2015,"25021","Norfolk County","MA","Blue Cross Blue Shield of MA"
-2015,"25021","Norfolk County","MA","BMC HealthNet Plan"
-2015,"25021","Norfolk County","MA","CeltiCare"
-2015,"25021","Norfolk County","MA","Fallon"
-2015,"25021","Norfolk County","MA","Harvard Pilgrim Health Care"
-2015,"25021","Norfolk County","MA","Neighborhood Health Plan"
-2015,"25021","Norfolk County","MA","Network Health"
-2015,"25021","Norfolk County","MA","Tufts Health Plan"
-2015,"25021","Norfolk County","MA","United HealthCare"
-2015,"25023","Plymouth County","MA","Minuteman"
-2015,"25023","Plymouth County","MA","Blue Cross Blue Shield of MA"
-2015,"25023","Plymouth County","MA","BMC HealthNet Plan"
-2015,"25023","Plymouth County","MA","CeltiCare"
-2015,"25023","Plymouth County","MA","Fallon"
-2015,"25023","Plymouth County","MA","Harvard Pilgrim Health Care"
-2015,"25023","Plymouth County","MA","Neighborhood Health Plan"
-2015,"25023","Plymouth County","MA","Network Health"
-2015,"25023","Plymouth County","MA","Tufts Health Plan"
-2015,"25023","Plymouth County","MA","United HealthCare"
-2015,"25025","Suffolk County","MA","Minuteman"
-2015,"25025","Suffolk County","MA","Blue Cross Blue Shield of MA"
-2015,"25025","Suffolk County","MA","BMC HealthNet Plan"
-2015,"25025","Suffolk County","MA","CeltiCare"
-2015,"25025","Suffolk County","MA","Fallon"
-2015,"25025","Suffolk County","MA","Harvard Pilgrim Health Care"
-2015,"25025","Suffolk County","MA","Neighborhood Health Plan"
-2015,"25025","Suffolk County","MA","Network Health"
-2015,"25025","Suffolk County","MA","Tufts Health Plan"
-2015,"25025","Suffolk County","MA","United HealthCare"
-2015,"25027","Worcester County","MA","Health New England"
-2015,"25027","Worcester County","MA","Minuteman"
-2015,"25027","Worcester County","MA","Blue Cross Blue Shield of MA"
-2015,"25027","Worcester County","MA","BMC HealthNet Plan"
-2015,"25027","Worcester County","MA","CeltiCare"
-2015,"25027","Worcester County","MA","Fallon"
-2015,"25027","Worcester County","MA","Harvard Pilgrim Health Care"
-2015,"25027","Worcester County","MA","Neighborhood Health Plan"
-2015,"25027","Worcester County","MA","Network Health"
-2015,"25027","Worcester County","MA","Tufts Health Plan"
-2015,"25027","Worcester County","MA","United HealthCare"
-2016,"25001","Barnstable County","MA","Blue Cross Blue Shield of MA"
-2016,"25001","Barnstable County","MA","BMC HealthNet Plan"
-2016,"25001","Barnstable County","MA","CeltiCare"
-2016,"25001","Barnstable County","MA","Fallon"
-2016,"25001","Barnstable County","MA","Harvard Pilgrim Health Care"
-2016,"25001","Barnstable County","MA","Neighborhood Health Plan"
-2016,"25001","Barnstable County","MA","Tufts Health Plan"
-2016,"25001","Barnstable County","MA","United HealthCare"
-2016,"25003","Berkshire County","MA","Health New England"
-2016,"25003","Berkshire County","MA","Blue Cross Blue Shield of MA"
-2016,"25003","Berkshire County","MA","BMC HealthNet Plan"
-2016,"25003","Berkshire County","MA","CeltiCare"
-2016,"25003","Berkshire County","MA","Fallon"
-2016,"25003","Berkshire County","MA","Harvard Pilgrim Health Care"
-2016,"25003","Berkshire County","MA","Neighborhood Health Plan"
-2016,"25003","Berkshire County","MA","Tufts Health Plan"
-2016,"25003","Berkshire County","MA","United HealthCare"
-2016,"25005","Bristol County","MA","Minuteman"
-2016,"25005","Bristol County","MA","Blue Cross Blue Shield of MA"
-2016,"25005","Bristol County","MA","BMC HealthNet Plan"
-2016,"25005","Bristol County","MA","CeltiCare"
-2016,"25005","Bristol County","MA","Fallon"
-2016,"25005","Bristol County","MA","Harvard Pilgrim Health Care"
-2016,"25005","Bristol County","MA","Neighborhood Health Plan"
-2016,"25005","Bristol County","MA","Tufts Health Plan"
-2016,"25005","Bristol County","MA","United HealthCare"
-2016,"25007","Dukes County","MA","Blue Cross Blue Shield of MA"
-2016,"25007","Dukes County","MA","BMC HealthNet Plan"
-2016,"25007","Dukes County","MA","CeltiCare"
-2016,"25007","Dukes County","MA","Fallon"
-2016,"25007","Dukes County","MA","Harvard Pilgrim Health Care"
-2016,"25007","Dukes County","MA","Neighborhood Health Plan"
-2016,"25007","Dukes County","MA","Tufts Health Plan"
-2016,"25007","Dukes County","MA","United HealthCare"
-2016,"25009","Essex County","MA","Minuteman"
-2016,"25009","Essex County","MA","Blue Cross Blue Shield of MA"
-2016,"25009","Essex County","MA","BMC HealthNet Plan"
-2016,"25009","Essex County","MA","CeltiCare"
-2016,"25009","Essex County","MA","Fallon"
-2016,"25009","Essex County","MA","Harvard Pilgrim Health Care"
-2016,"25009","Essex County","MA","Neighborhood Health Plan"
-2016,"25009","Essex County","MA","Tufts Health Plan"
-2016,"25009","Essex County","MA","United HealthCare"
-2016,"25011","Franklin County","MA","Health New England"
-2016,"25011","Franklin County","MA","Blue Cross Blue Shield of MA"
-2016,"25011","Franklin County","MA","BMC HealthNet Plan"
-2016,"25011","Franklin County","MA","CeltiCare"
-2016,"25011","Franklin County","MA","Fallon"
-2016,"25011","Franklin County","MA","Harvard Pilgrim Health Care"
-2016,"25011","Franklin County","MA","Neighborhood Health Plan"
-2016,"25011","Franklin County","MA","Tufts Health Plan"
-2016,"25011","Franklin County","MA","United HealthCare"
-2016,"25013","Hampden County","MA","Health New England"
-2016,"25013","Hampden County","MA","Blue Cross Blue Shield of MA"
-2016,"25013","Hampden County","MA","BMC HealthNet Plan"
-2016,"25013","Hampden County","MA","CeltiCare"
-2016,"25013","Hampden County","MA","Fallon"
-2016,"25013","Hampden County","MA","Harvard Pilgrim Health Care"
-2016,"25013","Hampden County","MA","Neighborhood Health Plan"
-2016,"25013","Hampden County","MA","Tufts Health Plan"
-2016,"25013","Hampden County","MA","United HealthCare"
-2016,"25015","Hampshire County","MA","Health New England"
-2016,"25015","Hampshire County","MA","Blue Cross Blue Shield of MA"
-2016,"25015","Hampshire County","MA","BMC HealthNet Plan"
-2016,"25015","Hampshire County","MA","CeltiCare"
-2016,"25015","Hampshire County","MA","Fallon"
-2016,"25015","Hampshire County","MA","Harvard Pilgrim Health Care"
-2016,"25015","Hampshire County","MA","Neighborhood Health Plan"
-2016,"25015","Hampshire County","MA","Tufts Health Plan"
-2016,"25015","Hampshire County","MA","United HealthCare"
-2016,"25017","Middlesex County","MA","Minuteman"
-2016,"25017","Middlesex County","MA","Blue Cross Blue Shield of MA"
-2016,"25017","Middlesex County","MA","BMC HealthNet Plan"
-2016,"25017","Middlesex County","MA","CeltiCare"
-2016,"25017","Middlesex County","MA","Fallon"
-2016,"25017","Middlesex County","MA","Harvard Pilgrim Health Care"
-2016,"25017","Middlesex County","MA","Neighborhood Health Plan"
-2016,"25017","Middlesex County","MA","Tufts Health Plan"
-2016,"25017","Middlesex County","MA","United HealthCare"
-2016,"25019","Nantucket County","MA","Blue Cross Blue Shield of MA"
-2016,"25019","Nantucket County","MA","BMC HealthNet Plan"
-2016,"25019","Nantucket County","MA","CeltiCare"
-2016,"25019","Nantucket County","MA","Fallon"
-2016,"25019","Nantucket County","MA","Harvard Pilgrim Health Care"
-2016,"25019","Nantucket County","MA","Neighborhood Health Plan"
-2016,"25019","Nantucket County","MA","Tufts Health Plan"
-2016,"25019","Nantucket County","MA","United HealthCare"
-2016,"25021","Norfolk County","MA","Minuteman"
-2016,"25021","Norfolk County","MA","Blue Cross Blue Shield of MA"
-2016,"25021","Norfolk County","MA","BMC HealthNet Plan"
-2016,"25021","Norfolk County","MA","CeltiCare"
-2016,"25021","Norfolk County","MA","Fallon"
-2016,"25021","Norfolk County","MA","Harvard Pilgrim Health Care"
-2016,"25021","Norfolk County","MA","Neighborhood Health Plan"
-2016,"25021","Norfolk County","MA","Tufts Health Plan"
-2016,"25021","Norfolk County","MA","United HealthCare"
-2016,"25023","Plymouth County","MA","Minuteman"
-2016,"25023","Plymouth County","MA","Blue Cross Blue Shield of MA"
-2016,"25023","Plymouth County","MA","BMC HealthNet Plan"
-2016,"25023","Plymouth County","MA","CeltiCare"
-2016,"25023","Plymouth County","MA","Fallon"
-2016,"25023","Plymouth County","MA","Harvard Pilgrim Health Care"
-2016,"25023","Plymouth County","MA","Neighborhood Health Plan"
-2016,"25023","Plymouth County","MA","Tufts Health Plan"
-2016,"25023","Plymouth County","MA","United HealthCare"
-2016,"25025","Suffolk County","MA","Minuteman"
-2016,"25025","Suffolk County","MA","Blue Cross Blue Shield of MA"
-2016,"25025","Suffolk County","MA","BMC HealthNet Plan"
-2016,"25025","Suffolk County","MA","CeltiCare"
-2016,"25025","Suffolk County","MA","Fallon"
-2016,"25025","Suffolk County","MA","Harvard Pilgrim Health Care"
-2016,"25025","Suffolk County","MA","Neighborhood Health Plan"
-2016,"25025","Suffolk County","MA","Tufts Health Plan"
-2016,"25025","Suffolk County","MA","United HealthCare"
-2016,"25027","Worcester County","MA","Health New England"
-2016,"25027","Worcester County","MA","Minuteman"
-2016,"25027","Worcester County","MA","Blue Cross Blue Shield of MA"
-2016,"25027","Worcester County","MA","BMC HealthNet Plan"
-2016,"25027","Worcester County","MA","CeltiCare"
-2016,"25027","Worcester County","MA","Fallon"
-2016,"25027","Worcester County","MA","Harvard Pilgrim Health Care"
-2016,"25027","Worcester County","MA","Neighborhood Health Plan"
-2016,"25027","Worcester County","MA","Tufts Health Plan"
-2016,"25027","Worcester County","MA","United HealthCare"
-2017,"25001","Barnstable County","MA","Blue Cross Blue Shield of MA"
-2017,"25001","Barnstable County","MA","BMC HealthNet Plan"
-2017,"25001","Barnstable County","MA","CeltiCare"
-2017,"25001","Barnstable County","MA","Fallon"
-2017,"25001","Barnstable County","MA","Harvard Pilgrim Health Care"
-2017,"25001","Barnstable County","MA","Neighborhood Health Plan"
-2017,"25001","Barnstable County","MA","Tufts Health Plan"
-2017,"25003","Berkshire County","MA","Health New England"
-2017,"25003","Berkshire County","MA","Blue Cross Blue Shield of MA"
-2017,"25003","Berkshire County","MA","BMC HealthNet Plan"
-2017,"25003","Berkshire County","MA","CeltiCare"
-2017,"25003","Berkshire County","MA","Fallon"
-2017,"25003","Berkshire County","MA","Harvard Pilgrim Health Care"
-2017,"25003","Berkshire County","MA","Neighborhood Health Plan"
-2017,"25003","Berkshire County","MA","Tufts Health Plan"
-2017,"25005","Bristol County","MA","Minuteman"
-2017,"25005","Bristol County","MA","Blue Cross Blue Shield of MA"
-2017,"25005","Bristol County","MA","BMC HealthNet Plan"
-2017,"25005","Bristol County","MA","CeltiCare"
-2017,"25005","Bristol County","MA","Fallon"
-2017,"25005","Bristol County","MA","Harvard Pilgrim Health Care"
-2017,"25005","Bristol County","MA","Neighborhood Health Plan"
-2017,"25005","Bristol County","MA","Tufts Health Plan"
-2017,"25007","Dukes County","MA","Blue Cross Blue Shield of MA"
-2017,"25007","Dukes County","MA","BMC HealthNet Plan"
-2017,"25007","Dukes County","MA","CeltiCare"
-2017,"25007","Dukes County","MA","Fallon"
-2017,"25007","Dukes County","MA","Harvard Pilgrim Health Care"
-2017,"25007","Dukes County","MA","Neighborhood Health Plan"
-2017,"25007","Dukes County","MA","Tufts Health Plan"
-2017,"25009","Essex County","MA","Minuteman"
-2017,"25009","Essex County","MA","Blue Cross Blue Shield of MA"
-2017,"25009","Essex County","MA","BMC HealthNet Plan"
-2017,"25009","Essex County","MA","CeltiCare"
-2017,"25009","Essex County","MA","Fallon"
-2017,"25009","Essex County","MA","Harvard Pilgrim Health Care"
-2017,"25009","Essex County","MA","Neighborhood Health Plan"
-2017,"25009","Essex County","MA","Tufts Health Plan"
-2017,"25011","Franklin County","MA","Health New England"
-2017,"25011","Franklin County","MA","Blue Cross Blue Shield of MA"
-2017,"25011","Franklin County","MA","BMC HealthNet Plan"
-2017,"25011","Franklin County","MA","CeltiCare"
-2017,"25011","Franklin County","MA","Fallon"
-2017,"25011","Franklin County","MA","Harvard Pilgrim Health Care"
-2017,"25011","Franklin County","MA","Neighborhood Health Plan"
-2017,"25011","Franklin County","MA","Tufts Health Plan"
-2017,"25013","Hampden County","MA","Health New England"
-2017,"25013","Hampden County","MA","Blue Cross Blue Shield of MA"
-2017,"25013","Hampden County","MA","BMC HealthNet Plan"
-2017,"25013","Hampden County","MA","CeltiCare"
-2017,"25013","Hampden County","MA","Fallon"
-2017,"25013","Hampden County","MA","Harvard Pilgrim Health Care"
-2017,"25013","Hampden County","MA","Neighborhood Health Plan"
-2017,"25013","Hampden County","MA","Tufts Health Plan"
-2017,"25015","Hampshire County","MA","Health New England"
-2017,"25015","Hampshire County","MA","Blue Cross Blue Shield of MA"
-2017,"25015","Hampshire County","MA","BMC HealthNet Plan"
-2017,"25015","Hampshire County","MA","CeltiCare"
-2017,"25015","Hampshire County","MA","Fallon"
-2017,"25015","Hampshire County","MA","Harvard Pilgrim Health Care"
-2017,"25015","Hampshire County","MA","Neighborhood Health Plan"
-2017,"25015","Hampshire County","MA","Tufts Health Plan"
-2017,"25017","Middlesex County","MA","Health New England"
-2017,"25017","Middlesex County","MA","Minuteman"
-2017,"25017","Middlesex County","MA","Blue Cross Blue Shield of MA"
-2017,"25017","Middlesex County","MA","BMC HealthNet Plan"
-2017,"25017","Middlesex County","MA","CeltiCare"
-2017,"25017","Middlesex County","MA","Fallon"
-2017,"25017","Middlesex County","MA","Harvard Pilgrim Health Care"
-2017,"25017","Middlesex County","MA","Neighborhood Health Plan"
-2017,"25017","Middlesex County","MA","Tufts Health Plan"
-2017,"25019","Nantucket County","MA","Blue Cross Blue Shield of MA"
-2017,"25019","Nantucket County","MA","BMC HealthNet Plan"
-2017,"25019","Nantucket County","MA","CeltiCare"
-2017,"25019","Nantucket County","MA","Fallon"
-2017,"25019","Nantucket County","MA","Harvard Pilgrim Health Care"
-2017,"25019","Nantucket County","MA","Neighborhood Health Plan"
-2017,"25019","Nantucket County","MA","Tufts Health Plan"
-2017,"25021","Norfolk County","MA","Minuteman"
-2017,"25021","Norfolk County","MA","Blue Cross Blue Shield of MA"
-2017,"25021","Norfolk County","MA","BMC HealthNet Plan"
-2017,"25021","Norfolk County","MA","CeltiCare"
-2017,"25021","Norfolk County","MA","Fallon"
-2017,"25021","Norfolk County","MA","Harvard Pilgrim Health Care"
-2017,"25021","Norfolk County","MA","Neighborhood Health Plan"
-2017,"25021","Norfolk County","MA","Tufts Health Plan"
-2017,"25023","Plymouth County","MA","Minuteman"
-2017,"25023","Plymouth County","MA","Blue Cross Blue Shield of MA"
-2017,"25023","Plymouth County","MA","BMC HealthNet Plan"
-2017,"25023","Plymouth County","MA","CeltiCare"
-2017,"25023","Plymouth County","MA","Fallon"
-2017,"25023","Plymouth County","MA","Harvard Pilgrim Health Care"
-2017,"25023","Plymouth County","MA","Neighborhood Health Plan"
-2017,"25023","Plymouth County","MA","Tufts Health Plan"
-2017,"25025","Suffolk County","MA","Minuteman"
-2017,"25025","Suffolk County","MA","Blue Cross Blue Shield of MA"
-2017,"25025","Suffolk County","MA","BMC HealthNet Plan"
-2017,"25025","Suffolk County","MA","CeltiCare"
-2017,"25025","Suffolk County","MA","Fallon"
-2017,"25025","Suffolk County","MA","Harvard Pilgrim Health Care"
-2017,"25025","Suffolk County","MA","Neighborhood Health Plan"
-2017,"25025","Suffolk County","MA","Tufts Health Plan"
-2017,"25027","Worcester County","MA","Health New England"
-2017,"25027","Worcester County","MA","Minuteman"
-2017,"25027","Worcester County","MA","Blue Cross Blue Shield of MA"
-2017,"25027","Worcester County","MA","BMC HealthNet Plan"
-2017,"25027","Worcester County","MA","CeltiCare"
-2017,"25027","Worcester County","MA","Fallon"
-2017,"25027","Worcester County","MA","Harvard Pilgrim Health Care"
-2017,"25027","Worcester County","MA","Neighborhood Health Plan"
-2017,"25027","Worcester County","MA","Tufts Health Plan"
+"year","fips_county","county_name","state_code","issuer_name","issuer_id"
+2014,"25001","Barnstable County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2014,"25001","Barnstable County","MA","Boston Medical Center Health Plan",82569
+2014,"25001","Barnstable County","MA","CeltiCare Health Plan of Massachusetts",31234
+2014,"25001","Barnstable County","MA","Harvard Pilgrim Health Care",36046
+2014,"25001","Barnstable County","MA","Neighborhood Health Plan",41304
+2014,"25001","Barnstable County","MA","Tufts Health Public Plans Inc.",59763
+2014,"25001","Barnstable County","MA","Tufts Associated Health Maintenance Organization",29125
+2014,"25003","Berkshire County","MA","Fallon Community Health Plan, Inc.",88806
+2014,"25003","Berkshire County","MA","Health New England, Inc.",34484
+2014,"25003","Berkshire County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2014,"25003","Berkshire County","MA","Boston Medical Center Health Plan",82569
+2014,"25003","Berkshire County","MA","CeltiCare Health Plan of Massachusetts",31234
+2014,"25003","Berkshire County","MA","Harvard Pilgrim Health Care",36046
+2014,"25003","Berkshire County","MA","Neighborhood Health Plan",41304
+2014,"25003","Berkshire County","MA","Tufts Health Public Plans Inc.",59763
+2014,"25003","Berkshire County","MA","Tufts Associated Health Maintenance Organization",29125
+2014,"25005","Bristol County","MA","Fallon Community Health Plan, Inc.",88806
+2014,"25005","Bristol County","MA","Minuteman Health, Inc.",73331
+2014,"25005","Bristol County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2014,"25005","Bristol County","MA","Boston Medical Center Health Plan",82569
+2014,"25005","Bristol County","MA","CeltiCare Health Plan of Massachusetts",31234
+2014,"25005","Bristol County","MA","Harvard Pilgrim Health Care",36046
+2014,"25005","Bristol County","MA","Neighborhood Health Plan",41304
+2014,"25005","Bristol County","MA","Tufts Health Public Plans Inc.",59763
+2014,"25005","Bristol County","MA","Tufts Associated Health Maintenance Organization",29125
+2014,"25007","Dukes County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2014,"25007","Dukes County","MA","Boston Medical Center Health Plan",82569
+2014,"25007","Dukes County","MA","CeltiCare Health Plan of Massachusetts",31234
+2014,"25007","Dukes County","MA","Harvard Pilgrim Health Care",36046
+2014,"25007","Dukes County","MA","Neighborhood Health Plan",41304
+2014,"25007","Dukes County","MA","Tufts Health Public Plans Inc.",59763
+2014,"25007","Dukes County","MA","Tufts Associated Health Maintenance Organization",29125
+2014,"25009","Essex County","MA","Fallon Community Health Plan, Inc.",88806
+2014,"25009","Essex County","MA","Minuteman Health, Inc.",73331
+2014,"25009","Essex County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2014,"25009","Essex County","MA","Boston Medical Center Health Plan",82569
+2014,"25009","Essex County","MA","CeltiCare Health Plan of Massachusetts",31234
+2014,"25009","Essex County","MA","Harvard Pilgrim Health Care",36046
+2014,"25009","Essex County","MA","Neighborhood Health Plan",41304
+2014,"25009","Essex County","MA","Tufts Health Public Plans Inc.",59763
+2014,"25009","Essex County","MA","Tufts Associated Health Maintenance Organization",29125
+2014,"25011","Franklin County","MA","Fallon Community Health Plan, Inc.",88806
+2014,"25011","Franklin County","MA","Health New England, Inc.",34484
+2014,"25011","Franklin County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2014,"25011","Franklin County","MA","Boston Medical Center Health Plan",82569
+2014,"25011","Franklin County","MA","CeltiCare Health Plan of Massachusetts",31234
+2014,"25011","Franklin County","MA","Harvard Pilgrim Health Care",36046
+2014,"25011","Franklin County","MA","Neighborhood Health Plan",41304
+2014,"25011","Franklin County","MA","Tufts Health Public Plans Inc.",59763
+2014,"25011","Franklin County","MA","Tufts Associated Health Maintenance Organization",29125
+2014,"25013","Hampden County","MA","Fallon Community Health Plan, Inc.",88806
+2014,"25013","Hampden County","MA","Health New England, Inc.",34484
+2014,"25013","Hampden County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2014,"25013","Hampden County","MA","Boston Medical Center Health Plan",82569
+2014,"25013","Hampden County","MA","CeltiCare Health Plan of Massachusetts",31234
+2014,"25013","Hampden County","MA","Harvard Pilgrim Health Care",36046
+2014,"25013","Hampden County","MA","Neighborhood Health Plan",41304
+2014,"25013","Hampden County","MA","Tufts Health Public Plans Inc.",59763
+2014,"25013","Hampden County","MA","Tufts Associated Health Maintenance Organization",29125
+2014,"25015","Hampshire County","MA","Fallon Community Health Plan, Inc.",88806
+2014,"25015","Hampshire County","MA","Health New England, Inc.",34484
+2014,"25015","Hampshire County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2014,"25015","Hampshire County","MA","Boston Medical Center Health Plan",82569
+2014,"25015","Hampshire County","MA","CeltiCare Health Plan of Massachusetts",31234
+2014,"25015","Hampshire County","MA","Harvard Pilgrim Health Care",36046
+2014,"25015","Hampshire County","MA","Neighborhood Health Plan",41304
+2014,"25015","Hampshire County","MA","Tufts Health Public Plans Inc.",59763
+2014,"25015","Hampshire County","MA","Tufts Associated Health Maintenance Organization",29125
+2014,"25017","Middlesex County","MA","Fallon Community Health Plan, Inc.",88806
+2014,"25017","Middlesex County","MA","Minuteman Health, Inc.",73331
+2014,"25017","Middlesex County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2014,"25017","Middlesex County","MA","Boston Medical Center Health Plan",82569
+2014,"25017","Middlesex County","MA","CeltiCare Health Plan of Massachusetts",31234
+2014,"25017","Middlesex County","MA","Harvard Pilgrim Health Care",36046
+2014,"25017","Middlesex County","MA","Neighborhood Health Plan",41304
+2014,"25017","Middlesex County","MA","Tufts Health Public Plans Inc.",59763
+2014,"25017","Middlesex County","MA","Tufts Associated Health Maintenance Organization",29125
+2014,"25019","Nantucket County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2014,"25019","Nantucket County","MA","Boston Medical Center Health Plan",82569
+2014,"25019","Nantucket County","MA","CeltiCare Health Plan of Massachusetts",31234
+2014,"25019","Nantucket County","MA","Harvard Pilgrim Health Care",36046
+2014,"25019","Nantucket County","MA","Neighborhood Health Plan",41304
+2014,"25019","Nantucket County","MA","Tufts Health Public Plans Inc.",59763
+2014,"25019","Nantucket County","MA","Tufts Associated Health Maintenance Organization",29125
+2014,"25021","Norfolk County","MA","Fallon Community Health Plan, Inc.",88806
+2014,"25021","Norfolk County","MA","Minuteman Health, Inc.",73331
+2014,"25021","Norfolk County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2014,"25021","Norfolk County","MA","Boston Medical Center Health Plan",82569
+2014,"25021","Norfolk County","MA","CeltiCare Health Plan of Massachusetts",31234
+2014,"25021","Norfolk County","MA","Harvard Pilgrim Health Care",36046
+2014,"25021","Norfolk County","MA","Neighborhood Health Plan",41304
+2014,"25021","Norfolk County","MA","Tufts Health Public Plans Inc.",59763
+2014,"25021","Norfolk County","MA","Tufts Associated Health Maintenance Organization",29125
+2014,"25023","Plymouth County","MA","Fallon Community Health Plan, Inc.",88806
+2014,"25023","Plymouth County","MA","Minuteman Health, Inc.",73331
+2014,"25023","Plymouth County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2014,"25023","Plymouth County","MA","Boston Medical Center Health Plan",82569
+2014,"25023","Plymouth County","MA","CeltiCare Health Plan of Massachusetts",31234
+2014,"25023","Plymouth County","MA","Harvard Pilgrim Health Care",36046
+2014,"25023","Plymouth County","MA","Neighborhood Health Plan",41304
+2014,"25023","Plymouth County","MA","Tufts Health Public Plans Inc.",59763
+2014,"25023","Plymouth County","MA","Tufts Associated Health Maintenance Organization",29125
+2014,"25025","Suffolk County","MA","Fallon Community Health Plan, Inc.",88806
+2014,"25025","Suffolk County","MA","Minuteman Health, Inc.",73331
+2014,"25025","Suffolk County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2014,"25025","Suffolk County","MA","Boston Medical Center Health Plan",82569
+2014,"25025","Suffolk County","MA","CeltiCare Health Plan of Massachusetts",31234
+2014,"25025","Suffolk County","MA","Harvard Pilgrim Health Care",36046
+2014,"25025","Suffolk County","MA","Neighborhood Health Plan",41304
+2014,"25025","Suffolk County","MA","Tufts Health Public Plans Inc.",59763
+2014,"25025","Suffolk County","MA","Tufts Associated Health Maintenance Organization",29125
+2014,"25027","Worcester County","MA","Fallon Community Health Plan, Inc.",88806
+2014,"25027","Worcester County","MA","Health New England, Inc.",34484
+2014,"25027","Worcester County","MA","Minuteman Health, Inc.",73331
+2014,"25027","Worcester County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2014,"25027","Worcester County","MA","Boston Medical Center Health Plan",82569
+2014,"25027","Worcester County","MA","CeltiCare Health Plan of Massachusetts",31234
+2014,"25027","Worcester County","MA","Harvard Pilgrim Health Care",36046
+2014,"25027","Worcester County","MA","Neighborhood Health Plan",41304
+2014,"25027","Worcester County","MA","Tufts Health Public Plans Inc.",59763
+2014,"25027","Worcester County","MA","Tufts Associated Health Maintenance Organization",29125
+2015,"25001","Barnstable County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2015,"25001","Barnstable County","MA","Boston Medical Center Health Plan",82569
+2015,"25001","Barnstable County","MA","CeltiCare Health Plan of Massachusetts",31234
+2015,"25001","Barnstable County","MA","Fallon Community Health Plan, Inc.",88806
+2015,"25001","Barnstable County","MA","Harvard Pilgrim Health Care",36046
+2015,"25001","Barnstable County","MA","Neighborhood Health Plan",41304
+2015,"25001","Barnstable County","MA","Tufts Health Public Plans Inc.",59763
+2015,"25001","Barnstable County","MA","Tufts Associated Health Maintenance Organization",29125
+2015,"25001","Barnstable County","MA","UnitedHealthcare Insurance Company",31779
+2015,"25003","Berkshire County","MA","Health New England, Inc.",34484
+2015,"25003","Berkshire County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2015,"25003","Berkshire County","MA","Boston Medical Center Health Plan",82569
+2015,"25003","Berkshire County","MA","CeltiCare Health Plan of Massachusetts",31234
+2015,"25003","Berkshire County","MA","Fallon Community Health Plan, Inc.",88806
+2015,"25003","Berkshire County","MA","Harvard Pilgrim Health Care",36046
+2015,"25003","Berkshire County","MA","Neighborhood Health Plan",41304
+2015,"25003","Berkshire County","MA","Tufts Health Public Plans Inc.",59763
+2015,"25003","Berkshire County","MA","Tufts Associated Health Maintenance Organization",29125
+2015,"25003","Berkshire County","MA","UnitedHealthcare Insurance Company",31779
+2015,"25005","Bristol County","MA","Minuteman Health, Inc.",73331
+2015,"25005","Bristol County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2015,"25005","Bristol County","MA","Boston Medical Center Health Plan",82569
+2015,"25005","Bristol County","MA","CeltiCare Health Plan of Massachusetts",31234
+2015,"25005","Bristol County","MA","Fallon Community Health Plan, Inc.",88806
+2015,"25005","Bristol County","MA","Harvard Pilgrim Health Care",36046
+2015,"25005","Bristol County","MA","Neighborhood Health Plan",41304
+2015,"25005","Bristol County","MA","Tufts Health Public Plans Inc.",59763
+2015,"25005","Bristol County","MA","Tufts Associated Health Maintenance Organization",29125
+2015,"25005","Bristol County","MA","UnitedHealthcare Insurance Company",31779
+2015,"25007","Dukes County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2015,"25007","Dukes County","MA","Boston Medical Center Health Plan",82569
+2015,"25007","Dukes County","MA","CeltiCare Health Plan of Massachusetts",31234
+2015,"25007","Dukes County","MA","Fallon Community Health Plan, Inc.",88806
+2015,"25007","Dukes County","MA","Harvard Pilgrim Health Care",36046
+2015,"25007","Dukes County","MA","Neighborhood Health Plan",41304
+2015,"25007","Dukes County","MA","Tufts Health Public Plans Inc.",59763
+2015,"25007","Dukes County","MA","Tufts Associated Health Maintenance Organization",29125
+2015,"25007","Dukes County","MA","UnitedHealthcare Insurance Company",31779
+2015,"25009","Essex County","MA","Minuteman Health, Inc.",73331
+2015,"25009","Essex County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2015,"25009","Essex County","MA","Boston Medical Center Health Plan",82569
+2015,"25009","Essex County","MA","CeltiCare Health Plan of Massachusetts",31234
+2015,"25009","Essex County","MA","Fallon Community Health Plan, Inc.",88806
+2015,"25009","Essex County","MA","Harvard Pilgrim Health Care",36046
+2015,"25009","Essex County","MA","Neighborhood Health Plan",41304
+2015,"25009","Essex County","MA","Tufts Health Public Plans Inc.",59763
+2015,"25009","Essex County","MA","Tufts Associated Health Maintenance Organization",29125
+2015,"25009","Essex County","MA","UnitedHealthcare Insurance Company",31779
+2015,"25011","Franklin County","MA","Health New England, Inc.",34484
+2015,"25011","Franklin County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2015,"25011","Franklin County","MA","Boston Medical Center Health Plan",82569
+2015,"25011","Franklin County","MA","CeltiCare Health Plan of Massachusetts",31234
+2015,"25011","Franklin County","MA","Fallon Community Health Plan, Inc.",88806
+2015,"25011","Franklin County","MA","Harvard Pilgrim Health Care",36046
+2015,"25011","Franklin County","MA","Neighborhood Health Plan",41304
+2015,"25011","Franklin County","MA","Tufts Health Public Plans Inc.",59763
+2015,"25011","Franklin County","MA","Tufts Associated Health Maintenance Organization",29125
+2015,"25011","Franklin County","MA","UnitedHealthcare Insurance Company",31779
+2015,"25013","Hampden County","MA","Health New England, Inc.",34484
+2015,"25013","Hampden County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2015,"25013","Hampden County","MA","Boston Medical Center Health Plan",82569
+2015,"25013","Hampden County","MA","CeltiCare Health Plan of Massachusetts",31234
+2015,"25013","Hampden County","MA","Fallon Community Health Plan, Inc.",88806
+2015,"25013","Hampden County","MA","Harvard Pilgrim Health Care",36046
+2015,"25013","Hampden County","MA","Neighborhood Health Plan",41304
+2015,"25013","Hampden County","MA","Tufts Health Public Plans Inc.",59763
+2015,"25013","Hampden County","MA","Tufts Associated Health Maintenance Organization",29125
+2015,"25013","Hampden County","MA","UnitedHealthcare Insurance Company",31779
+2015,"25015","Hampshire County","MA","Health New England, Inc.",34484
+2015,"25015","Hampshire County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2015,"25015","Hampshire County","MA","Boston Medical Center Health Plan",82569
+2015,"25015","Hampshire County","MA","CeltiCare Health Plan of Massachusetts",31234
+2015,"25015","Hampshire County","MA","Fallon Community Health Plan, Inc.",88806
+2015,"25015","Hampshire County","MA","Harvard Pilgrim Health Care",36046
+2015,"25015","Hampshire County","MA","Neighborhood Health Plan",41304
+2015,"25015","Hampshire County","MA","Tufts Health Public Plans Inc.",59763
+2015,"25015","Hampshire County","MA","Tufts Associated Health Maintenance Organization",29125
+2015,"25015","Hampshire County","MA","UnitedHealthcare Insurance Company",31779
+2015,"25017","Middlesex County","MA","Minuteman Health, Inc.",73331
+2015,"25017","Middlesex County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2015,"25017","Middlesex County","MA","Boston Medical Center Health Plan",82569
+2015,"25017","Middlesex County","MA","CeltiCare Health Plan of Massachusetts",31234
+2015,"25017","Middlesex County","MA","Fallon Community Health Plan, Inc.",88806
+2015,"25017","Middlesex County","MA","Harvard Pilgrim Health Care",36046
+2015,"25017","Middlesex County","MA","Neighborhood Health Plan",41304
+2015,"25017","Middlesex County","MA","Tufts Health Public Plans Inc.",59763
+2015,"25017","Middlesex County","MA","Tufts Associated Health Maintenance Organization",29125
+2015,"25017","Middlesex County","MA","UnitedHealthcare Insurance Company",31779
+2015,"25019","Nantucket County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2015,"25019","Nantucket County","MA","Boston Medical Center Health Plan",82569
+2015,"25019","Nantucket County","MA","CeltiCare Health Plan of Massachusetts",31234
+2015,"25019","Nantucket County","MA","Fallon Community Health Plan, Inc.",88806
+2015,"25019","Nantucket County","MA","Harvard Pilgrim Health Care",36046
+2015,"25019","Nantucket County","MA","Neighborhood Health Plan",41304
+2015,"25019","Nantucket County","MA","Tufts Health Public Plans Inc.",59763
+2015,"25019","Nantucket County","MA","Tufts Associated Health Maintenance Organization",29125
+2015,"25019","Nantucket County","MA","UnitedHealthcare Insurance Company",31779
+2015,"25021","Norfolk County","MA","Minuteman Health, Inc.",73331
+2015,"25021","Norfolk County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2015,"25021","Norfolk County","MA","Boston Medical Center Health Plan",82569
+2015,"25021","Norfolk County","MA","CeltiCare Health Plan of Massachusetts",31234
+2015,"25021","Norfolk County","MA","Fallon Community Health Plan, Inc.",88806
+2015,"25021","Norfolk County","MA","Harvard Pilgrim Health Care",36046
+2015,"25021","Norfolk County","MA","Neighborhood Health Plan",41304
+2015,"25021","Norfolk County","MA","Tufts Health Public Plans Inc.",59763
+2015,"25021","Norfolk County","MA","Tufts Associated Health Maintenance Organization",29125
+2015,"25021","Norfolk County","MA","UnitedHealthcare Insurance Company",31779
+2015,"25023","Plymouth County","MA","Minuteman Health, Inc.",73331
+2015,"25023","Plymouth County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2015,"25023","Plymouth County","MA","Boston Medical Center Health Plan",82569
+2015,"25023","Plymouth County","MA","CeltiCare Health Plan of Massachusetts",31234
+2015,"25023","Plymouth County","MA","Fallon Community Health Plan, Inc.",88806
+2015,"25023","Plymouth County","MA","Harvard Pilgrim Health Care",36046
+2015,"25023","Plymouth County","MA","Neighborhood Health Plan",41304
+2015,"25023","Plymouth County","MA","Tufts Health Public Plans Inc.",59763
+2015,"25023","Plymouth County","MA","Tufts Associated Health Maintenance Organization",29125
+2015,"25023","Plymouth County","MA","UnitedHealthcare Insurance Company",31779
+2015,"25025","Suffolk County","MA","Minuteman Health, Inc.",73331
+2015,"25025","Suffolk County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2015,"25025","Suffolk County","MA","Boston Medical Center Health Plan",82569
+2015,"25025","Suffolk County","MA","CeltiCare Health Plan of Massachusetts",31234
+2015,"25025","Suffolk County","MA","Fallon Community Health Plan, Inc.",88806
+2015,"25025","Suffolk County","MA","Harvard Pilgrim Health Care",36046
+2015,"25025","Suffolk County","MA","Neighborhood Health Plan",41304
+2015,"25025","Suffolk County","MA","Tufts Health Public Plans Inc.",59763
+2015,"25025","Suffolk County","MA","Tufts Associated Health Maintenance Organization",29125
+2015,"25025","Suffolk County","MA","UnitedHealthcare Insurance Company",31779
+2015,"25027","Worcester County","MA","Health New England, Inc.",34484
+2015,"25027","Worcester County","MA","Minuteman Health, Inc.",73331
+2015,"25027","Worcester County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2015,"25027","Worcester County","MA","Boston Medical Center Health Plan",82569
+2015,"25027","Worcester County","MA","CeltiCare Health Plan of Massachusetts",31234
+2015,"25027","Worcester County","MA","Fallon Community Health Plan, Inc.",88806
+2015,"25027","Worcester County","MA","Harvard Pilgrim Health Care",36046
+2015,"25027","Worcester County","MA","Neighborhood Health Plan",41304
+2015,"25027","Worcester County","MA","Tufts Health Public Plans Inc.",59763
+2015,"25027","Worcester County","MA","Tufts Associated Health Maintenance Organization",29125
+2015,"25027","Worcester County","MA","UnitedHealthcare Insurance Company",31779
+2016,"25001","Barnstable County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2016,"25001","Barnstable County","MA","Boston Medical Center Health Plan",82569
+2016,"25001","Barnstable County","MA","CeltiCare Health Plan of Massachusetts",31234
+2016,"25001","Barnstable County","MA","Fallon Community Health Plan, Inc.",88806
+2016,"25001","Barnstable County","MA","Harvard Pilgrim Health Care",36046
+2016,"25001","Barnstable County","MA","Neighborhood Health Plan",41304
+2016,"25001","Barnstable County","MA","Tufts Health Public Plans Inc.",59763
+2016,"25001","Barnstable County","MA","Tufts Associated Health Maintenance Organization",29125
+2016,"25001","Barnstable County","MA","UnitedHealthcare Insurance Company",31779
+2016,"25003","Berkshire County","MA","Health New England, Inc.",34484
+2016,"25003","Berkshire County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2016,"25003","Berkshire County","MA","Boston Medical Center Health Plan",82569
+2016,"25003","Berkshire County","MA","CeltiCare Health Plan of Massachusetts",31234
+2016,"25003","Berkshire County","MA","Fallon Community Health Plan, Inc.",88806
+2016,"25003","Berkshire County","MA","Harvard Pilgrim Health Care",36046
+2016,"25003","Berkshire County","MA","Neighborhood Health Plan",41304
+2016,"25003","Berkshire County","MA","Tufts Health Public Plans Inc.",59763
+2016,"25003","Berkshire County","MA","Tufts Associated Health Maintenance Organization",29125
+2016,"25003","Berkshire County","MA","UnitedHealthcare Insurance Company",31779
+2016,"25005","Bristol County","MA","Minuteman Health, Inc.",73331
+2016,"25005","Bristol County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2016,"25005","Bristol County","MA","Boston Medical Center Health Plan",82569
+2016,"25005","Bristol County","MA","CeltiCare Health Plan of Massachusetts",31234
+2016,"25005","Bristol County","MA","Fallon Community Health Plan, Inc.",88806
+2016,"25005","Bristol County","MA","Harvard Pilgrim Health Care",36046
+2016,"25005","Bristol County","MA","Neighborhood Health Plan",41304
+2016,"25005","Bristol County","MA","Tufts Health Public Plans Inc.",59763
+2016,"25005","Bristol County","MA","Tufts Associated Health Maintenance Organization",29125
+2016,"25005","Bristol County","MA","UnitedHealthcare Insurance Company",31779
+2016,"25007","Dukes County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2016,"25007","Dukes County","MA","Boston Medical Center Health Plan",82569
+2016,"25007","Dukes County","MA","CeltiCare Health Plan of Massachusetts",31234
+2016,"25007","Dukes County","MA","Fallon Community Health Plan, Inc.",88806
+2016,"25007","Dukes County","MA","Harvard Pilgrim Health Care",36046
+2016,"25007","Dukes County","MA","Neighborhood Health Plan",41304
+2016,"25007","Dukes County","MA","Tufts Health Public Plans Inc.",59763
+2016,"25007","Dukes County","MA","Tufts Associated Health Maintenance Organization",29125
+2016,"25007","Dukes County","MA","UnitedHealthcare Insurance Company",31779
+2016,"25009","Essex County","MA","Minuteman Health, Inc.",73331
+2016,"25009","Essex County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2016,"25009","Essex County","MA","Boston Medical Center Health Plan",82569
+2016,"25009","Essex County","MA","CeltiCare Health Plan of Massachusetts",31234
+2016,"25009","Essex County","MA","Fallon Community Health Plan, Inc.",88806
+2016,"25009","Essex County","MA","Harvard Pilgrim Health Care",36046
+2016,"25009","Essex County","MA","Neighborhood Health Plan",41304
+2016,"25009","Essex County","MA","Tufts Health Public Plans Inc.",59763
+2016,"25009","Essex County","MA","Tufts Associated Health Maintenance Organization",29125
+2016,"25009","Essex County","MA","UnitedHealthcare Insurance Company",31779
+2016,"25011","Franklin County","MA","Health New England, Inc.",34484
+2016,"25011","Franklin County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2016,"25011","Franklin County","MA","Boston Medical Center Health Plan",82569
+2016,"25011","Franklin County","MA","CeltiCare Health Plan of Massachusetts",31234
+2016,"25011","Franklin County","MA","Fallon Community Health Plan, Inc.",88806
+2016,"25011","Franklin County","MA","Harvard Pilgrim Health Care",36046
+2016,"25011","Franklin County","MA","Neighborhood Health Plan",41304
+2016,"25011","Franklin County","MA","Tufts Health Public Plans Inc.",59763
+2016,"25011","Franklin County","MA","Tufts Associated Health Maintenance Organization",29125
+2016,"25011","Franklin County","MA","UnitedHealthcare Insurance Company",31779
+2016,"25013","Hampden County","MA","Health New England, Inc.",34484
+2016,"25013","Hampden County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2016,"25013","Hampden County","MA","Boston Medical Center Health Plan",82569
+2016,"25013","Hampden County","MA","CeltiCare Health Plan of Massachusetts",31234
+2016,"25013","Hampden County","MA","Fallon Community Health Plan, Inc.",88806
+2016,"25013","Hampden County","MA","Harvard Pilgrim Health Care",36046
+2016,"25013","Hampden County","MA","Neighborhood Health Plan",41304
+2016,"25013","Hampden County","MA","Tufts Health Public Plans Inc.",59763
+2016,"25013","Hampden County","MA","Tufts Associated Health Maintenance Organization",29125
+2016,"25013","Hampden County","MA","UnitedHealthcare Insurance Company",31779
+2016,"25015","Hampshire County","MA","Health New England, Inc.",34484
+2016,"25015","Hampshire County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2016,"25015","Hampshire County","MA","Boston Medical Center Health Plan",82569
+2016,"25015","Hampshire County","MA","CeltiCare Health Plan of Massachusetts",31234
+2016,"25015","Hampshire County","MA","Fallon Community Health Plan, Inc.",88806
+2016,"25015","Hampshire County","MA","Harvard Pilgrim Health Care",36046
+2016,"25015","Hampshire County","MA","Neighborhood Health Plan",41304
+2016,"25015","Hampshire County","MA","Tufts Health Public Plans Inc.",59763
+2016,"25015","Hampshire County","MA","Tufts Associated Health Maintenance Organization",29125
+2016,"25015","Hampshire County","MA","UnitedHealthcare Insurance Company",31779
+2016,"25017","Middlesex County","MA","Minuteman Health, Inc.",73331
+2016,"25017","Middlesex County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2016,"25017","Middlesex County","MA","Boston Medical Center Health Plan",82569
+2016,"25017","Middlesex County","MA","CeltiCare Health Plan of Massachusetts",31234
+2016,"25017","Middlesex County","MA","Fallon Community Health Plan, Inc.",88806
+2016,"25017","Middlesex County","MA","Harvard Pilgrim Health Care",36046
+2016,"25017","Middlesex County","MA","Neighborhood Health Plan",41304
+2016,"25017","Middlesex County","MA","Tufts Health Public Plans Inc.",59763
+2016,"25017","Middlesex County","MA","Tufts Associated Health Maintenance Organization",29125
+2016,"25017","Middlesex County","MA","UnitedHealthcare Insurance Company",31779
+2016,"25019","Nantucket County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2016,"25019","Nantucket County","MA","Boston Medical Center Health Plan",82569
+2016,"25019","Nantucket County","MA","CeltiCare Health Plan of Massachusetts",31234
+2016,"25019","Nantucket County","MA","Fallon Community Health Plan, Inc.",88806
+2016,"25019","Nantucket County","MA","Harvard Pilgrim Health Care",36046
+2016,"25019","Nantucket County","MA","Neighborhood Health Plan",41304
+2016,"25019","Nantucket County","MA","Tufts Health Public Plans Inc.",59763
+2016,"25019","Nantucket County","MA","Tufts Associated Health Maintenance Organization",29125
+2016,"25019","Nantucket County","MA","UnitedHealthcare Insurance Company",31779
+2016,"25021","Norfolk County","MA","Minuteman Health, Inc.",73331
+2016,"25021","Norfolk County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2016,"25021","Norfolk County","MA","Boston Medical Center Health Plan",82569
+2016,"25021","Norfolk County","MA","CeltiCare Health Plan of Massachusetts",31234
+2016,"25021","Norfolk County","MA","Fallon Community Health Plan, Inc.",88806
+2016,"25021","Norfolk County","MA","Harvard Pilgrim Health Care",36046
+2016,"25021","Norfolk County","MA","Neighborhood Health Plan",41304
+2016,"25021","Norfolk County","MA","Tufts Health Public Plans Inc.",59763
+2016,"25021","Norfolk County","MA","Tufts Associated Health Maintenance Organization",29125
+2016,"25021","Norfolk County","MA","UnitedHealthcare Insurance Company",31779
+2016,"25023","Plymouth County","MA","Minuteman Health, Inc.",73331
+2016,"25023","Plymouth County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2016,"25023","Plymouth County","MA","Boston Medical Center Health Plan",82569
+2016,"25023","Plymouth County","MA","CeltiCare Health Plan of Massachusetts",31234
+2016,"25023","Plymouth County","MA","Fallon Community Health Plan, Inc.",88806
+2016,"25023","Plymouth County","MA","Harvard Pilgrim Health Care",36046
+2016,"25023","Plymouth County","MA","Neighborhood Health Plan",41304
+2016,"25023","Plymouth County","MA","Tufts Health Public Plans Inc.",59763
+2016,"25023","Plymouth County","MA","Tufts Associated Health Maintenance Organization",29125
+2016,"25023","Plymouth County","MA","UnitedHealthcare Insurance Company",31779
+2016,"25025","Suffolk County","MA","Minuteman Health, Inc.",73331
+2016,"25025","Suffolk County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2016,"25025","Suffolk County","MA","Boston Medical Center Health Plan",82569
+2016,"25025","Suffolk County","MA","CeltiCare Health Plan of Massachusetts",31234
+2016,"25025","Suffolk County","MA","Fallon Community Health Plan, Inc.",88806
+2016,"25025","Suffolk County","MA","Harvard Pilgrim Health Care",36046
+2016,"25025","Suffolk County","MA","Neighborhood Health Plan",41304
+2016,"25025","Suffolk County","MA","Tufts Health Public Plans Inc.",59763
+2016,"25025","Suffolk County","MA","Tufts Associated Health Maintenance Organization",29125
+2016,"25025","Suffolk County","MA","UnitedHealthcare Insurance Company",31779
+2016,"25027","Worcester County","MA","Health New England, Inc.",34484
+2016,"25027","Worcester County","MA","Minuteman Health, Inc.",73331
+2016,"25027","Worcester County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2016,"25027","Worcester County","MA","Boston Medical Center Health Plan",82569
+2016,"25027","Worcester County","MA","CeltiCare Health Plan of Massachusetts",31234
+2016,"25027","Worcester County","MA","Fallon Community Health Plan, Inc.",88806
+2016,"25027","Worcester County","MA","Harvard Pilgrim Health Care",36046
+2016,"25027","Worcester County","MA","Neighborhood Health Plan",41304
+2016,"25027","Worcester County","MA","Tufts Health Public Plans Inc.",59763
+2016,"25027","Worcester County","MA","Tufts Associated Health Maintenance Organization",29125
+2016,"25027","Worcester County","MA","UnitedHealthcare Insurance Company",31779
+2017,"25001","Barnstable County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2017,"25001","Barnstable County","MA","Boston Medical Center Health Plan",82569
+2017,"25001","Barnstable County","MA","CeltiCare Health Plan of Massachusetts",31234
+2017,"25001","Barnstable County","MA","Fallon Community Health Plan, Inc.",88806
+2017,"25001","Barnstable County","MA","Harvard Pilgrim Health Care",36046
+2017,"25001","Barnstable County","MA","Neighborhood Health Plan",41304
+2017,"25001","Barnstable County","MA","Tufts Health Public Plans Inc.",59763
+2017,"25001","Barnstable County","MA","Tufts Associated Health Maintenance Organization",29125
+2017,"25003","Berkshire County","MA","Health New England, Inc.",34484
+2017,"25003","Berkshire County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2017,"25003","Berkshire County","MA","Boston Medical Center Health Plan",82569
+2017,"25003","Berkshire County","MA","CeltiCare Health Plan of Massachusetts",31234
+2017,"25003","Berkshire County","MA","Fallon Community Health Plan, Inc.",88806
+2017,"25003","Berkshire County","MA","Harvard Pilgrim Health Care",36046
+2017,"25003","Berkshire County","MA","Neighborhood Health Plan",41304
+2017,"25003","Berkshire County","MA","Tufts Health Public Plans Inc.",59763
+2017,"25003","Berkshire County","MA","Tufts Associated Health Maintenance Organization",29125
+2017,"25005","Bristol County","MA","Minuteman Health, Inc.",73331
+2017,"25005","Bristol County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2017,"25005","Bristol County","MA","Boston Medical Center Health Plan",82569
+2017,"25005","Bristol County","MA","CeltiCare Health Plan of Massachusetts",31234
+2017,"25005","Bristol County","MA","Fallon Community Health Plan, Inc.",88806
+2017,"25005","Bristol County","MA","Harvard Pilgrim Health Care",36046
+2017,"25005","Bristol County","MA","Neighborhood Health Plan",41304
+2017,"25005","Bristol County","MA","Tufts Health Public Plans Inc.",59763
+2017,"25005","Bristol County","MA","Tufts Associated Health Maintenance Organization",29125
+2017,"25007","Dukes County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2017,"25007","Dukes County","MA","Boston Medical Center Health Plan",82569
+2017,"25007","Dukes County","MA","CeltiCare Health Plan of Massachusetts",31234
+2017,"25007","Dukes County","MA","Fallon Community Health Plan, Inc.",88806
+2017,"25007","Dukes County","MA","Harvard Pilgrim Health Care",36046
+2017,"25007","Dukes County","MA","Neighborhood Health Plan",41304
+2017,"25007","Dukes County","MA","Tufts Health Public Plans Inc.",59763
+2017,"25007","Dukes County","MA","Tufts Associated Health Maintenance Organization",29125
+2017,"25009","Essex County","MA","Minuteman Health, Inc.",73331
+2017,"25009","Essex County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2017,"25009","Essex County","MA","Boston Medical Center Health Plan",82569
+2017,"25009","Essex County","MA","CeltiCare Health Plan of Massachusetts",31234
+2017,"25009","Essex County","MA","Fallon Community Health Plan, Inc.",88806
+2017,"25009","Essex County","MA","Harvard Pilgrim Health Care",36046
+2017,"25009","Essex County","MA","Neighborhood Health Plan",41304
+2017,"25009","Essex County","MA","Tufts Health Public Plans Inc.",59763
+2017,"25009","Essex County","MA","Tufts Associated Health Maintenance Organization",29125
+2017,"25011","Franklin County","MA","Health New England, Inc.",34484
+2017,"25011","Franklin County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2017,"25011","Franklin County","MA","Boston Medical Center Health Plan",82569
+2017,"25011","Franklin County","MA","CeltiCare Health Plan of Massachusetts",31234
+2017,"25011","Franklin County","MA","Fallon Community Health Plan, Inc.",88806
+2017,"25011","Franklin County","MA","Harvard Pilgrim Health Care",36046
+2017,"25011","Franklin County","MA","Neighborhood Health Plan",41304
+2017,"25011","Franklin County","MA","Tufts Health Public Plans Inc.",59763
+2017,"25011","Franklin County","MA","Tufts Associated Health Maintenance Organization",29125
+2017,"25013","Hampden County","MA","Health New England, Inc.",34484
+2017,"25013","Hampden County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2017,"25013","Hampden County","MA","Boston Medical Center Health Plan",82569
+2017,"25013","Hampden County","MA","CeltiCare Health Plan of Massachusetts",31234
+2017,"25013","Hampden County","MA","Fallon Community Health Plan, Inc.",88806
+2017,"25013","Hampden County","MA","Harvard Pilgrim Health Care",36046
+2017,"25013","Hampden County","MA","Neighborhood Health Plan",41304
+2017,"25013","Hampden County","MA","Tufts Health Public Plans Inc.",59763
+2017,"25013","Hampden County","MA","Tufts Associated Health Maintenance Organization",29125
+2017,"25015","Hampshire County","MA","Health New England, Inc.",34484
+2017,"25015","Hampshire County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2017,"25015","Hampshire County","MA","Boston Medical Center Health Plan",82569
+2017,"25015","Hampshire County","MA","CeltiCare Health Plan of Massachusetts",31234
+2017,"25015","Hampshire County","MA","Fallon Community Health Plan, Inc.",88806
+2017,"25015","Hampshire County","MA","Harvard Pilgrim Health Care",36046
+2017,"25015","Hampshire County","MA","Neighborhood Health Plan",41304
+2017,"25015","Hampshire County","MA","Tufts Health Public Plans Inc.",59763
+2017,"25015","Hampshire County","MA","Tufts Associated Health Maintenance Organization",29125
+2017,"25017","Middlesex County","MA","Health New England, Inc.",34484
+2017,"25017","Middlesex County","MA","Minuteman Health, Inc.",73331
+2017,"25017","Middlesex County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2017,"25017","Middlesex County","MA","Boston Medical Center Health Plan",82569
+2017,"25017","Middlesex County","MA","CeltiCare Health Plan of Massachusetts",31234
+2017,"25017","Middlesex County","MA","Fallon Community Health Plan, Inc.",88806
+2017,"25017","Middlesex County","MA","Harvard Pilgrim Health Care",36046
+2017,"25017","Middlesex County","MA","Neighborhood Health Plan",41304
+2017,"25017","Middlesex County","MA","Tufts Health Public Plans Inc.",59763
+2017,"25017","Middlesex County","MA","Tufts Associated Health Maintenance Organization",29125
+2017,"25019","Nantucket County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2017,"25019","Nantucket County","MA","Boston Medical Center Health Plan",82569
+2017,"25019","Nantucket County","MA","CeltiCare Health Plan of Massachusetts",31234
+2017,"25019","Nantucket County","MA","Fallon Community Health Plan, Inc.",88806
+2017,"25019","Nantucket County","MA","Harvard Pilgrim Health Care",36046
+2017,"25019","Nantucket County","MA","Neighborhood Health Plan",41304
+2017,"25019","Nantucket County","MA","Tufts Health Public Plans Inc.",59763
+2017,"25019","Nantucket County","MA","Tufts Associated Health Maintenance Organization",29125
+2017,"25021","Norfolk County","MA","Minuteman Health, Inc.",73331
+2017,"25021","Norfolk County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2017,"25021","Norfolk County","MA","Boston Medical Center Health Plan",82569
+2017,"25021","Norfolk County","MA","CeltiCare Health Plan of Massachusetts",31234
+2017,"25021","Norfolk County","MA","Fallon Community Health Plan, Inc.",88806
+2017,"25021","Norfolk County","MA","Harvard Pilgrim Health Care",36046
+2017,"25021","Norfolk County","MA","Neighborhood Health Plan",41304
+2017,"25021","Norfolk County","MA","Tufts Health Public Plans Inc.",59763
+2017,"25021","Norfolk County","MA","Tufts Associated Health Maintenance Organization",29125
+2017,"25023","Plymouth County","MA","Minuteman Health, Inc.",73331
+2017,"25023","Plymouth County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2017,"25023","Plymouth County","MA","Boston Medical Center Health Plan",82569
+2017,"25023","Plymouth County","MA","CeltiCare Health Plan of Massachusetts",31234
+2017,"25023","Plymouth County","MA","Fallon Community Health Plan, Inc.",88806
+2017,"25023","Plymouth County","MA","Harvard Pilgrim Health Care",36046
+2017,"25023","Plymouth County","MA","Neighborhood Health Plan",41304
+2017,"25023","Plymouth County","MA","Tufts Health Public Plans Inc.",59763
+2017,"25023","Plymouth County","MA","Tufts Associated Health Maintenance Organization",29125
+2017,"25025","Suffolk County","MA","Minuteman Health, Inc.",73331
+2017,"25025","Suffolk County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2017,"25025","Suffolk County","MA","Boston Medical Center Health Plan",82569
+2017,"25025","Suffolk County","MA","CeltiCare Health Plan of Massachusetts",31234
+2017,"25025","Suffolk County","MA","Fallon Community Health Plan, Inc.",88806
+2017,"25025","Suffolk County","MA","Harvard Pilgrim Health Care",36046
+2017,"25025","Suffolk County","MA","Neighborhood Health Plan",41304
+2017,"25025","Suffolk County","MA","Tufts Health Public Plans Inc.",59763
+2017,"25025","Suffolk County","MA","Tufts Associated Health Maintenance Organization",29125
+2017,"25027","Worcester County","MA","Health New England, Inc.",34484
+2017,"25027","Worcester County","MA","Minuteman Health, Inc.",73331
+2017,"25027","Worcester County","MA","Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc",42690
+2017,"25027","Worcester County","MA","Boston Medical Center Health Plan",82569
+2017,"25027","Worcester County","MA","CeltiCare Health Plan of Massachusetts",31234
+2017,"25027","Worcester County","MA","Fallon Community Health Plan, Inc.",88806
+2017,"25027","Worcester County","MA","Harvard Pilgrim Health Care",36046
+2017,"25027","Worcester County","MA","Neighborhood Health Plan",41304
+2017,"25027","Worcester County","MA","Tufts Health Public Plans Inc.",59763
+2017,"25027","Worcester County","MA","Tufts Associated Health Maintenance Organization",29125

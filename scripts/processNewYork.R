@@ -8,6 +8,11 @@ fips_codes <- read.csv("data/fips.csv", colClasses = "character")
 fips_ny <- fips_codes %>% filter(fips_state == "36") %>%
 	select(fips_county, county_name)
 
+source("scripts/commonFunctions.R")
+
+# HIOS ids for matching, from makeHiosIds.R
+ids_ny <- getHiosFull("NY")
+
 ####################################################################################
 # Insurers
 # https://info.nystateofhealth.ny.gov/PlansMap
@@ -83,6 +88,72 @@ ny14 <- ny14 %>% mutate(year = 2014, state_code = "NY") %>%
 
 ny <- rbind(ny, ny14)
 ny <- ny %>% arrange(year, fips_county)
+
+####################################################################################
+# Add HIOS ids and standardized names
+# Match from SBM PUF where possible
+
+
+### NOTES: Verified in NYSOH plan browser, 2017 ###
+# Some companies market differently upstate and downstate (but single HIOS co.)
+# Empire BlueCross (upstate) and Empire BlueCross Blue Shield (downstate) are
+# both HIOS ID 80519 (company name Empire HealthChoice HMO, Inc.)
+
+# Excellus BCBS does business as Univera in some upstate counties but as Excellus downstate
+# Both Excellus BCBS and Excellus dba Univera are HIOS ID 78124 ("Excellus Health Plan, Inc.")
+
+# HealthNow dba BCBS of Western NY (49526) and BS of Northeastern NY (36346) are DIFFERENT HIOS ids
+
+# Fidelis care is HIOS id 25303 - company name "New York State Catholic Health Plan, Inc."
+
+# 2014 company Today's Options [American Progressive] full name is
+# "American Progressive Life & Health Insurance Company of New York dba Today's Options"
+# HIOS id 31808 (via https://www.cms.gov/CCIIO/Programs-and-Initiatives/Premium-Stabilization-Programs/Downloads/RC-Issuer-level-Report.pdf)
+####################################################################################
+table(ny$issuer_name)
+table(ids_ny$issuer_name)
+ny <- ny %>% mutate(issuer_name = ifelse(issuer_name == "Capital District Physicians Health Plan", "Capital District Physicians Health Plan, Inc.",
+																	ifelse(issuer_name %in% c("CareConnect Insurance Company", "North Shore LIJ"), "North Shore-LIJ CareConnect Insurance Company, Inc.",
+																	ifelse(issuer_name == "CDPHP", "Capital District Physicians Health Plan, Inc.",
+																	ifelse(issuer_name %in% c("EmblemHealth", "Health Insurance Plan of Greater New York  EmblemHealth "), "Health Insurance Plan of Greater New York",
+																	# Empire Blues market differently but are the same company
+																	ifelse(issuer_name %in% c("Empire Blue Cross", "Empire BlueCross"),"Empire HealthChoice HMO, Inc. dba Empire BlueCross",
+																	ifelse(issuer_name %in% c("Empire Blue Cross Blue Shield", "Empire BlueCross BlueShield"), "Empire HealthChoice HMO, Inc. dba Empire BlueCross BlueShield",
+																	# Excellus Blues market differently but are the same company
+																	ifelse(issuer_name %in% c("Excellus Blue Cross Blue Shield", "Excellus BlueCross BlueShield"), "Excellus Health Plan, Inc. dba Excellus BlueCross BlueShield",
+																	ifelse(issuer_name %in% c("Excellus d b a Univera Healthcare", "Excellus dba Univera Healthcare", "Univera"), "Excellus Health Plan, Inc. dba Univera Healthcare",
+																	ifelse(issuer_name == "Fidelis Care", "New York State Catholic Health Plan, Inc. dba Fidelis Care",
+																	ifelse(issuer_name == "Health Republic [Freelancers]", "Freelancers Health Service Corporation",
+																	ifelse(issuer_name %in% c("Healthfirst", "Healthfirst New York"), "Healthfirst PHSP, Inc.",
+																	ifelse(issuer_name %in% c("HealthNow dba BlueCross BlueShield of Western N", "HealthNow dba BlueCross BlueShield of Western New York", 
+																														"HealthNow dba BlueCross BlueShield of Western NY"), 
+																				 "BlueCross BlueShield of Western New York",
+																	ifelse(issuer_name %in% c("HealthNow dba BlueShield of Northeastern New York", "HealthNow dba BlueShield of Northeastern NY"),
+																				 "BlueShield of Northeastern New York",
+																	ifelse(issuer_name == "Independent Health", "Independent Health Benefits Corporation",
+																	ifelse(issuer_name == "MetroPlus Health Plan", "MetroPlus Health Plan, Inc.",
+																	ifelse(issuer_name %in% c("MVP", "MVP Health Plan"), "MVP Health Plan, Inc.",
+																	ifelse(issuer_name %in% c("Oscar", "Oscar Insurance"), "Oscar Insurance Corporation",
+																	ifelse(issuer_name == "Today's Options [American Progressive]", "American Progressive Life & Health Insurance Company of New York dba Today's Options",
+																	ifelse(issuer_name %in% c("United", "United Healthcare"), "UnitedHealthcare of New York, Inc.",
+																	ifelse(issuer_name == "Wellcare", "WellCare of New York, Inc.",
+																				 issuer_name)))))))))))))))))))))
+
+table(ny$issuer_name)
+
+ids_join <- ids_ny %>% group_by(issuer_name, issuer_id) %>%
+	summarize(temp = n()) %>%
+	select(-temp)
+table(ids_join$issuer_name)
+
+ny <- left_join(ny, ids_join, by = "issuer_name")
+ny <- ny %>% mutate(issuer_id = ifelse(issuer_name %in% c("Empire HealthChoice HMO, Inc. dba Empire BlueCross", "Empire HealthChoice HMO, Inc. dba Empire BlueCross BlueShield"), 80519,
+																		ifelse(issuer_name %in% c("Excellus Health Plan, Inc. dba Excellus BlueCross BlueShield", "Excellus Health Plan, Inc. dba Univera Healthcare"), 78124,
+																		ifelse(issuer_name == "New York State Catholic Health Plan, Inc. dba Fidelis Care", 25303,
+																		ifelse(issuer_name == "American Progressive Life & Health Insurance Company of New York dba Today's Options", 31808,
+																					 issuer_id)))))
+summary(ny$issuer_id)
+
 write.csv(ny, "data-original/state-based/ny-insurers.csv", row.names = F, na = "")
 
 ####################################################################################

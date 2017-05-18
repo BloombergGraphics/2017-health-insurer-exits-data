@@ -32,7 +32,8 @@ year,state,information,source_format,source,direct_email,notes,direct_url,url_la
 2017,Maryland,insurers,plan browser,MD Health Connection,,Browsed as a 27 year old for each county; data also provided via email,https://secure.marylandhealthconnection.gov/AHCT/LandingPageCTHIX,
 2017,Maryland,county enrollment,.pdf,Maryland Health Benefits Exchange,,Parsed in Tabula,http://www.marylandhbe.com/wp-content/uploads/2017/01/020117_OE4Count.pdf,
 2016,Maryland,plans,PUF .xls,CMS,,2016 state-based marketplace PUFs,,https://www.cms.gov/CCIIO/Resources/Data-Resources/sbm-puf.html
-2015,Maryland,insurers,.xlsx,MD Health Connection,1,Insurers by county provided via email,,
+2015,Maryland,insurers,SERFF .xls,MD Health Benefits Exchange,1,Received SERFF filings via Public Information Act request,,
+2014,Maryland,insurers,SERFF .xls,MD Health Benefits Exchange,1,Received SERFF filings via Public Information Act request,,
 2017,Massachusetts,insurers,.xlsx,MA Health Connector,1,"Provided via email by rating area, I mapped to counties",,
 2017,Massachusetts,county enrollment,.xlsx,MA Health Connector,1,"Provided via email; effectuated enrollment as of Feb. 2, 2017",,
 2016,Massachusetts,insurers,.xlsx,MA Health Connector,1,"Provided via email by rating area, I mapped to counties",,

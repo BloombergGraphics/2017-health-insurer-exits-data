@@ -11,31 +11,11 @@ fips_md <- fips_codes %>% filter(state_code == "MD") %>%
 	mutate(county_name = str_replace_all(county_name, "city", "City"))
 
 ####################################################################################
-# Issuers by county, 2015-2017 provided in spreadsheet via email
-####################################################################################
-md_raw <- readWorkbook("documents/md/QHP Carriers presence in Counties by year - 04-13-2017.xlsx", sheet = "Dataset")
-colnames(md_raw) <- tolower(colnames(md_raw))
+# Issuers by county
+# 2014, 2015: using SERFF filings obtained by Public Information Act request
+# 2016: using state-based marketplace public use files
 
-# Need to match fips codes, county names are missing spaces
-md_raw <- md_raw %>% rename(issuer_name = carrier, name_match = county) %>%
-	mutate(name_match = toupper(name_match))
-
-fips_md <- fips_md %>% mutate(name_match = toupper(str_replace_all(county_name, "County", ""))) %>%
-	mutate(name_match = str_replace_all(name_match, "ST\\.", "SAINT")) %>%
-	mutate(name_match = str_replace_all(name_match, " ", "")) %>%
-	mutate(name_match = str_replace_all(name_match, "'", "")) %>%
-	mutate(name_match = str_replace_all(name_match, "[.]", ""))
-
-md <- left_join(md_raw, fips_md, by="name_match") %>%
-	select(-name_match) %>%
-	arrange(year, fips_county) %>%
-	mutate(state_code = "MD") %>%
-	select(year, fips_county, county_name, everything())
-write.csv(md, "data-original/state-based/md-insurers_fromstate.csv", row.names = F, na = "")
-
-####################################################################################
-##### PREVIOUS DATA BEFORE EMAILED VERSION SENT FROM MD STATE ##### 
-# 2017 Marketplace plans
+# 2017 issuers by county
 # Went to MD Health connection, entered a 27 year old for each county, entered into CSV
 # Verified number by county with KFF map
 # https://public.tableau.com/profile/kaiser.family.foundation#!/vizhome/InsurerParticipationinthe2017IndividualMarketplace/2017InsurerParticipation
@@ -49,21 +29,6 @@ md17 <- md17 %>% mutate(year = 2017,
 	arrange(fips_county) %>%
 	select(year, fips_county, county_name, state_code, everything())
 
-write.csv(md17, "data-original/state-based/2017-md-insurers.csv", row.names = F, na = "")
-
-#####################################################################################
-# Join annual issuers by county data
-# 2016 from CMS's SBM PUFs processed in prepSbmPuf.R
-#####################################################################################
-
-# Use 2015 data sent by state
-md15 <- md %>% filter(year == 2015)
-md17 <- as.data.frame(md17)
-
-# Join to 2017 data
-md_use <- bind_rows(md15, md17)
-md_use <- md_use %>% select(-name_match)
-
 #####################################################################################
 # Add HIOS ids
 #####################################################################################
@@ -75,13 +40,13 @@ ids_md <- ids %>% filter(state_code == "MD" & market == "Individual") %>%
 	summarize(n = n()) %>%
 	select(-n)
 ids_md_puf <- ids %>% filter(state_code == "MD" & source == "SBM PUF")
-table(md_use$issuer_name)
+table(md17$issuer_name)
 table(ids_md_puf$issuer_name)
 
 # CareFirst of Maryland and GHMSI are subsidiaries of CareFirst BlueCross BlueShield
 # In Montgomery county and Prince George's county they're GHMSI, all other counties are CareFirst of MD (from 2016 data)
 # For 2015, we only know "CareFirst" was in all counties, waiting on state to provide actual subsidiary data, pending request
-md_use <- md_use %>% mutate(issuer_name = ifelse(issuer_name == "CareFirst BlueChoice", "CareFirst BlueChoice, Inc.",
+md17 <- md17 %>% mutate(issuer_name = ifelse(issuer_name == "CareFirst BlueChoice", "CareFirst BlueChoice, Inc.",
 																				 	ifelse(issuer_name == "CareFirst BlueCross BlueShield" & fips_county %in% c(24031, 24033), "Group Hospitalization and Medical Services, Inc.",
 																				 	ifelse(issuer_name == "CareFirst BlueCross BlueShield" & !(fips_county %in% c(24031, 24033)), "CareFirst of Maryland, Inc.",
 																				 	ifelse(str_detect(issuer_name, "Cigna"), "Cigna Health and Life Insurance Company",
@@ -89,16 +54,16 @@ md_use <- md_use %>% mutate(issuer_name = ifelse(issuer_name == "CareFirst BlueC
 																				 	ifelse(str_detect(issuer_name, "Kaiser"), "Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",
 																				 	ifelse(issuer_name == "UnitedHealthCare", "UnitedHealthcare of the Mid-Atlantic, Inc.",
 																				 			 	issuer_name))))))))
-table(md_use$issuer_name)
+table(md17$issuer_name)
 
 # Join ids
 ids_join <- ids_md_puf %>% select(issuer_name, issuer_id)
-md_use <- left_join(md_use, ids_join, by = "issuer_name")
+md17 <- left_join(md17, ids_join, by = "issuer_name")
 
-md_use <- md_use %>% select(year, state_code, rating_area, fips_county, county_name, issuer_name, issuer_id, everything()) %>%
+md17 <- md17 %>% select(year, state_code, rating_area, fips_county, county_name, issuer_name, issuer_id, everything()) %>%
 	arrange(year, fips_county)
 
-write.csv(md_use, "data-original/state-based/md-insurers.csv", row.names = F, na = "")
+write.csv(md17, "data-original/state-based/md-insurers.csv", row.names = F, na = "")
 
 ####################################################################################
 # County enrollment
@@ -121,3 +86,27 @@ md_enroll17 <- md_enroll17 %>% mutate(year = 2017, state_code = "MD") %>%
 	arrange(year, fips_county)
 
 write.csv(md_enroll17, "data-original/state-based/md-county-enrollment.csv", row.names = F, na = "")
+
+####################################################################################
+# Issuers by county, 2015-2017 provided in spreadsheet via email
+# NOT USING - incomplete CareFirst breakdown/known errors with Kaiser 2017
+####################################################################################
+# md_raw <- readWorkbook("documents/md/QHP Carriers presence in Counties by year - 04-13-2017.xlsx", sheet = "Dataset")
+# colnames(md_raw) <- tolower(colnames(md_raw))
+# 
+# # Need to match fips codes, county names are missing spaces
+# md_raw <- md_raw %>% rename(issuer_name = carrier, name_match = county) %>%
+# 	mutate(name_match = toupper(name_match))
+# 
+# fips_md <- fips_md %>% mutate(name_match = toupper(str_replace_all(county_name, "County", ""))) %>%
+# 	mutate(name_match = str_replace_all(name_match, "ST\\.", "SAINT")) %>%
+# 	mutate(name_match = str_replace_all(name_match, " ", "")) %>%
+# 	mutate(name_match = str_replace_all(name_match, "'", "")) %>%
+# 	mutate(name_match = str_replace_all(name_match, "[.]", ""))
+# 
+# md <- left_join(md_raw, fips_md, by="name_match") %>%
+# 	select(-name_match) %>%
+# 	arrange(year, fips_county) %>%
+# 	mutate(state_code = "MD") %>%
+# 	select(year, fips_county, county_name, everything())
+write.csv(md, "data-original/state-based/md-insurers_fromstate.csv", row.names = F, na = "")

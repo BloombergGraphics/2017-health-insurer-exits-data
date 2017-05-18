@@ -20,7 +20,7 @@ The [data-original](data-original/) folder includes many datasets used in interi
 The 2016 state-based marketplace public use files are downloaded via python using [downloadSbmPuf.py](scripts/downloadSbmPuf.py), or can be downloaded directly from [CMS](https://www.cms.gov/CCIIO/Resources/Data-Resources/sbm-puf.html). Note: these files contain known errors. For example, at publication time, the D.C. files omit one of their two insurers. The SBM PUFs are *only* used for a few states with heavy data checking when other data sources are unavailable.
 
 ## Missing data
-At publication time, reliable insurer participation by county was not available for the following states: Maryland in 2014, Kentucky in 2014, California in 2015. We have ongoing public records requests in these states and will update this dataset if the data become available.
+Reliable insurer participation by county was not available for the following states: Kentucky in 2014, California in 2015. We have ongoing public records requests in these states and will update this dataset if the data become available.
 
 ## Methods
 ### Sources

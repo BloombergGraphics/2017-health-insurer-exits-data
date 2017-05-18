@@ -1,0 +1,36 @@
+state_code,issuer_id,issuer_name
+OR,10091,PacificSource Health Plans
+OR,32536,ATRIO Health Plans 
+OR,39424,"Moda Health Plan, Inc."
+OR,56707,Providence Health Plan
+OR,63474,BridgeSpan Health Company
+OR,71287,Kaiser Foundation Health Plan of the Northwest
+OR,85804,LifeWise Health Plan of Oregon
+OR,95417,"Trillium Community Health Plan, Inc."
+OR,96383,Health Republic Insurance Company
+OR,99389,"Community Care of Oregon, Inc."
+OR,10940,"Health Net Health Plan of Oregon, Inc"
+CO,11555,"New Health Ventures, Inc"
+CO,20472,"Colorado Health Insurance Cooperative, Inc."
+CO,21032,Kaiser Foundation Health Plan of Colorado
+CO,49375,Cigna Health and Life Insurance Company
+CO,63312,Colorado Choice Health Plans
+CO,66699,"Denver Health Medical Plan, Inc."
+CO,74320,"Humana Health Plan, Inc."
+CO,76680,HMO Colorado Inc.
+CO,92137,All Savers Insurance Company
+CO,97879,"Rocky Mountain Health Maintenance Organization, Inc."
+MN,49316,Blue Cross Blue Shield of Minnesota
+MN,65847,Medica Health Plans of Wisconsin
+MN,88102,PreferredOne Insurance Company
+MN,85736,UCare Minnesota
+MN,57129,HMO Minnesota dba Blue Plus
+MN,34102,"Group Health, Inc. dba HealthPartners"
+MD,28137,CareFirst BlueChoice Inc.
+MD,31112,"UnitedHealthcare of the Mid-Atlantic, Inc."
+MD,36677,All Savers Insurance Company
+MD,32812,Cigna Health and Life Insurance Company
+MD,45532,"CareFirst of Maryland, Inc"
+MD,72564,"Evergreen Health Cooperative, Inc."
+MD,90296,Kaiser Foundation Health Plan of the Mid-Atlantic States
+MD,94084,"Group Hospitalization and Medical Services, Inc."

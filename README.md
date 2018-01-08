@@ -4,7 +4,7 @@ This repo contains data and code used in an April 27, 2017 story, [Thousands of 
 
 The data comes from many sources including [data.healthcare.gov](https://data.healthcare.gov/), state based marketplaces, Centers for Medicare and Medicaid Services and System for Electronic Rates & Forms Filing documents. For a full list, see [sources.csv](sources.csv).
 
-A previous version of this dataset excluded data for renewing California enrollees in 2017. The total number of enrollees for California counties have been updated to reflect the change.
+A previous version of this dataset excluded county enrollment data for renewing California enrollees in 2017. The total number of enrollees for California counties have been updated to reflect the change.
 
 ## Files
 The [data](data/) folder includes 4 national files:

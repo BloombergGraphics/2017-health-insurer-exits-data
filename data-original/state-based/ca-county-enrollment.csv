@@ -1,59 +1,59 @@
 "year","fips_county","county_name","state_code","plan_selections_aptc","plan_selections_noaptc","plan_selections"
-2017,"06001","Alameda County","CA",14630,4060,18690
-2017,"06003","Alpine County","CA",10,0,10
-2017,"06005","Amador County","CA",310,50,360
-2017,"06007","Butte County","CA",1670,180,1850
-2017,"06009","Calaveras County","CA",410,50,460
-2017,"06011","Colusa County","CA",180,20,200
-2017,"06013","Contra Costa County","CA",9940,2280,12220
-2017,"06015","Del Norte County","CA",100,10,110
-2017,"06017","El Dorado County","CA",1780,270,2050
-2017,"06019","Fresno County","CA",6530,730,7260
-2017,"06021","Glenn County","CA",200,20,220
-2017,"06023","Humboldt County","CA",1190,180,1370
-2017,"06025","Imperial County","CA",4170,100,4270
-2017,"06027","Inyo County","CA",140,30,170
-2017,"06029","Kern County","CA",5120,580,5700
-2017,"06031","Kings County","CA",750,50,800
-2017,"06033","Lake County","CA",480,50,530
-2017,"06035","Lassen County","CA",100,10,110
-2017,"06037","Los Angeles County","CA",99170,23470,122640
-2017,"06039","Madera County","CA",1080,100,1180
-2017,"06041","Marin County","CA",2370,810,3180
-2017,"06043","Mariposa County","CA",130,20,150
-2017,"06045","Mendocino County","CA",790,140,930
-2017,"06047","Merced County","CA",2380,170,2550
-2017,"06049","Modoc County","CA",50,0,50
-2017,"06051","Mono County","CA",170,30,200
-2017,"06053","Monterey County","CA",3460,340,3800
-2017,"06055","Napa County","CA",1230,260,1490
-2017,"06057","Nevada County","CA",1350,250,1600
-2017,"06059","Orange County","CA",29030,6880,35910
-2017,"06061","Placer County","CA",3470,600,4070
-2017,"06063","Plumas County","CA",180,30,210
-2017,"06065","Riverside County","CA",17520,3560,21080
-2017,"06067","Sacramento County","CA",12900,1820,14720
-2017,"06069","San Benito County","CA",480,40,520
-2017,"06071","San Bernardino County","CA",14310,2550,16860
-2017,"06073","San Diego County","CA",29220,7400,36620
-2017,"06075","San Francisco County","CA",7960,3010,10970
-2017,"06077","San Joaquin County","CA",6400,830,7230
-2017,"06079","San Luis Obispo County","CA",2590,330,2920
-2017,"06081","San Mateo County","CA",5490,1640,7130
-2017,"06083","Santa Barbara County","CA",3730,610,4340
-2017,"06085","Santa Clara County","CA",13850,3920,17770
-2017,"06087","Santa Cruz County","CA",2590,660,3250
-2017,"06089","Shasta County","CA",1660,150,1810
-2017,"06091","Sierra County","CA",20,10,30
-2017,"06093","Siskiyou County","CA",290,40,330
-2017,"06095","Solano County","CA",3220,570,3790
-2017,"06097","Sonoma County","CA",4870,900,5770
-2017,"06099","Stanislaus County","CA",4260,570,4830
-2017,"06101","Sutter County","CA",940,60,1000
-2017,"06103","Tehama County","CA",510,40,550
-2017,"06105","Trinity County","CA",120,10,130
-2017,"06107","Tulare County","CA",2850,210,3060
-2017,"06109","Tuolumne County","CA",500,50,550
-2017,"06111","Ventura County","CA",8600,1330,9930
-2017,"06113","Yolo County","CA",1480,240,1720
-2017,"06115","Yuba County","CA",460,50,510
+2017,"06001","Alameda County","CA",53600,9950,63550
+2017,"06003","Alpine County","CA",40,10,50
+2017,"06005","Amador County","CA",1290,130,1420
+2017,"06007","Butte County","CA",6770,550,7320
+2017,"06009","Calaveras County","CA",1810,160,1970
+2017,"06011","Colusa County","CA",900,40,940
+2017,"06013","Contra Costa County","CA",36020,6000,42020
+2017,"06015","Del Norte County","CA",570,50,620
+2017,"06017","El Dorado County","CA",7520,930,8450
+2017,"06019","Fresno County","CA",22780,1560,24340
+2017,"06021","Glenn County","CA",880,40,920
+2017,"06023","Humboldt County","CA",5690,590,6280
+2017,"06025","Imperial County","CA",10710,170,10880
+2017,"06027","Inyo County","CA",610,80,690
+2017,"06029","Kern County","CA",16850,1140,17990
+2017,"06031","Kings County","CA",2360,130,2490
+2017,"06033","Lake County","CA",2020,170,2190
+2017,"06035","Lassen County","CA",450,30,480
+2017,"06037","Los Angeles County","CA",326820,53650,380470
+2017,"06039","Madera County","CA",4120,260,4380
+2017,"06041","Marin County","CA",10020,2640,12660
+2017,"06043","Mariposa County","CA",680,70,750
+2017,"06045","Mendocino County","CA",3910,460,4370
+2017,"06047","Merced County","CA",9660,430,10090
+2017,"06049","Modoc County","CA",240,10,250
+2017,"06051","Mono County","CA",840,120,960
+2017,"06053","Monterey County","CA",13030,1080,14110
+2017,"06055","Napa County","CA",4510,800,5310
+2017,"06057","Nevada County","CA",6210,850,7060
+2017,"06059","Orange County","CA",114530,16680,131210
+2017,"06061","Placer County","CA",13610,1620,15230
+2017,"06063","Plumas County","CA",870,60,930
+2017,"06065","Riverside County","CA",60920,7820,68740
+2017,"06067","Sacramento County","CA",43590,3750,47340
+2017,"06069","San Benito County","CA",1600,80,1680
+2017,"06071","San Bernardino County","CA",50730,5360,56090
+2017,"06073","San Diego County","CA",102680,17600,120280
+2017,"06075","San Francisco County","CA",29620,7520,37140
+2017,"06077","San Joaquin County","CA",22920,1860,24780
+2017,"06079","San Luis Obispo County","CA",11800,1180,12980
+2017,"06081","San Mateo County","CA",20690,4190,24880
+2017,"06083","Santa Barbara County","CA",15230,1790,17020
+2017,"06085","Santa Clara County","CA",50430,9390,59820
+2017,"06087","Santa Cruz County","CA",10940,1690,12630
+2017,"06089","Shasta County","CA",7030,500,7530
+2017,"06091","Sierra County","CA",110,10,120
+2017,"06093","Siskiyou County","CA",1410,110,1520
+2017,"06095","Solano County","CA",10600,1120,11720
+2017,"06097","Sonoma County","CA",19880,2780,22660
+2017,"06099","Stanislaus County","CA",16880,1330,18210
+2017,"06101","Sutter County","CA",3730,150,3880
+2017,"06103","Tehama County","CA",1960,120,2080
+2017,"06105","Trinity County","CA",560,40,600
+2017,"06107","Tulare County","CA",11010,450,11460
+2017,"06109","Tuolumne County","CA",2190,190,2380
+2017,"06111","Ventura County","CA",32360,3430,35790
+2017,"06113","Yolo County","CA",5280,660,5940
+2017,"06115","Yuba County","CA",1680,110,1790

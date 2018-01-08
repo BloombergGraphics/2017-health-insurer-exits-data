@@ -4,6 +4,8 @@ This repo contains data and code used in an April 27, 2017 story, [Thousands of 
 
 The data comes from many sources including [data.healthcare.gov](https://data.healthcare.gov/), state based marketplaces, Centers for Medicare and Medicaid Services and System for Electronic Rates & Forms Filing documents. For a full list, see [sources.csv](sources.csv).
 
+A previous version of this dataset excluded data for renewing California enrollees in 2017. The total number of enrollees for California counties have been updated to reflect the change.
+
 ## Files
 The [data](data/) folder includes 4 national files:
 * [county-enrollment.csv](data/county-enrollment.csv): plan selections by year and county
@@ -29,7 +31,7 @@ Insurer offerings from states using HealthCare.gov in a given year are calculate
 For all other states, data were gathered from files posted by state marketplaces and insurance divisions, insurer plan filings and from state agencies in response to data requests. Publicly posted files listing plan offerings or insurer participation by county were used wherever possible. For states that did not post this information, data requests were sent to state marketplaces and/or insurance oversight divisions. When states were unavailable to provide insurer participation by county, plan details were collected from public access approved SERFF health plan binders for 2014 and 2015 in states that made those filings available. Insurer service areas for 2016 for California, Colorado and Maryland were calculated using public use files published by the Centers for Medicare and Medicaid Services.
 
 ### Enrollment data
-2017 enrollment reflects total enrollment in a given county, regardless of insurer. Rhode Island, Massachusetts and Washington data reflects effectuated enrollment—customers who have paid monthly premiums. California enrollment data is rounded to the nearest 10, as provided by CoveredCA. Colorado enrollment data includes a special enrollment period made available to 2016 customers whose plan was discontinued in 2017. Minnesota enrollment data includes a one-week special enrollment period added after new premium relief subsidies were introduced in that state. In all other states, enrollment reflects total plan selections in the 2017 open enrollment period.
+2017 enrollment reflects total enrollment in a given county, regardless of insurer. California, Rhode Island, Massachusetts and Washington data reflects effectuated enrollment—customers who have paid monthly premiums. California enrollment data is rounded to the nearest 10, as provided by CoveredCA. Colorado enrollment data includes a special enrollment period made available to 2016 customers whose plan was discontinued in 2017. Minnesota enrollment data includes a one-week special enrollment period added after new premium relief subsidies were introduced in that state. In all other states, enrollment reflects total plan selections in the 2017 open enrollment period.
 
 In the 39 states using HealthCare.gov in 2017, enrollment is suppressed in counties with fewer than 50 enrollees—a total of 1,572 plan selections across 38 counties, representing 0.02 percent of all 2017 HealthCare.gov enrollments.
 

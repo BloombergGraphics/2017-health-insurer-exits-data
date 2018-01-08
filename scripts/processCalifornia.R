@@ -213,7 +213,8 @@ ca <- ca %>% select(year, state_code, rating_area, fips_county, county_name, iss
 write.csv(ca, "data-original/state-based/ca-insurers.csv", row.names = F, na = "")
 
 ####################################################################################
-# Enrollment from http://hbex.coveredca.com/data-research/library/CC_Open_Enrollment_Profile_2017.xlsx
+# Enrollment from 
+# 2017 March effectuated http://hbex.coveredca.com/data-research/library/active-member-profiles/12-13-17/CC_Membership_Profile_2017_09.xlsx
 
 # Source notes:
 # The Open Enrollment Profile shows counts of enrollees who have selected a plan through Covered California 
@@ -225,7 +226,7 @@ write.csv(ca, "data-original/state-based/ca-insurers.csv", row.names = F, na = "
 # and CalHEERS, which may be corrected in subsequent updates to the data.					
 ####################################################################################
 # 2017 county enrollment
-ca_enroll17 <- readWorkbook("documents/ca/CC_Open_Enrollment_Profile_2017.xlsx", sheet = "Statewide", rows = c(279:338), skipEmptyRows = T)
+ca_enroll17 <- readWorkbook("documents/ca/CC_Membership_Profile_2017_03.xlsx", sheet = "Statewide", rows = c(284:343), skipEmptyRows = T)
 
 # Format
 ca_enroll17 <- ca_enroll17 %>% rename(county_name = res_county, 
